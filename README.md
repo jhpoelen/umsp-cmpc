@@ -4,6 +4,11 @@
 
 This archive contains records related to the University of Minnesota Insect Collection https://insectcollection.umn.edu/ . This collection contains over 4M specimen mounted on slides, stuck on pins, or stored in viles. 
 
+# citation
+University of Minnesota Insect Collection (UMSP) CMPC Archive. 2021. hash://sha256/9da75fc73ac81bb81ea38a29206cc3dc29aefabf5d70403c6afa237464150c7b Also see https://insectcollection.umn.edu/ . 
+
+# example usage
+
 As an example, a [log of collection transactions from a 2021 CMPC archive](./umsp-cmpc-transactions-up-to-2021.csv) (see also [umsp-cmpc-transactions-up-to-2021.csv](./umsp-cmpc-transactions-up-to-2021.csv) was generated using:
 
 ```
