@@ -1,0 +1,60 @@
+
+       University of Minnesota Insect Collection Management System.
+
+CLASS/ORDER UPDATE SUMMARY ON 2018.12.19 AT 11:38:55                Page  1
+
+CL ORDER          DET     UND    TY    2T  %DET   TOTAL  SPEC
+
+AR ARANEI           0       1     0     0   0.0       1     1
+   TOTAL AR         0       1     0     0   0.0       1     1
+
+CR DECAPO           0       1     0     0   0.0       1     0
+   TOTAL CR         0       1     0     0   0.0       1     0
+
+IN BLATTO          -1       1     0     0   0.0       0     0
+IN COLEOP        8023   -2045     0     0 100.0    5978     3
+IN DERMAP           0       5     0     0   0.0       5     0
+IN DIPTER        9018   -5766     0     0 100.0    3252    37
+IN HEMIPT         587     -32     0     0 100.0     555     9
+IN HYMENO       10736      75     0     0  99.3   10811    15
+IN LEPIDO         311     197     0     0  61.2     508     7
+IN MECOPT           3       0     0     0 100.0       3     0
+IN MEGALO           4       1     0     0  80.0       5     0
+IN NEUROP          29      -9     0     0 100.0      20     1
+IN ODONAT           0       4     0     0   0.0       4     0
+IN ORTHOP          82      29     0     0  73.9     111     1
+IN PHASMA           0       4     0     0   0.0       4     0
+IN PLECOP           0       1     0     0   0.0       1     0
+IN PSOCOP           0       2     0     0   0.0       2     0
+IN SIPHON         116       2     0     0  98.3     118     1
+IN TRICHO         323     198     0     2  62.0     521    48
+   TOTAL IN     29231   -7333     0     2 100.0   21898   122
+
+UPDATE TOTALS   29231   -7331     0     2 133.5   21900   123
+
+UPDATE SUMMARY BY STORAGE METHOD
+   PINNED       28672   -7524     0     0   136   21148
+   VIALS          432     192     0     2  69.2     624
+   SLIDES         127       1     0     0  99.2     128
+
+       University of Minnesota Insect Collection Management System.
+
+UPDATE EVALUATION ON 2018.12.19 AT 11:38:59                         Page  1
+
+    RC# CL ORDER  FAMILY               PROBLEM
+
+     20 IN DIPTER STRONGYLOPHTHALMYIID 0 SP WITH >0 DET OR TY VALUES
+    490 IN LEPIDO DALCERIDAE           0 SP WITH >0 DET OR TY VALUES
+    437 IN SIPHON HYSTRICHOPSYLLIDAE   MISSING P LOC WITH DET OR TYPES
+
+  710 RECORDS PROCESSED         3 ERRORS DETECTED
+
+UPDATE EVALUATION COMPLETE
+
+
+     MERGE OF UPDATE INTO INVENTORY COMPLETE --
+           ORIGINAL UPDATE FILE RENAMED up81219.SAV
+           ORIGINAL INVENTORY FILE RENAMED in81219.SAV
+           A NEW EMPTY FILE HAS BEEN CREATED FOR FUTURE UPDATES.
+
+     SAVE ALL UPDATE SUMMARY AND EVALUATION PAGES FOR YOUR RECORDS.

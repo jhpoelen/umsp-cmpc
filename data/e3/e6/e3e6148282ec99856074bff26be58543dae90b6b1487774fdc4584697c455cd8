@@ -1,0 +1,50 @@
+
+       University of Minnesota Insect Collection Management System.
+
+CLASS/ORDER UPDATE SUMMARY ON 2020.12.11 AT 09:26:15                Page  1
+
+CL ORDER          DET     UND    TY    2T  %DET   TOTAL  SPEC
+
+AR ARANEI           0       6     0     0   0.0       6     0
+   TOTAL AR         0       6     0     0   0.0       6     0
+
+IN ANOPLU          -3       0     0     0   0.0      -3     0
+IN COLEOP        3100     517     0     0  85.7    3617    33
+IN DERMAP           0      78     0     0   0.0      78     0
+IN DIPTER         300     -71     0    -1 100.0     229     5
+IN HEMIPT           9      47     1     5  16.1      56     3
+IN HYMENO       18025    3233     0     0  84.8   21258    19
+IN LEPIDO           8       6     0     0  57.1      14     0
+IN NEUROP           0       6     0     0   0.0       6     0
+IN ORTHOP           0       9     0     0   0.0       9     0
+IN THYSAN           1       0     0     0 100.0       1     0
+IN TRICHO         367      35     0    18  91.3     402    19
+   TOTAL IN     21807    3860     1    22  85.0   25667    79
+
+UPDATE TOTALS   21807    3866     1    22  84.9   25673    79
+
+UPDATE SUMMARY BY STORAGE METHOD
+   PINNED       21732    3866     1     4    85   25598
+   VIALS           78       0     0    18 100.0      78
+   SLIDES          -3       0     0     0   0.0      -3
+
+       University of Minnesota Insect Collection Management System.
+
+UPDATE EVALUATION ON 2020.12.11 AT 09:26:18                         Page  1
+
+    RC# CL ORDER  FAMILY               PROBLEM
+
+    111 IN COLEOP ?COLEOPTERA          MISSING P LOC WITH DET OR TYPES
+     23 IN HYMENO CEPHIDAE             UPDATE RESULTS IN NEG P VALUES
+     45 IN HYMENO GASTERUPTIIDAE       UPDATE RESULTS IN NEG P VALUES
+     48 IN HYMENO GASTERUPTIIDAE       UPDATE RESULTS IN NEG P VALUES
+     57 IN HYMENO GASTERUPTIIDAE       UPDATE RESULTS IN NEG P VALUES
+     85 IN HYMENO ORMYRIDAE            0 SP WITH >0 DET OR TY VALUES
+
+  250 RECORDS PROCESSED         6 ERRORS DETECTED
+
+UPDATE EVALUATION COMPLETE
+
+
+     MERGE OF UPDATE INTO INVENTORY ABORTED!
+           INVENTORY DATABASE NOT CHANGED.

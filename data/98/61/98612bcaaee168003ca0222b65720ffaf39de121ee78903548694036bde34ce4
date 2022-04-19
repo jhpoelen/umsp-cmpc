@@ -1,0 +1,89 @@
+
+       University of Minnesota Insect Collection Management System.
+
+CLASS/ORDER UPDATE SUMMARY ON 2017.12.15 AT 13:22:03                Page  1
+
+CL ORDER          DET     UND    TY    2T  %DET   TOTAL  SPEC
+
+AR ACARIN           0     829     0     0   0.0     829     0
+AR ARANEI           0     212     0     0   0.0     212     0
+AR CHELON           0      38     0     0   0.0      38     0
+AR PEDIPA           0       6     0     0   0.0       6     0
+AR PHALAN           0       9     0     0   0.0       9     0
+AR SCORPI           0      22     0     0   0.0      22     0
+AR SOLPUG           0       3     0     0   0.0       3     0
+   TOTAL AR         0    1119     0     0   0.0    1119     0
+
+CH ?CHILO           0      10     0     0   0.0      10     0
+   TOTAL CH         0      10     0     0   0.0      10     0
+
+CR DECAPO           0       5     0     0   0.0       5     0
+CR ISOPOD           0      58     0     0   0.0      58     0
+   TOTAL CR         0      63     0     0   0.0      63     0
+
+DI ?DIPLO           0       6     0     0   0.0       6     0
+   TOTAL DI         0       6     0     0   0.0       6     0
+
+IN ARCHAE           6      -5     0     0 100.0       1     0
+IN BLATTO           1       0     0     0 100.0       1     0
+IN COLEOP        1833     459     0     0  80.0    2292    15
+IN COLLEM           0     368     0     0   0.0     368     0
+IN DERMAP           2      26     0     0   7.1      28     0
+IN DIPTER        6624   -2395     0     0 100.0    4229    38
+IN EMBIOP           0       3     0     0   0.0       3     0
+IN EPHEME           6      45     0     0  11.8      51     0
+IN HEMIPT        1954    1230     0     0  61.4    3184     7
+IN HYMENO        4504    2377     0     1  65.5    6881    15
+IN ISOPTE           0      41     0     0   0.0      41     0
+IN LEPIDO        3021    1901     0     0  61.4    4922    83
+IN MECOPT          20      18     0     0  52.6      38     0
+IN MEGALO           9       3     0     0  75.0      12     0
+IN NEUROP          30      32     0     0  48.4      62     6
+IN ODONAT           7      30     0     0  18.9      37     0
+IN ORTHOP         799     533     0     0  60.0    1332    16
+IN PHASMA           3       0     0     0 100.0       3     0
+IN PLECOP          58     108     0     0  34.9     166     0
+IN PSOCOP           0     175     0     0   0.0     175     0
+IN THYSAN           3     232     0     0   1.3     235     1
+IN TRICHO        3386    1189    13   718  74.0    4575    37
+   TOTAL IN     22266    6370    13   719  77.8   28636   218
+
+UPDATE TOTALS   22266    7568    13   719  74.6   29834   218
+
+UPDATE SUMMARY BY STORAGE METHOD
+   PINNED       19201    6019    10   236    76   25220
+   VIALS         3033    1550     3   483  66.2    4583
+   SLIDES          32      -1     0     0 103.2      31
+
+       University of Minnesota Insect Collection Management System.
+
+UPDATE EVALUATION ON 2017.12.15 AT 13:22:04                         Page  1
+
+    RC# CL ORDER  FAMILY               PROBLEM
+
+    563 AR ARANEI THERAPHOSIDAE        0 SP WITH >0 DET OR TY VALUES
+     25 IN DIPTER RICHARDIIDAE         UPDATE RESULTS IN NEG P VALUES
+Numeric overflow (data may have been lost)
+
+
+ 1360 RECORDS PROCESSED         2 ERRORS DETECTED
+
+UPDATE EVALUATION COMPLETE
+
+
+     MERGE OF UPDATE INTO INVENTORY COMPLETE --
+           ORIGINAL UPDATE FILE RENAMED up71215.SAV
+           ORIGINAL INVENTORY FILE RENAMED in71215.SAV
+           A NEW EMPTY FILE HAS BEEN CREATED FOR FUTURE UPDATES.
+
+     SAVE ALL UPDATE SUMMARY AND EVALUATION PAGES FOR YOUR RECORDS.
+       University of Minnesota Insect Collection Management System.
+
+            RET INVENTORY ADDITIONS ON 2017.12.15 AT 13:23:59
+
+
+REC# ORDER  FAMILY                  STOR    DET    UND   TY   2T  NEW_SP
+
+
+
+   1 RECORD(S) ADDED, FINISH TIME = 13:24:15 -- GIVE THIS SHEET TO CURATOR

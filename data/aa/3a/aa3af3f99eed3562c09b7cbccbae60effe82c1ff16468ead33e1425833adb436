@@ -1,0 +1,265 @@
+
+       University of Minnesota Insect Collection Management System.
+
+CLASS/ORDER INVENTORY SUMMARY ON 2015.12.01 AT 11:12:54             Page  1
+
+CL ORDER                    DET     UND   TY    2T  %DET    TOTAL   SPEC
+
+AR ACARINA               486308  166293   18    43  74.5   652601    244
+AR ARANEIDA                5409    7874    2     2  40.7    13283    339
+AR CHELONETHIDA              23     149    0     0  13.4      172      5
+AR PEDIPALPIDA                2       9    0     0  18.2       11      2
+AR PHALANGIDA               100     128    0     0  43.9      228     11
+AR SCORPIONIDA               60      48    0     0  55.6      108     22
+AR SOLPUGIDA                 12      24    0     0  33.3       36      7
+        TOTAL AR         491914  174525   20    45  73.8   666439    630
+
+CH ?CHILOPODA                 0     155    0     0   0.0      155      0
+CH GEOPHILOMORPHA             0       5    0     0   0.0        5      0
+CH LITHOBIOMORPHA             0      30    0     0   0.0       30      0
+CH SCOLOPENDROMORPHA          7       6    0     0  53.8       13      5
+CH SCUTIGEROMORPHA            2      19    0     0   9.5       21      1
+        TOTAL CH              9     215    0     0   4.0      224      6
+
+CR AMPHIPODA                856      11    0     0  98.7      867      3
+CR ANOSTRACA                  6       0    0     0 100.0        6      4
+CR BRANCHIURA                65      12    0     0  84.4       77      3
+CR CYCLOPOIDA                63       0    0     0 100.0       63      1
+CR DECAPODA                   8      11    0     0  42.1       19      3
+CR ISOPODA                  345     101    0     0  77.4      446     11
+CR OSTRACODA                  0     110    0     0   0.0      110      0
+        TOTAL CR           1343     245    0     0  84.6     1588     25
+
+DI ?DIPLOPODA                 2      46    0     0   4.2       48      2
+DI CHORDEUMIDEA              31       0    0     0 100.0       31      2
+DI JULIDA                   298      49    0     0  85.9      347     10
+DI POLYDESMIDA              259      37    0     0  87.5      296     14
+DI POLYXENIDA                 2       0    0     0 100.0        2      0
+DI SPIROBOLIDA               20      11    0     0  64.5       31      2
+        TOTAL DI            612     143    0     0  81.1      755     30
+
+IN ANOPLURA               13427     472    2   618  96.6    13899    167
+IN ARCHAEOGNATHA             54      53    0     0  50.5      107      0
+IN BLATTODEA                647     359    0     0  64.3     1006     29
+IN COLEOPTERA            373324  188096   22   977  66.5   561420  15068
+IN COLLEMBOLA            122043   43864  141    15  73.6   165907     99
+IN DERMAPTERA               643     636    0     0  50.3     1279     13
+IN DIPLURA                    6      64    0     0   8.6       70      1
+IN DIPTERA               255980  243757  178  6072  51.2   499737   6005
+IN EMBIOPTERA                37      53    0     0  41.1       90      2
+IN EPHEMEROPTERA          12255   10731    9   405  53.3    22986    192
+IN HEMIPTERA             317707  214915 1153  4433  59.6   532622   4065
+IN HYMENOPTERA           165669   99704  353  6546  62.4   265373   6891
+IN ISOPTERA                2587    1371    0     0  65.4     3958     23
+IN LEPIDOPTERA           142019   24186    8   511  85.4   166205  10983
+IN MALLOPHAGA            238752    3041   47 10348  98.7   241793   1376
+       University of Minnesota Insect Collection Management System.
+
+CLASS/ORDER INVENTORY SUMMARY ON 2015.12.01 AT 11:12:54             Page  2
+
+CL ORDER                    DET     UND   TY    2T  %DET    TOTAL   SPEC
+
+IN MANTOPHASMATODE            0       1    0     0   0.0        1      0
+IN MECOPTERA                815     395    0     0  67.4     1210     41
+IN MEGALOPTERA             1382     514    2    85  72.9     1896     50
+IN NEUROPTERA              3604    2327    0     4  60.8     5931    198
+IN ODONATA                 9936    1894    0     0  84.0    11830    457
+IN ORTHOPTERA             31276    9629    2    28  76.5    40905    745
+IN PLECOPTERA             13443    1647    2   102  89.1    15090    161
+IN PROTURA                    0       3    0     0   0.0        3      0
+IN PSOCOPTERA               821    6904    0     0  10.6     7725     29
+IN RAPHIDIOPTERA             21     114    0     0  15.6      135      3
+IN SIPHONAPTERA            5573     471    2    20  92.2     6044    163
+IN STREPSIPTERA              15      29    0     0  34.1       44      3
+IN THYSANOPTERA            4523   11164   24   449  28.8    15687   1141
+IN THYSANURA                101     263    0     0  27.7      364      2
+IN TRICHOPTERA           446117  175210  180 *****  71.8   621327   2615
+IN ZORAPTERA                 94       0    0     0 100.0       94      1
+        TOTAL IN        2162871 1041867 2125 *****  67.5  3204738  50523
+
+ME XIPHOSURA                  4       0    0     0 100.0        4      1
+        TOTAL ME              4       0    0     0 100.0        4      1
+
+ON MALACOPODA                 1       3    0     0  25.0        4      1
+        TOTAL ON              1       3    0     0  25.0        4      1
+
+PA ?PAUROPODA                 0       4    0     0   0.0        4      0
+PA TETRAMEROCERATA            0       1    0     0   0.0        1      0
+        TOTAL PA              0       5    0     0   0.0        5      0
+
+PE POROCEPHALIDA              3      14    0     0  17.6       17      1
+        TOTAL PE              3      14    0     0  17.6       17      1
+
+PY ?PYCHNOGONIDA              5       0    0     0 100.0        5      1
+        TOTAL PY              5       0    0     0 100.0        5      1
+
+SY CEPHALOSTIGMATA           19       6    0     0  76.0       25      1
+        TOTAL SY             19       6    0     0  76.0       25      1
+
+TR ?TRILOBITA                 5       0    0     0 100.0        5      1
+        TOTAL TR              5       0    0     0 100.0        5      1
+
+COLLECTION TOTALS       2656786 1217023 2145 *****  68.6  3873809  51220
+
+INVENTORY SUMMARY BY STORAGE METHOD
+
+        PINNED          1020452  498390  584 18668  67.2  1518842
+        VIALS           1162458  569614  100 *****  67.1  1732072
+        SLIDES           473876  149019 1461 17647  76.1   622895
+      University of Minnesota Insect Collection Management System.
+
+INVENTORY UPDATES AS OF 2015.12.01 AT 11:13:11                     Page   1
+
+                                  UNRESTRICTED
+
+REC#  ORDER  FAMILY                  STOR   DET   UND  TY   2T   SP   DATE   BY
+
+   1  COLEOP CIIDAE                    P      0     3   0    0      15.10.01 RET
+   2  COLEOP CIIDAE                    V      0     2   0    0      15.10.01 RET
+   3  COLEOP CISIDAE                   P      0    -3   0    0      15.10.01 RET
+   4  COLEOP CISIDAE                   V      0    -2   0    0      15.10.01 RET
+   5  DIPTER CUTEREBRIDAE              P    -80    -5  -1    0      15.10.01 RET
+   6  DIPTER CUTEREBRIDAE              V    -13   -27   0    0      15.10.01 RET
+   7  DIPTER CUTEREBRIDAE              S    -25     0   0    0      15.10.01 RET
+   8  DIPTER GASTEROPHILIDAE           P    -23   -30   0    0      15.10.01 RET
+   9  DIPTER GASTEROPHILIDAE           V   -324   -25   0    0      15.10.01 RET
+  10  DIPTER GASTEROPHILIDAE           S     -4     0   0    0      15.10.01 RET
+  11  DIPTER OTITIDAE                  P  -1034  -215   0    0      15.10.01 RET
+  12  DIPTER OTITIDAE                  V   -215   -53   0    0      15.10.01 RET
+  13  HEMIPT MACROVELIIDAE             -                          1 15.10.01 RET
+  14  HEMIPT ISSIDAE                   P      0   126   0    0      15.10.01 RET
+  15  HEMIPT ISSIDAE                   -                          1 15.10.01 RET
+  16  HEMIPT DICTYOPHARIDAE            P      0   378   0    0      15.10.01 RET
+  17  HYMENO ANDRENIDAE                P      0  1636   0    0      15.10.01 RET
+  18  ARCHAE MACHILIDAE                V    -54    54   0    0      15.10.01 RET
+  19  HYMENO SPHECIDAE                 P     11     0   0    0      15.10.23 RET
+  20  ORTHOP TETTIGONIIDAE             P     14   -12   0    0      15.10.23 RET
+  21  ARCHAE MACHILIDAE                P     22    -8   0    0      15.10.23 RET
+  22  ARCHAE MEINERTELLIDAE            P      0     1   0    0      15.10.23 RET
+  23  DIPTER CHIRONOMIDAE              S    102    68   0    4      15.10.23 RET
+  24  DIPTER CHIRONOMIDAE              -                          3 15.10.23 RET
+  25  DIPTER SYRPHIDAE                 P   1209 -1211   0    0      15.10.23 RET
+  26  DIPTER SYRPHIDAE                 -                         -3 15.10.23 RET
+  27  HYMENO TORYMIDAE                 P      0     1   0    0      15.10.23 RET
+  28  TRICHO ANOMALOPSYCHIDAE          P      3     2   0    0      15.10.23 RET
+  29  TRICHO ANOMALOPSYCHIDAE          -                          1 15.10.23 RET
+  30  TRICHO CALAMOCERATIDAE           P      2    14   0    0      15.10.23 RET
+  31  TRICHO GLOSSOSOMATIDAE           P    278    52   0    0      15.10.23 RET
+  32  TRICHO GLOSSOSOMATIDAE           -                          1 15.10.23 RET
+  33  TRICHO HELICOPSYCHIDAE           P     41    37   0    0      15.10.23 RET
+  34  TRICHO HYDROBIOSIDAE             P     39     7   0    0      15.10.23 RET
+  35  TRICHO HYDROBIOSIDAE             -                          1 15.10.23 RET
+  36  TRICHO LIMNEPHILIDAE             P      1     0   0    0      15.10.23 RET
+  37  TRICHO HYDROPSYCHIDAE            P    726    93   0    0      15.11.23 RET
+  38  TRICHO HYDROPSYCHIDAE            -                          3 15.11.23 RET
+  39  TRICHO HYDROPTILIDAE             P     48    70   0    0      15.11.23 RET
+  40  TRICHO HYDROPTILIDAE             -                          2 15.11.23 RET
+  41  TRICHO LEPTOCERIDAE              P    185    60   0    0      15.11.23 RET
+  42  TRICHO LEPTOCERIDAE              -                          1 15.11.23 RET
+  43  TRICHO ODONTOCERIDAE             P      0     9   0    0      15.11.23 RET
+  44  TRICHO PHILOPOTAMIDAE            P    155    26   0    0      15.11.23 RET
+  45  TRICHO POLYCENTROPODIDAE         P     14    10   0    0      15.11.23 RET
+  46  TRICHO POLYCENTROPODIDAE         -                          1 15.11.23 RET
+      University of Minnesota Insect Collection Management System.
+
+INVENTORY UPDATES AS OF 2015.12.01 AT 11:13:11                     Page   2
+
+                                  UNRESTRICTED
+
+REC#  ORDER  FAMILY                  STOR   DET   UND  TY   2T   SP   DATE   BY
+
+  47  HYMENO VESPIDAE                  P      1     0   0    0      15.11.23 RET
+  48  COLEOP CARABIDAE                 P      1     0   0    0      15.11.23 RET
+  49  DIPTER SYRPHIDAE                 P    608  -610   0    0      15.11.23 RET
+  50  HEMIPT BELOSTOMATIDAE            P      0     3   0    0      15.11.23 RET
+  51  HEMIPT NOTONECTIDAE              P      0     3   0    0      15.11.23 RET
+  52  HEMIPT CORIMELAENIDAE            P      0     4   0    0      15.11.23 RET
+  53  HEMIPT MEMBRACIDAE               P      0     2   0    0      15.11.23 RET
+  54  HEMIPT LYGAEIDAE                 P      3     0   0    0      15.11.23 RET
+  55  HEMIPT RHOPALIDAE                P      1     1   0    0      15.11.23 RET
+  56  HEMIPT CERCOPIDAE                P      3     0   0    0      15.11.23 RET
+  57  HEMIPT PSYLLIDAE                 P      0     5   0    0      15.11.23 RET
+  58  ORTHOP GRYLLACRIDAE              P      0     3   0    0      15.11.23 RET
+  59  ORTHOP ACRIDIDAE                 P      1     1   0    0      15.11.23 RET
+  60  ORTHOP GRYLLIDAE                 P      0     1   0    0      15.11.23 RET
+  61  PSOCOP TROGIIDAE                 P      2     0   0    0      15.11.23 RET
+  62  PSOCOP TROGIIDAE                 -                          1 15.11.23 RET
+  63  ODONAT COENAGRIONIDAE            P      0     2   0    0      15.11.23 RET
+  64  DIPTER SYRPHIDAE                 -                          2 15.11.23 RET
+  65  LEPIDO NYMPHALIDAE               P     22    10   0    0      15.11.23 RET
+  66  LEPIDO SATYRIDAE                 P      2     0   0    0      15.11.23 RET
+  67  LEPIDO PIERIDAE                  P     10     0   0    0      15.11.23 RET
+  68  LEPIDO LYCAENIDAE                P      1     0   0    0      15.11.23 RET
+  69  LEPIDO PAPILIONIDAE              P      1     0   0    0      15.11.23 RET
+  70  LEPIDO PAPILIONIDAE              -                          1 15.11.23 RET
+  71  DIPTER PIPUNCULIDAE              P      2    21   0    1      15.11.23 RET
+  72  DIPTER PIPUNCULIDAE              -                          2 15.11.23 RET
+  73  DIPTER MUSCIDAE                  P      0    40   0    0      15.11.25 RET
+  74  DIPTER HIPPOBOSCIDAE             P      0     1   0    0      15.11.25 RET
+  75  DIPTER RHINOPHORIDAE             P     18    64   0    0      15.11.25 RET
+  76  DIPTER CALLIPHORIDAE             P      1   307   0    0      15.11.25 RET
+  77  DIPTER LONCHOPTERIDAE            P      0    18   0    0      15.11.25 RET
+  78  DIPTER PLATYPEZIDAE              P      0     3   0    0      15.11.25 RET
+  79  DIPTER PHORIDAE                  P      0    36   0    0      15.11.25 RET
+  80  DIPTER CONOPIDAE                 P     21    76   0    0      15.11.25 RET
+  81  DIPTER MICROPEZIDAE              P      4    38   0    0      15.11.25 RET
+  82  DIPTER DIOPSIDAE                 P      3     0   0    0      15.11.25 RET
+  83  DIPTER LONCHAEIDAE               P      0    35   0    0      15.11.25 RET
+  84  DIPTER PSILIDAE                  P      0    18   0    0      15.11.25 RET
+  85  DIPTER RHINOPHORIDAE             -                          1 15.11.25 RET
+  86  DIPTER OESTRIDAE                 P      0    -1   0    0      15.11.25 RET
+  87  DIPTER SCATHOPHAGIDAE            P      0     1   0    0      15.11.25 RET
+  88  COLEOP ELATERIDAE                P      0    -2   0    0      15.11.25 RET
+  89  COLEOP RHIPICERIDAE              P      0     2   0    0      15.11.25 RET
+  90  DIPTER SYRPHIDAE                 P     60   -60   0    0      15.11.25 RET
+
+      UPDATE TOTAL FOR STORAGE         P   2376  1063  -1    1
+      UPDATE TOTAL FOR STORAGE         V   -606   -51   0    0
+      UPDATE TOTAL FOR STORAGE         S     73    68   0    4
+           TOTAL UPDATE                -   1843  1080  -1    5   19
+       University of Minnesota Insect Collection Management System.
+
+CLASS/ORDER UPDATE SUMMARY ON 2015.12.01 AT 11:14:02                Page  1
+
+CL ORDER          DET     UND    TY    2T  %DET   TOTAL  SPEC
+
+IN ARCHAE         -32      47     0     0  -213      15     0
+IN COLEOP           1       0     0     0 100.0       1     0
+IN DIPTER         310   -1511    -1     5   0.0   -1201     5
+IN HEMIPT           7     522     0     0   1.3     529     2
+IN HYMENO          12    1637     0     0   0.7    1649     0
+IN LEPIDO          36      10     0     0  78.3      46     1
+IN ODONAT           0       2     0     0   0.0       2     0
+IN ORTHOP          15      -7     0     0 100.0       8     0
+IN PSOCOP           2       0     0     0 100.0       2     1
+IN TRICHO        1492     380     0     0  79.7    1872    10
+   TOTAL IN      1843    1080    -1     5  63.1    2923    19
+
+UPDATE TOTALS    1843    1080    -1     5  63.1    2923    19
+
+UPDATE SUMMARY BY STORAGE METHOD
+   PINNED        2376    1063    -1     1    69    3439
+   VIALS         -606     -51     0     0   0.0    -657
+   SLIDES          73      68     0     4  51.8     141
+
+       University of Minnesota Insect Collection Management System.
+
+UPDATE EVALUATION ON 2015.12.01 AT 11:14:05                         Page  1
+
+    RC# CL ORDER  FAMILY               PROBLEM
+
+     21 IN ARCHAE MACHILIDAE           0 SP WITH >0 DET OR TY VALUES
+     58 IN ORTHOP GRYLLACRIDAE         MISSING P LOC WITH DET OR TYPES
+     61 IN PSOCOP TROGIIDAE            0 SP WITH >0 DET OR TY VALUES
+
+   90 RECORDS PROCESSED         3 ERRORS DETECTED
+
+UPDATE EVALUATION COMPLETE
+
+
+     MERGE OF UPDATE INTO INVENTORY COMPLETE --
+           ORIGINAL UPDATE FILE RENAMED up51201.SAV
+           ORIGINAL INVENTORY FILE RENAMED in51201.SAV
+           A NEW EMPTY FILE HAS BEEN CREATED FOR FUTURE UPDATES.
+
+     SAVE ALL UPDATE SUMMARY AND EVALUATION PAGES FOR YOUR RECORDS.

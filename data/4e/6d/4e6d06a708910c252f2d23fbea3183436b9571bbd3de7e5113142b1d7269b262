@@ -1,0 +1,33 @@
+
+       University of Minnesota Insect Collection Management System.
+
+CLASS/ORDER UPDATE SUMMARY ON 2015.10.01 AT 12:45:41                Page  1
+
+CL ORDER          DET     UND    TY    2T  %DET   TOTAL  SPEC
+
+IN ARCHAE         -54      54     0     0   0.0       0     0
+IN COLEOP           0       0     0     0   0.0       0     0
+IN DIPTER       -1718    -355    -1     0   0.0   -2073     0
+IN HEMIPT           0     504     0     0   0.0     504     2
+IN HYMENO           0    1636     0     0   0.0    1636     0
+   TOTAL IN     -1772    1839    -1     0 -2645      67     2
+
+UPDATE TOTALS   -1772    1839    -1     0 -2645      67     2
+
+UPDATE SUMMARY BY STORAGE METHOD
+   PINNED       -1137    1890    -1     0  -151     753
+   VIALS         -606     -51     0     0   0.0    -657
+   SLIDES         -29       0     0     0   0.0     -29
+
+       University of Minnesota Insect Collection Management System.
+
+UPDATE EVALUATION ON 2015.10.01 AT 12:45:42                         Page  1
+
+    RC# CL ORDER  FAMILY               PROBLEM
+
+
+   18 RECORDS PROCESSED         0 ERRORS DETECTED
+
+UPDATE EVALUATION COMPLETE
+
+

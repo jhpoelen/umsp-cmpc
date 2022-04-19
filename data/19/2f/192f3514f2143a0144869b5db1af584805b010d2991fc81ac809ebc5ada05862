@@ -1,0 +1,70 @@
+
+       University of Minnesota Insect Collection Management System.
+
+CLASS/ORDER UPDATE SUMMARY ON 2022.01.11 AT 14:16:42                Page  1
+
+CL ORDER          DET     UND    TY    2T  %DET   TOTAL  SPEC
+
+AR ARANEI           0       1     0     0   0.0       1     0
+   TOTAL AR         0       1     0     0   0.0       1     0
+
+IN ARCHAE           0       2     0     0   0.0       2     0
+IN BLATTO          13       0     0     0 100.0      13     0
+IN COLEOP         755    -308     0     0 100.0     447    -1
+IN DERMAP           2       1     0     0  66.7       3     0
+IN DIPTER         195    8222     2    10   2.3    8417    12
+IN EMBIOP           0       3     0     0   0.0       3     0
+IN EPHEME           0       2     0     0   0.0       2     0
+IN HEMIPT          31      53     0     0  36.9      84     0
+IN HYMENO       13868    2179     0     0  86.4   16047    46
+IN ISOPTE           0       1     0     0   0.0       1     0
+IN LEPIDO         124       4     0     0  96.9     128     5
+IN MANTOD           0       1     0     0   0.0       1     0
+IN MECOPT           7       0     0     0 100.0       7     0
+IN MEGALO        5735    1041     0     0  84.6    6776     0
+IN NEUROP          15     193     0     0   7.2     208     0
+IN ODONAT         230     577     0     0  28.5     807     0
+IN ORTHOP           3       2     0     0  60.0       5     0
+IN PHASMA           3       0     0     0 100.0       3     0
+IN PLECOP           1       1     0     0  50.0       2     1
+IN PSOCOP           0       3     0     0   0.0       3     0
+IN SIPHON           2       0     0     0 100.0       2     0
+IN TRICHO          10       0     0     0 100.0      10     0
+   TOTAL IN     20994   11977     2    10  63.7   32971    63
+
+UPDATE TOTALS   20994   11978     2    10  63.7   32972    63
+
+UPDATE SUMMARY BY STORAGE METHOD
+   PINNED       14888    2064     0     1    88   16952
+   VIALS         6052    9150     0     0  39.8   15202
+   SLIDES          54     764     2     9   6.6     818
+
+       University of Minnesota Insect Collection Management System.
+
+UPDATE EVALUATION ON 2022.01.11 AT 14:16:43                         Page  1
+
+    RC# CL ORDER  FAMILY               PROBLEM
+
+     24 IN MECOPT MEROPEIDAE           UPDATE RESULTS IN NEG P VALUES
+
+  333 RECORDS PROCESSED         1 ERRORS DETECTED
+
+UPDATE EVALUATION COMPLETE
+
+
+     MERGE OF UPDATE INTO INVENTORY COMPLETE --
+           ORIGINAL UPDATE FILE RENAMED up20111.SAV
+           ORIGINAL INVENTORY FILE RENAMED in20111.SAV
+           A NEW EMPTY FILE HAS BEEN CREATED FOR FUTURE UPDATES.
+
+     SAVE ALL UPDATE SUMMARY AND EVALUATION PAGES FOR YOUR RECORDS.
+       University of Minnesota Insect Collection Management System.
+
+            RET INVENTORY ADDITIONS ON 2022.01.11 AT 14:17:42
+
+
+REC# ORDER  FAMILY                  STOR    DET    UND   TY   2T  NEW_SP
+
+
+
+   1 RECORD(S) ADDED, FINISH TIME = 14:18:20 -- GIVE THIS SHEET TO CURATOR

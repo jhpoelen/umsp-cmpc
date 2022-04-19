@@ -1,0 +1,72 @@
+
+       University of Minnesota Insect Collection Management System.
+
+CLASS/ORDER UPDATE SUMMARY ON 2012.12.18 AT 09:32:48                Page  1
+
+CL ORDER          DET     UND    TY    2T  %DET   TOTAL  SPEC
+
+AR ACARIN           0       3     0     0   0.0       3     0
+   TOTAL AR         0       3     0     0   0.0       3     0
+
+CR ISOPOD           0       1     0     0   0.0       1     0
+   TOTAL CR         0       1     0     0   0.0       1     0
+
+IN COLEOP         241    1333     0     0  15.3    1574     0
+IN CORROD           0       1     0     0   0.0       1     0
+IN DIPTER          60      80     0     0  42.9     140     0
+IN EPHEME           0      36     0     0   0.0      36     0
+IN HEMIPT         129       6     0     0  95.6     135     0
+IN HOMOPT        3311   -3097     0     0 100.0     214   -10
+IN HYMENO         449     589     0     0  43.3    1038    22
+IN LEPIDO          86     113     0     0  43.2     199    10
+IN MALLOP          21       0     1    20 100.0      21     1
+IN MECOPT           9      -4     0     0 100.0       5     2
+IN NEUROP          40       3     0     0  93.0      43    10
+IN ODONAT         181     -48     0     0 100.0     133     0
+IN ORTHOP           3       1     0     0  75.0       4     1
+IN PLECOP           0       2     0     0   0.0       2     0
+IN THYSAN           0       9     0     0   0.0       9     0
+IN TRICHO        2641   -1184     5   830 100.0    1457    51
+   TOTAL IN      7171   -2160     6   850 100.0    5011    87
+
+UPDATE TOTALS    7171   -2156     6   850 143.0    5015    87
+
+UPDATE SUMMARY BY STORAGE METHOD
+   PINNED        6137   -1012     5   304   120    5125
+   VIALS         1034   -1144     1   546   0.0    -110
+   SLIDES           0       0     0     0   0.0       0
+
+       University of Minnesota Insect Collection Management System.
+
+UPDATE EVALUATION ON 2012.12.18 AT 09:32:51                         Page  1
+
+    RC# CL ORDER  FAMILY               PROBLEM
+
+     70 AR ACARIN IXODIDAE             MISSING P LOC WITH DET OR TYPES
+     71 AR ACARIN TROMBIDIIDAE         MISSING P LOC WITH DET OR TYPES
+    315 CR ISOPOD ASELLIDAE            MISSING P LOC WITH DET OR TYPES
+     89 IN COLEOP SALPINGIDAE          MISSING P LOC WITH DET OR TYPES
+     89 IN COLEOP SALPINGIDAE          0 SP WITH >0 DET OR TY VALUES
+     91 IN COLEOP SALPINGIDAE          MISSING P LOC WITH DET OR TYPES
+    303 IN HOMOPT ISSIDAE              UPDATE RESULTS IN NEG P VALUES
+    241 IN HYMENO CERAPHRONIDAE        0 SP WITH >0 DET OR TY VALUES
+    289 IN HYMENO CERAPHRONIDAE        0 SP WITH >0 DET OR TY VALUES
+    312 IN HYMENO THYSANIDAE           0 SP WITH >0 DET OR TY VALUES
+      1 IN MALLOP TRICHODECTIDAE       MISSING P LOC WITH DET OR TYPES
+      2 IN MALLOP TRICHODECTIDAE       MISSING P LOC WITH DET OR TYPES
+      7 IN NEUROP DILARIDAE            0 SP WITH >0 DET OR TY VALUES
+    208 IN TRICHO ARCTOPSYCHIDAE       UPDATE RESULTS IN NEG P VALUES
+    209 IN TRICHO ARCTOPSYCHIDAE       UPDATE RESULTS IN NEG P VALUES
+    209 IN TRICHO ARCTOPSYCHIDAE       0 SP WITH >0 DET OR TY VALUES
+
+  317 RECORDS PROCESSED        16 ERRORS DETECTED
+
+UPDATE EVALUATION COMPLETE
+
+
+     MERGE OF UPDATE INTO INVENTORY COMPLETE --
+           ORIGINAL UPDATE FILE RENAMED up21218.SAV
+           ORIGINAL INVENTORY FILE RENAMED in21218.SAV
+           A NEW EMPTY FILE HAS BEEN CREATED FOR FUTURE UPDATES.
+
+     SAVE ALL UPDATE SUMMARY AND EVALUATION PAGES FOR YOUR RECORDS.

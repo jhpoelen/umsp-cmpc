@@ -1,0 +1,109 @@
+
+       University of Minnesota Insect Collection Management System.
+
+CLASS/ORDER INVENTORY SUMMARY ON 2016.11.28 AT 11:47:27             Page  1
+
+CL ORDER                    DET     UND   TY    2T  %DET    TOTAL   SPEC
+
+AR ACARINA               486314  166295   18    43  74.5   652609    244
+AR ARANEIDA                5585    7874    2     2  41.5    13459    339
+AR CHELONETHIDA              23     149    0     0  13.4      172      5
+AR PEDIPALPIDA                2       9    0     0  18.2       11      2
+AR PHALANGIDA               100     128    0     0  43.9      228     11
+AR SCORPIONIDA               72      48    0     0  60.0      120     22
+AR SOLPUGIDA                 12      24    0     0  33.3       36      7
+        TOTAL AR         492108  174527   20    45  73.8   666635    630
+
+CH ?CHILOPODA                 0     155    0     0   0.0      155      0
+CH GEOPHILOMORPHA             0       5    0     0   0.0        5      0
+CH LITHOBIOMORPHA             0      30    0     0   0.0       30      0
+CH SCOLOPENDROMORPHA          7       6    0     0  53.8       13      5
+CH SCUTIGEROMORPHA            2      19    0     0   9.5       21      1
+        TOTAL CH              9     215    0     0   4.0      224      6
+
+CR AMPHIPODA                856      11    0     0  98.7      867      3
+CR ANOSTRACA                  6       0    0     0 100.0        6      4
+CR BRANCHIURA                65      12    0     0  84.4       77      3
+CR CYCLOPOIDA                63       0    0     0 100.0       63      1
+CR DECAPODA                   8      11    0     0  42.1       19      3
+CR ISOPODA                  345     101    0     0  77.4      446     11
+CR OSTRACODA                  0     110    0     0   0.0      110      0
+        TOTAL CR           1343     245    0     0  84.6     1588     25
+
+DI ?DIPLOPODA                 2      46    0     0   4.2       48      2
+DI CHORDEUMIDEA              31       0    0     0 100.0       31      2
+DI JULIDA                   298      49    0     0  85.9      347     10
+DI POLYDESMIDA              259      37    0     0  87.5      296     14
+DI POLYXENIDA                 2       0    0     0 100.0        2      0
+DI SPIROBOLIDA               20      11    0     0  64.5       31      2
+        TOTAL DI            612     143    0     0  81.1      755     30
+
+IN ANOPLURA               13467     560    2   618  96.0    14027    167
+IN ARCHAEOGNATHA             22     104    0     0  17.5      126      1
+IN BLATTODEA                648     359    0     0  64.3     1007     29
+IN COLEOPTERA            374312  187743   22   977  66.6   562055  15095
+IN COLLEMBOLA            122043   43872  141    15  73.6   165915     99
+IN DERMAPTERA               643     640    0     0  50.1     1283     13
+IN DIPLURA                    6      64    0     0   8.6       70      1
+IN DIPTERA               271193  272351  180  6344  49.9   543544   6614
+IN EMBIOPTERA                37      53    0     0  41.1       90      2
+IN EPHEMEROPTERA          12255   10732    9   405  53.3    22987    192
+IN HEMIPTERA             318109  215645 1153  4433  59.6   533754   4076
+IN HYMENOPTERA           171645  102093  353  6546  62.7   273738   6912
+IN ISOPTERA                2587    1371    0     0  65.4     3958     23
+IN LEPIDOPTERA           144944   25185    8   511  85.2   170129  11058
+IN MALLOPHAGA            238992    3475   47 10348  98.6   242467   1379
+       University of Minnesota Insect Collection Management System.
+
+CLASS/ORDER INVENTORY SUMMARY ON 2016.11.28 AT 11:47:27             Page  2
+
+CL ORDER                    DET     UND   TY    2T  %DET    TOTAL   SPEC
+
+IN MANTOPHASMATODE            0       1    0     0   0.0        1      0
+IN MECOPTERA                816     397    0     0  67.3     1213     41
+IN MEGALOPTERA             1569     419    2    85  78.9     1988     57
+IN NEUROPTERA              4099    2162    1     7  65.5     6261    211
+IN ODONATA                 9936    1898    0     0  84.0    11834    457
+IN ORTHOPTERA             31142    9079    2    28  77.4    40221    719
+IN PHASMATODEA              375     270    0     0  58.1      645     22
+IN PLECOPTERA             13443    1725    2   102  88.6    15168    161
+IN PROTURA                    0       3    0     0   0.0        3      0
+IN PSOCOPTERA               824    6906    0     0  10.7     7730     30
+IN RAPHIDIOPTERA             21     112    0     0  15.8      133      3
+IN SIPHONAPTERA            7212     782    2    20  90.2     7994    169
+IN STREPSIPTERA              15      31    0     0  32.6       46      3
+IN THYSANOPTERA            4523   11165   24   449  28.8    15688   1141
+IN THYSANURA                101     264    0     0  27.7      365      2
+IN TRICHOPTERA           455378  176565  180 *****  72.1   631943   2691
+IN ZORAPTERA                 94       0    0     0 100.0       94      1
+        TOTAL IN        2200451 1076026 2128 *****  67.2  3276477  51369
+
+ME XIPHOSURA                  4       0    0     0 100.0        4      1
+        TOTAL ME              4       0    0     0 100.0        4      1
+
+ON MALACOPODA                 1       3    0     0  25.0        4      1
+        TOTAL ON              1       3    0     0  25.0        4      1
+
+PA ?PAUROPODA                 0       4    0     0   0.0        4      0
+PA TETRAMEROCERATA            0       1    0     0   0.0        1      0
+        TOTAL PA              0       5    0     0   0.0        5      0
+
+PE POROCEPHALIDA              3      14    0     0  17.6       17      1
+        TOTAL PE              3      14    0     0  17.6       17      1
+
+PY ?PYCHNOGONIDA              5       0    0     0 100.0        5      1
+        TOTAL PY              5       0    0     0 100.0        5      1
+
+SY CEPHALOSTIGMATA           19       6    0     0  76.0       25      1
+        TOTAL SY             19       6    0     0  76.0       25      1
+
+TR ?TRILOBITA                 5       0    0     0 100.0        5      1
+        TOTAL TR              5       0    0     0 100.0        5      1
+
+COLLECTION TOTALS       2694560 1251184 2148 *****  68.3  3945744  52066
+
+INVENTORY SUMMARY BY STORAGE METHOD
+
+        PINNED          1043661  506491  584 18675  67.3  1550152
+        VIALS           1168775  570442  100 *****  67.2  1739217
+        SLIDES           482124  174251 1464 17918  73.5   656375

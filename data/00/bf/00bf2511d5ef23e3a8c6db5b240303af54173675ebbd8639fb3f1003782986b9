@@ -1,0 +1,995 @@
+
+       University of Minnesota Insect Collection Management System.
+
+CLASS/ORDER INVENTORY SUMMARY ON 2012.12.18 AT 08:57:33             Page  1
+
+CL ORDER                    DET     UND   TY    2T  %DET    TOTAL   SPEC
+
+AR ACARINA               486208  166277   18    43  74.5   652485    244
+AR ARANEIDA                4443    6267    2     2  41.5    10710    331
+AR CHELONETHIDA              23     149    0     0  13.4      172      5
+AR PEDIPALPIDA                2       9    0     0  18.2       11      2
+AR PHALANGIDA               100     128    0     0  43.9      228     11
+AR SCORPIONIDA               60      48    0     0  55.6      108     22
+AR SOLPUGIDA                 12      24    0     0  33.3       36      7
+        TOTAL AR         490848  172902   20    45  74.0   663750    622
+
+CH ?CHILOPODA                 0     155    0     0   0.0      155      0
+CH GEOPHILOMORPHA             0       5    0     0   0.0        5      0
+CH LITHOBIOMORPHA             0      30    0     0   0.0       30      0
+CH SCOLOPENDROMORPHA          7       6    0     0  53.8       13      5
+CH SCUTIGEROMORPHA            2      19    0     0   9.5       21      1
+        TOTAL CH              9     215    0     0   4.0      224      6
+
+CR AMPHIPODA                847      11    0     0  98.7      858      3
+CR BRANCHIURA                65      12    0     0  84.4       77      3
+CR CYCLOPOIDA                63       0    0     0 100.0       63      1
+CR DECAPODA                   8      11    0     0  42.1       19      3
+CR ISOPODA                  344      99    0     0  77.7      443     11
+CR OSTRACODA                  0     110    0     0   0.0      110      0
+        TOTAL CR           1327     243    0     0  84.5     1570     21
+
+DI ?DIPLOPODA                 2      46    0     0   4.2       48      2
+DI CHORDEUMIDEA              31       0    0     0 100.0       31      2
+DI JULIDA                   235      49    0     0  82.7      284      9
+DI PARAIULIDEA               63       0    0     0 100.0       63      1
+DI POLYDESMIDA              259      37    0     0  87.5      296     14
+DI POLYXENIDA                 2       0    0     0 100.0        2      0
+DI SPIROBOLIDA               20      11    0     0  64.5       31      2
+        TOTAL DI            612     143    0     0  81.1      755     30
+
+IN ANOPLURA               13420     472    2   618  96.6    13892    167
+IN COLEOPTERA            355468  191515   22   976  65.0   546983  14983
+IN COLLEMBOLA            122043   43864  141    15  73.6   165907     99
+IN CORRODENTIA              821    6820    0     0  10.7     7641     29
+IN DERMAPTERA               643     636    0     0  50.3     1279     13
+IN DIPTERA               239455  241440  168  5815  49.8   480895   5815
+IN EMBIODEA                  37      53    0     0  41.1       90      2
+IN ENTOTROPHI                 6      64    0     0   8.6       70      1
+IN EPHEMEROPTERA          11820   10843    9   405  52.2    22663    178
+IN HEMIPTERA             105828   43150   13  1570  71.0   148978   1632
+IN HOMOPTERA             195179  179060 1140  2833  52.2   374239   2441
+IN HYMENOPTERA           157238   98639  353  6544  61.5   255877   6714
+IN ISOPTERA                2557    1371    0     0  65.1     3928     23
+IN LEPIDOPTERA           140724   23942    7   427  85.5   164666  10875
+IN MALLOPHAGA            238552    3041   46 10328  98.7   241593   1375
+       University of Minnesota Insect Collection Management System.
+
+CLASS/ORDER INVENTORY SUMMARY ON 2012.12.18 AT 08:57:33             Page  2
+
+CL ORDER                    DET     UND   TY    2T  %DET    TOTAL   SPEC
+
+IN MANTOPHASMATODE            0       1    0     0   0.0        1      0
+IN MECOPTERA                747     382    0     0  66.2     1129     36
+IN NEUROPTERA              4688    2898    2    89  61.8     7586    226
+IN ODONATA                 9278    2051    0     0  81.9    11329    455
+IN ORTHOPTERA             29248    9674    2    28  75.1    38922    765
+IN PLECOPTERA             11509    1129    2   102  91.1    12638    145
+IN PROTURA                    0       3    0     0   0.0        3      0
+IN SIPHONAPTERA            5573     471    2    20  92.2     6044    163
+IN STREPSIPTERA              15      29    0     0  34.1       44      3
+IN THYSANOPTERA            4523   11114   24   449  28.9    15637   1141
+IN THYSANURA                155     308    0     0  33.5      463      2
+IN TRICHOPTERA           415557  168420  146 14328  71.2   583977   2264
+IN ZORAPTERA                 94       0    0     0 100.0       94      1
+        TOTAL IN        2065178 1041390 2079 44547  66.5  3106568  49548
+
+ON MALACOPODA                 1       3    0     0  25.0        4      1
+        TOTAL ON              1       3    0     0  25.0        4      1
+
+PA ?PAUROPODA                 0       4    0     0   0.0        4      0
+PA TETRAMEROCERATA            0       1    0     0   0.0        1      0
+        TOTAL PA              0       5    0     0   0.0        5      0
+
+PE POROCEPHALIDA              3      14    0     0  17.6       17      1
+        TOTAL PE              3      14    0     0  17.6       17      1
+
+PY ?PYCHNOGONIDA              5       0    0     0 100.0        5      1
+        TOTAL PY              5       0    0     0 100.0        5      1
+
+SY CEPHALOSTIGMATA           19       6    0     0  76.0       25      1
+        TOTAL SY             19       6    0     0  76.0       25      1
+
+TR ?TRILOBITA                 5       0    0     0 100.0        5      1
+        TOTAL TR              5       0    0     0 100.0        5      1
+
+COLLECTION TOTALS       2558007 1214921 2099 44592  67.8  3772928  50232
+
+INVENTORY SUMMARY BY STORAGE METHOD
+
+        PINNED           949612  502796  550 16171  65.4  1452408
+        VIALS           1135694  563815   97 10999  66.8  1699509
+        SLIDES           472701  148310 1452 17422  76.1   621011
+       University of Minnesota Insect Collection Management System.
+
+CLASS/ORDER INVENTORY SUMMARY ON 2012.12.18 AT 08:58:53             Page  1
+
+CL ORDER                    DET     UND   TY    2T  %DET    TOTAL   SPEC
+
+AR ACARINA               486208  166277   18    43  74.5   652485    244
+AR ARANEIDA                4443    6267    2     2  41.5    10710    331
+AR CHELONETHIDA              23     149    0     0  13.4      172      5
+AR PEDIPALPIDA                2       9    0     0  18.2       11      2
+AR PHALANGIDA               100     128    0     0  43.9      228     11
+AR SCORPIONIDA               60      48    0     0  55.6      108     22
+AR SOLPUGIDA                 12      24    0     0  33.3       36      7
+        TOTAL AR         490848  172902   20    45  74.0   663750    622
+
+CH ?CHILOPODA                 0     155    0     0   0.0      155      0
+CH GEOPHILOMORPHA             0       5    0     0   0.0        5      0
+CH LITHOBIOMORPHA             0      30    0     0   0.0       30      0
+CH SCOLOPENDROMORPHA          7       6    0     0  53.8       13      5
+CH SCUTIGEROMORPHA            2      19    0     0   9.5       21      1
+        TOTAL CH              9     215    0     0   4.0      224      6
+
+CR AMPHIPODA                847      11    0     0  98.7      858      3
+CR BRANCHIURA                65      12    0     0  84.4       77      3
+CR CYCLOPOIDA                63       0    0     0 100.0       63      1
+CR DECAPODA                   8      11    0     0  42.1       19      3
+CR ISOPODA                  344      99    0     0  77.7      443     11
+CR OSTRACODA                  0     110    0     0   0.0      110      0
+        TOTAL CR           1327     243    0     0  84.5     1570     21
+
+DI ?DIPLOPODA                 2      46    0     0   4.2       48      2
+DI CHORDEUMIDEA              31       0    0     0 100.0       31      2
+DI JULIDA                   235      49    0     0  82.7      284      9
+DI PARAIULIDEA               63       0    0     0 100.0       63      1
+DI POLYDESMIDA              259      37    0     0  87.5      296     14
+DI POLYXENIDA                 2       0    0     0 100.0        2      0
+DI SPIROBOLIDA               20      11    0     0  64.5       31      2
+        TOTAL DI            612     143    0     0  81.1      755     30
+
+IN ANOPLURA               13420     472    2   618  96.6    13892    167
+IN COLEOPTERA            355468  191515   22   976  65.0   546983  14983
+IN COLLEMBOLA            122043   43864  141    15  73.6   165907     99
+IN CORRODENTIA              821    6820    0     0  10.7     7641     29
+IN DERMAPTERA               643     636    0     0  50.3     1279     13
+IN DIPTERA               239455  241440  168  5815  49.8   480895   5815
+IN EMBIODEA                  37      53    0     0  41.1       90      2
+IN ENTOTROPHI                 6      64    0     0   8.6       70      1
+IN EPHEMEROPTERA          11820   10843    9   405  52.2    22663    178
+IN HEMIPTERA             105828   43150   13  1570  71.0   148978   1632
+IN HOMOPTERA             195179  179060 1140  2833  52.2   374239   2441
+IN HYMENOPTERA           157238   98639  353  6544  61.5   255877   6714
+IN ISOPTERA                2557    1371    0     0  65.1     3928     23
+IN LEPIDOPTERA           140724   23942    7   427  85.5   164666  10875
+IN MALLOPHAGA            238552    3041   46 10328  98.7   241593   1375
+       University of Minnesota Insect Collection Management System.
+
+CLASS/ORDER INVENTORY SUMMARY ON 2012.12.18 AT 08:58:53             Page  2
+
+CL ORDER                    DET     UND   TY    2T  %DET    TOTAL   SPEC
+
+IN MANTOPHASMATODE            0       1    0     0   0.0        1      0
+IN MECOPTERA                747     382    0     0  66.2     1129     36
+IN NEUROPTERA              4688    2898    2    89  61.8     7586    226
+IN ODONATA                 9278    2051    0     0  81.9    11329    455
+IN ORTHOPTERA             29248    9674    2    28  75.1    38922    765
+IN PLECOPTERA             11509    1129    2   102  91.1    12638    145
+IN PROTURA                    0       3    0     0   0.0        3      0
+IN SIPHONAPTERA            5573     471    2    20  92.2     6044    163
+IN STREPSIPTERA              15      29    0     0  34.1       44      3
+IN THYSANOPTERA            4523   11114   24   449  28.9    15637   1141
+IN THYSANURA                155     308    0     0  33.5      463      2
+IN TRICHOPTERA           415557  168420  146 14328  71.2   583977   2264
+IN ZORAPTERA                 94       0    0     0 100.0       94      1
+        TOTAL IN        2065178 1041390 2079 44547  66.5  3106568  49548
+
+ON MALACOPODA                 1       3    0     0  25.0        4      1
+        TOTAL ON              1       3    0     0  25.0        4      1
+
+PA ?PAUROPODA                 0       4    0     0   0.0        4      0
+PA TETRAMEROCERATA            0       1    0     0   0.0        1      0
+        TOTAL PA              0       5    0     0   0.0        5      0
+
+PE POROCEPHALIDA              3      14    0     0  17.6       17      1
+        TOTAL PE              3      14    0     0  17.6       17      1
+
+PY ?PYCHNOGONIDA              5       0    0     0 100.0        5      1
+        TOTAL PY              5       0    0     0 100.0        5      1
+
+SY CEPHALOSTIGMATA           19       6    0     0  76.0       25      1
+        TOTAL SY             19       6    0     0  76.0       25      1
+
+TR ?TRILOBITA                 5       0    0     0 100.0        5      1
+        TOTAL TR              5       0    0     0 100.0        5      1
+
+COLLECTION TOTALS       2558007 1214921 2099 44592  67.8  3772928  50232
+
+INVENTORY SUMMARY BY STORAGE METHOD
+
+        PINNED           949612  502796  550 16171  65.4  1452408
+        VIALS           1135694  563815   97 10999  66.8  1699509
+        SLIDES           472701  148310 1452 17422  76.1   621011
+      University of Minnesota Insect Collection Management System.
+
+INVENTORY UPDATES AS OF 2012.12.18 AT 08:59:32                     Page   1
+
+                                  UNRESTRICTED
+
+REC#  ORDER  FAMILY                  STOR   DET   UND  TY   2T   SP   DATE   BY
+
+   1  MALLOP TRICHODECTIDAE            P     21     0   1   20      11.12.19 PJC
+   2  MALLOP TRICHODECTIDAE            -                          1 11.12.19 PJC
+   3  TRICHO PHILOPOTAMIDAE            V      4    -4   0    0      12.11.19 PJC
+   4  HYMENO APIDAE                    P      4     3   0    0      12.11.19 PJC
+   5  NEUROP OSMYLIDAE                 P     18     0   0    0      12.11.19 PJC
+   6  NEUROP OSMYLIDAE                 -                          2 12.11.19 PJC
+   7  NEUROP DILARIDAE                 P      5     0   0    0      12.11.19 PJC
+   8  NEUROP DILARIDAE                 -                          1 12.11.19 PJC
+   9  NEUROP CHRYSOPIDAE               P      9     0   0    0      12.11.19 PJC
+  10  NEUROP CHRYSOPIDAE               -                          5 12.11.19 PJC
+  11  NEUROP HEMEROBIIDAE              P      5     0   0    0      12.11.19 PJC
+  12  NEUROP MYRMELEONTIDAE            P      1     0   0    0      12.11.19 PJC
+  13  NEUROP MYRMELEONTIDAE            -                          1 12.11.19 PJC
+  14  NEUROP SISYRIDAE                 P      2     0   0    0      12.11.19 PJC
+  15  NEUROP SISYRIDAE                 -                          1 12.11.19 PJC
+  16  MECOPT PANORPIDAE                P      3     0   0    0      12.11.19 PJC
+  17  MECOPT PANORPIDAE                -                          2 12.11.19 PJC
+  18  COLEOP HYDROPHILIDAE             P      0   242   0    0      12.11.19 PJC
+  19  COLEOP STAPHYLINIDAE             P      0    62   0    0      12.11.19 PJC
+  20  TRICHO LIMNEPHILIDAE             V      6     0   0    0      12.11.19 PJC
+  21  HEMIPT MIRIDAE                   P     10     0   0    0      12.11.19 PJC
+  22  HEMIPT LYGAEIDAE                 P      2     0   0    0      12.11.19 PJC
+  23  HEMIPT PENTATOMIDAE              P      1     0   0    0      12.11.19 PJC
+  24  HEMIPT NABIDAE                   P      1     0   0    0      12.11.19 PJC
+  25  COLEOP TENEBRIONIDAE             P     13     2   0    0      12.11.19 PJC
+  26  COLEOP MYCETOPHAGIDAE            P      4    -6   0    0      12.11.19 PJC
+  27  COLEOP EROTYLIDAE                P      2     0   0    0      12.11.19 PJC
+  28  TRICHO LEPTOCERIDAE              V     20     0   0    0      12.11.19 PJC
+  29  TRICHO LEPTOCERIDAE              -                          1 12.11.19 PJC
+  30  TRICHO LIMNEPHILIDAE             V      3     0   0    0      12.11.19 PJC
+  31  COLEOP OSTOMATIDAE               P      4    10   0    0      12.11.19 PJC
+  32  COLEOP HYDROPHILIDAE             P      3     0   0    0      12.11.19 PJC
+  33  COLEOP CARABIDAE                 P      3     0   0    0      12.11.19 PJC
+  34  COLEOP STAPHYLINIDAE             P      1     0   0    0      12.11.19 PJC
+  35  HYMENO PTEROMALIDAE              P     71     9   0    0      12.11.19 PJC
+  36  COLEOP HYDROPHILIDAE             P      0    -1   0    0      12.11.19 PJC
+  37  COLEOP HETEROCERIDAE             P      0     1   0    0      12.11.19 PJC
+  38  COLEOP CHRYSOMELIDAE             P      6     6   0    0      12.11.19 PJC
+  39  COLEOP HETEROCERIDAE             P      0    10   0    0      12.11.19 PJC
+  40  COLEOP SILPHIDAE                 P      0     4   0    0      12.11.19 PJC
+  41  COLEOP CARABIDAE                 P      0     3   0    0      12.11.19 PJC
+  42  COLEOP HYDROPHILIDAE             P      0     1   0    0      12.11.19 PJC
+  43  COLEOP COCCINELLIDAE             P      1     2   0    0      12.11.19 PJC
+  44  HEMIPT MIRIDAE                   P      0     1   0    0      12.11.19 PJC
+  45  HEMIPT SALDIDAE                  P      0     1   0    0      12.11.19 PJC
+  46  HEMIPT LYGAEIDAE                 P      0     3   0    0      12.11.19 PJC
+      University of Minnesota Insect Collection Management System.
+
+INVENTORY UPDATES AS OF 2012.12.18 AT 08:59:32                     Page   2
+
+                                  UNRESTRICTED
+
+REC#  ORDER  FAMILY                  STOR   DET   UND  TY   2T   SP   DATE   BY
+
+  47  LEPIDO GEOMETRIDAE               P      0     3   0    0      12.11.19 PJC
+  48  LEPIDO PYRALIDAE                 P      0     2   0    0      12.11.19 PJC
+  49  COLEOP DYTISCIDAE                P      0     3   0    0      12.11.19 PJC
+  50  PLECOP PERLIDAE                  P      0     2   0    0      12.11.19 PJC
+  51  COLEOP CLERIDAE                  P      0     3   0    0      12.11.19 PJC
+  52  LEPIDO ARCTIIDAE                 P      0     2   0    0      12.11.19 PJC
+  53  COLEOP STAPHYLINIDAE             P      0     3   0    0      12.11.19 PJC
+  54  TRICHO ECNOMIDAE                 P     82     0   0    0      12.11.19 PJC
+  55  TRICHO DIPSEUDOPSIDAE            P      8     0   0    0      12.11.19 PJC
+  56  TRICHO DIPSEUDOPSIDAE            -                          1 12.11.19 PJC
+  57  TRICHO GLOSSOSOMATIDAE           P     42    88   0    0      12.11.19 PJC
+  58  TRICHO GLOSSOSOMATIDAE           -                          2 12.11.19 PJC
+  59  TRICHO HYDROPTILIDAE             P    229   220   0    0      12.11.19 PJC
+  60  TRICHO HYDROPTILIDAE             -                          4 12.11.19 PJC
+  61  TRICHO HYDROPSYCHIDAE            P    314     0   0    0      12.11.19 PJC
+  62  TRICHO HYDROPSYCHIDAE            -                          6 12.11.19 PJC
+  63  TRICHO ARCTOPSYCHIDAE            P     12     0   0    0      12.11.19 PJC
+  64  TRICHO ARCTOPSYCHIDAE            -                          1 12.11.19 PJC
+  65  HOMOPT APHIDIDAE                 P      0     7   0    0      12.11.19 PJC
+  66  HOMOPT AREOPODIDAE               P      1     0   0    0      12.11.19 PJC
+  67  HOMOPT CICADELLIDAE              P      4     0   0    0      12.11.19 PJC
+  68  HOMOPT MEMBRACIDAE               P      1     1   0    0      12.11.19 PJC
+  69  ORTHOP ACRIDIDAE                 P      2     0   0    0      12.11.19 PJC
+  70  ACARIN IXODIDAE                  P      0     2   0    0      12.11.19 PJC
+  71  ACARIN TROMBIDIIDAE              P      0     1   0    0      12.11.19 PJC
+  72  LEPIDO GELECHIIDAE               P      0     1   0    0      12.11.19 PJC
+  73  LEPIDO NOCTUIDAE                 P      2     0   0    0      12.11.19 PJC
+  74  COLEOP CARABIDAE                 P      0   241   0    0      12.11.19 PJC
+  75  COLEOP CARABIDAE                 P      0   464   0    0      12.11.19 PJC
+  76  HEMIPT CORIXIDAE                 P     17     0   0    0      12.11.19 PJC
+  77  COLEOP DYTISCIDAE                P      2     0   0    0      12.11.19 PJC
+  78  COLEOP TENEBRIONIDAE             P      0     1   0    0      12.11.19 PJC
+  79  COLEOP CARABIDAE                 P     26   198   0    0      12.11.19 PJC
+  80  DIPTER TACHINIDAE                P     38    11   0    0      12.11.19 PJC
+  81  COLEOP PYTHIDAE                  P    -91    -5   0    0      12.11.19 PJC
+  82  COLEOP STAPHYLINIDAE             P     29    45   0    0      12.11.19 PJC
+  83  HEMIPT CORIXIDAE                 P      2     0   0    0      12.11.19 PJC
+  84  EPHEME CAENIDAE                  V      0    36   0    0      12.11.19 PJC
+  85  HEMIPT CORIXIDAE                 P     73     0   0    0      12.11.19 PJC
+  86  COLEOP CANTHARIDAE               P      5     0   0    0      12.11.19 PJC
+  87  COLEOP CERAMBYCIDAE              P      1     0   0    0      12.11.19 PJC
+  88  COLEOP MYCTERIDAE                P      1     0   0    0      12.11.19 PJC
+  89  COLEOP SALPINGIDAE               P    127     1   0    0      12.11.19 PJC
+  90  COLEOP PYTHIDAE                  -                        -10 12.11.19 PJC
+  91  COLEOP SALPINGIDAE               -                          9 12.11.19 PJC
+  92  COLEOP PYROCHROIDAE              P      2     0   0    0      12.11.19 PJC
+      University of Minnesota Insect Collection Management System.
+
+INVENTORY UPDATES AS OF 2012.12.18 AT 08:59:32                     Page   3
+
+                                  UNRESTRICTED
+
+REC#  ORDER  FAMILY                  STOR   DET   UND  TY   2T   SP   DATE   BY
+
+  93  COLEOP PYROCHROIDAE              -                          1 12.11.19 PJC
+  94  COLEOP ANOBIIDAE                 P      1     0   0    0      12.11.19 PJC
+  95  COLEOP BIPHYLLIDAE               P      0    -2   0    0      12.11.19 PJC
+  96  COLEOP LEIODIDAE                 P      0     1   0    0      12.11.19 PJC
+  97  COLEOP TENEBRIONIDAE             -                         -1 12.11.19 PJC
+  98  COLEOP THROSCIDAE                P     15     0   0    0      12.11.19 PJC
+  99  COLEOP NITIDULIDAE               P      0     1   0    0      12.11.19 PJC
+ 100  COLEOP HALIPLIDAE                P      1     0   0    0      12.11.19 PJC
+ 101  COLEOP MORDELLIDAE               P     21    12   0    0      12.11.19 PJC
+ 102  COLEOP LATHRIDIIDAE              P      5     5   0    0      12.11.19 PJC
+ 103  DIPTER MUSCIDAE                  P      0     4   0    0      12.11.19 PJC
+ 104  COLEOP CLERIDAE                  P      0     4   0    0      12.11.19 PJC
+ 105  COLEOP CHRYSOMELIDAE             P      0     1   0    0      12.11.19 PJC
+ 106  COLEOP COCCINELLIDAE             P      3     0   0    0      12.11.19 PJC
+ 107  HOMOPT CERCOPIDAE                P      0    15   0    0      12.11.19 PJC
+ 108  CORROD PSOCIDAE                  P      0     1   0    0      12.11.19 PJC
+ 109  DIPTER CHIRONOMIDAE              P      0     4   0    0      12.11.19 PJC
+ 110  DIPTER CULICIDAE                 P      0     1   0    0      12.11.19 PJC
+ 111  DIPTER SIMULIIDAE                P      0     4   0    0      12.11.19 PJC
+ 112  HYMENO CHALCIDIDAE               P      1     4   0    0      12.11.19 PJC
+ 113  COLEOP CRYPTOPHAGIDAE            P      2    15   0    0      12.11.19 PJC
+ 114  COLEOP LYCTIDAE                  P      1     0   0    0      12.11.19 PJC
+ 115  COLEOP SILVANIDAE                P      0     1   0    0      12.11.19 PJC
+ 116  HEMIPT COREIDAE                  P      1     0   0    0      12.11.19 PJC
+ 117  HEMIPT RHOPALIDAE                P      1     0   0    0      12.11.19 PJC
+ 118  HEMIPT MIRIDAE                   P     20     0   0    0      12.11.19 PJC
+ 119  TRICHO HYDROPTILIDAE             P     46    13   0    0      12.11.19 PJC
+ 120  TRICHO HYDROPTILIDAE             -                          1 12.11.19 PJC
+ 121  TRICHO LEPIDOSTOMATIDAE          P    152     0   0    0      12.11.19 PJC
+ 122  TRICHO LEPIDOSTOMATIDAE          -                          5 12.11.19 PJC
+ 123  TRICHO LEPTOCERIDAE              P    409     0   0    0      12.11.19 PJC
+ 124  TRICHO LEPTOCERIDAE              -                         18 12.11.19 PJC
+ 125  TRICHO LIMNEPHILIDAE             P    100     1   0    0      12.11.19 PJC
+ 126  TRICHO LIMNEPHILIDAE             -                          4 12.11.19 PJC
+ 127  TRICHO MOLANNIDAE                P     54     0   0    0      12.11.19 PJC
+ 128  TRICHO ODONTOCERIDAE             P      2     0   0    0      12.11.19 PJC
+ 129  TRICHO ODONTOCERIDAE             -                          1 12.11.19 PJC
+ 130  TRICHO PHILOPOTAMIDAE            P    105     0   0    0      12.11.19 PJC
+ 131  TRICHO PHILOPOTAMIDAE            -                          1 12.11.19 PJC
+ 132  TRICHO PHRYGANEIDAE              P     33     0   0    0      12.11.19 PJC
+ 133  TRICHO POLYCENTROPODIDAE         P     21     0   0    0      12.11.19 PJC
+ 134  TRICHO POLYCENTROPODIDAE         -                          2 12.11.19 PJC
+ 135  TRICHO PSYCHOMYIIDAE             P     42     0   0    0      12.11.19 PJC
+ 136  TRICHO PSYCHOMYIIDAE             -                          2 12.11.19 PJC
+ 137  TRICHO RHYACOPHILIDAE            P     31     0   0    0      12.11.19 PJC
+ 138  TRICHO RHYACOPHILIDAE            -                          3 12.11.19 PJC
+      University of Minnesota Insect Collection Management System.
+
+INVENTORY UPDATES AS OF 2012.12.18 AT 08:59:32                     Page   4
+
+                                  UNRESTRICTED
+
+REC#  ORDER  FAMILY                  STOR   DET   UND  TY   2T   SP   DATE   BY
+
+ 139  TRICHO STENOPSYCHIDAE            P     30     9   0    0      12.11.19 PJC
+ 140  TRICHO STENOPSYCHIDAE            -                          2 12.11.19 PJC
+ 141  HYMENO PTEROMALIDAE              P    110  -253   0    0      12.11.19 PJC
+ 142  HYMENO ENCYRTIDAE                P      0    24   0    0      12.11.19 PJC
+ 143  HYMENO EULOPHIDAE                P      0    67   0    0      12.11.19 PJC
+ 144  HYMENO EUPELMIDAE                P      0     1   0    0      12.11.19 PJC
+ 145  HYMENO EURYTOMIDAE               P     39   -47   0    0      12.11.19 PJC
+ 146  HYMENO TORYMIDAE                 P      3    36   0    0      12.11.19 PJC
+ 147  HYMENO DRYINIDAE                 P      0     2   0    0      12.11.19 PJC
+ 148  HYMENO PERILAMPIDAE              P     41   -41   0    0      12.11.19 PJC
+ 149  HYMENO SCELIONIDAE               P      0     5   0    0      12.11.19 PJC
+ 150  COLEOP SCOLYTIDAE                P     29     0   0    0      12.11.19 PJC
+ 151  COLEOP SCOLYTIDAE                -                          1 12.11.19 PJC
+ 152  HYMENO PTEROMALIDAE              -                         14 12.11.19 PJC
+ 153  HYMENO TORYMIDAE                 -                          1 12.11.19 PJC
+ 154  HYMENO BETHYLIDAE                P      0     4   0    0      12.11.19 PJC
+ 155  COLEOP BUPRESTIDAE               P     21     0   0    0      12.11.19 PJC
+ 156  COLEOP BUPRESTIDAE               P      1     0   0    0      12.11.19 PJC
+ 157  TRICHO GOERIDAE                  P    195     0   0    0      12.11.19 PJC
+ 158  TRICHO GOERIDAE                  -                          4 12.11.19 PJC
+ 159  HYMENO CERAPHRONIDAE             P      0     1   0    0      12.11.19 PJC
+ 160  HYMENO MEGASPILIDAE              P      0     1   0    0      12.11.19 PJC
+ 161  HYMENO PLATYGASTERIDAE           P      0     5   0    0      12.11.19 PJC
+ 162  DIPTER DOLICHOPODIDAE            P      0     1   0    0      12.11.19 PJC
+ 163  TRICHO PHILOPOTAMIDAE            P      0     4   0    0      12.11.19 PJC
+ 164  TRICHO PHILOPOTAMIDAE            V      0  -214   0    0      12.11.19 PJC
+ 165  HYMENO SPHECIDAE                 P      3    -4   0    0      12.11.19 PJC
+ 166  HYMENO SPHECIDAE                 -                          1 12.11.19 PJC
+ 167  TRICHO PHILOPOTAMIDAE            P    288  -342   4  284      12.11.19 PJC
+ 168  TRICHO PHILOPOTAMIDAE            V    813  -909   1  546      12.11.19 PJC
+ 169  TRICHO PHILOPOTAMIDAE            -                          9 12.11.19 PJC
+ 170  TRICHO HYDROBIOSIDAE             P      0     1   0    0      12.11.19 PJC
+ 171  DIPTER MILICHIIDAE               P      0     1   0    0      12.11.19 PJC
+ 172  HYMENO SIEROLOMORPHIDAE          P     31   -35   0    0      12.11.19 PJC
+ 173  HYMENO FORMICIDAE                P      0     1   0    0      12.11.19 PJC
+ 174  HYMENO COLLETIDAE                P      0     1   0    0      12.11.19 PJC
+ 175  HYMENO MUTILLIDAE                P      0     2   0    0      12.11.19 PJC
+ 176  HYMENO BRACONIDAE                P      0     2   0    0      12.11.19 PJC
+ 177  ORTHOP ACRIDIDAE                 P      1     0   0    0      12.11.19 PJC
+ 178  ORTHOP ACRIDIDAE                 -                          1 12.11.19 PJC
+ 179  LEPIDO SATURNIIDAE               P      7     0   0    0      12.11.19 PJC
+ 180  LEPIDO PAPILIONIDAE              P      8     0   0    0      12.11.19 PJC
+ 181  LEPIDO PAPILIONIDAE              P     22     0   0    0      12.11.19 PJC
+ 182  LEPIDO NYMPHALIDAE               P      5     0   0    0      12.11.19 PJC
+ 183  LEPIDO BRAHMAEIDAE               P      1     0   0    0      12.11.19 PJC
+ 184  LEPIDO BRAHMAEIDAE               -                          1 12.11.19 PJC
+      University of Minnesota Insect Collection Management System.
+
+INVENTORY UPDATES AS OF 2012.12.18 AT 08:59:32                     Page   5
+
+                                  UNRESTRICTED
+
+REC#  ORDER  FAMILY                  STOR   DET   UND  TY   2T   SP   DATE   BY
+
+ 185  LEPIDO URANIIDAE                 P      1     0   0    0      12.11.19 PJC
+ 186  LEPIDO SATYRIDAE                 P      3     0   0    0      12.11.19 PJC
+ 187  LEPIDO SATYRIDAE                 -                          1 12.11.19 PJC
+ 188  LEPIDO NYMPHALIDAE               P      5     0   0    0      12.11.19 PJC
+ 189  LEPIDO NYMPHALIDAE               P      6     0   0    0      12.11.19 PJC
+ 190  LEPIDO NYMPHALIDAE               -                          5 12.11.19 PJC
+ 191  LEPIDO SATURNIIDAE               P      3     0   0    0      12.11.19 PJC
+ 192  LEPIDO HESPERIIDAE               P      1     0   0    0      12.11.19 PJC
+ 193  LEPIDO LYCAENIDAE                P      5     0   0    0      12.11.19 PJC
+ 194  LEPIDO LYCAENIDAE                -                          2 12.11.19 PJC
+ 195  LEPIDO NYMPHALIDAE               P      2     0   0    0      12.11.19 PJC
+ 196  LEPIDO NYMPHALIDAE               -                          1 12.11.19 PJC
+ 197  COLEOP DASYTIDAE                 P      0     2   0    0      12.11.19 PJC
+ 198  COLEOP DERMESTIDAE               P      1     0   0    0      12.11.19 PJC
+ 199  HYMENO PTEROMALIDAE              P      2    -1   0    0      12.11.19 PJC
+ 200  ODONAT CORDULEGASTRIDAE          V      8     9   0    0      12.11.19 PJC
+ 201  ODONAT CORDULIIDAE               V     67     1   0    0      12.11.19 PJC
+ 202  ODONAT GOMPHIDAE                 V     21   -20   0    0      12.11.19 PJC
+ 203  ODONAT LIBELLULIDAE              V     85   -39   0    0      12.11.19 PJC
+ 204  DIPTER CHYROMYIIDAE              P      1     0   0    0      12.11.19 PJC
+ 205  TRICHO UENOIDAE                  P   -461   -51   0    0      12.11.19 PJC
+ 206  TRICHO UENOIDAE                  -                        -17 12.11.19 PJC
+ 207  MECOPT MEROPIDAE                 P      2     0   0    0      12.11.19 PJC
+ 208  TRICHO ARCTOPSYCHIDAE            P   -246     0   0    0      12.11.19 PJC
+ 209  TRICHO ARCTOPSYCHIDAE            -                         -6 12.11.19 PJC
+ 210  TRICHO HYDROPSYCHIDAE            P    246     0   0    0      12.11.19 PJC
+ 211  TRICHO HYDROPSYCHIDAE            -                          6 12.11.19 PJC
+ 212  HYMENO CHRYSIDIDAE               P      0     4   0    0      12.11.19 PJC
+ 213  COLEOP BRENTIDAE                 P      1     0   0    0      12.11.19 PJC
+ 214  HEMIPT REDUVIIDAE                P      1     0   0    0      12.11.19 PJC
+ 215  HYMENO FIGITIDAE                 P      0    19   0    0      12.11.19 PJC
+ 216  HYMENO HELORIDAE                 P      1     0   0    0      12.11.19 PJC
+ 217  HYMENO ORMYRIDAE                 P      0    17   0    0      12.11.19 PJC
+ 218  DIPTER ULIDIIDAE                 P     21     0   0    0      12.11.19 PJC
+ 219  HYMENO EURYTOMIDAE               P     18    85   0    0      12.11.19 PJC
+ 220  HYMENO EULOPHIDAE                P      0   244   0    0      12.11.19 PJC
+ 221  HYMENO PTEROMALIDAE              P      2   434   0    0      12.11.19 PJC
+ 222  MECOPT MEROPIDAE                 V      4    -4   0    0      12.11.19 PJC
+ 223  HYMENO EUPELMIDAE                P      5    -2   0    0      12.11.19 PJC
+ 224  HYMENO EUPELMIDAE                -                          3 12.11.19 PJC
+ 225  HYMENO ENCYRTIDAE                P      0   132   0    0      12.11.19 PJC
+ 226  HYMENO APHELINIDAE               P      0    27   0    0      12.11.19 PJC
+ 227  HYMENO CHALCIDIDAE               P     50  -330   0    0      12.11.19 PJC
+ 228  HYMENO TORYMIDAE                 P     48  -243   0    0      12.11.19 PJC
+ 229  HYMENO PERILAMPIDAE              P      0     6   0    0      12.11.19 PJC
+ 230  HYMENO SCELIONIDAE               P      0    33   0    0      12.11.19 PJC
+      University of Minnesota Insect Collection Management System.
+
+INVENTORY UPDATES AS OF 2012.12.18 AT 08:59:32                     Page   6
+
+                                  UNRESTRICTED
+
+REC#  ORDER  FAMILY                  STOR   DET   UND  TY   2T   SP   DATE   BY
+
+ 231  HYMENO FORMICIDAE                P      0     1   0    0      12.11.19 PJC
+ 232  HYMENO BRACONIDAE                P      0    22   0    0      12.11.19 PJC
+ 233  HYMENO DIAPRIIDAE                P      0    48   0    0      12.11.19 PJC
+ 234  HYMENO BETHYLIDAE                P      0    15   0    0      12.11.19 PJC
+ 235  HYMENO TENTHREDINIDAE            P      0     1   0    0      12.11.19 PJC
+ 236  HYMENO MEGASPILIDAE              P      0    12   0    0      12.11.19 PJC
+ 237  HYMENO VESPIDAE                  P      1     0   0    0      12.11.19 PJC
+ 238  HYMENO PAMPHILIIDAE              P      1     0   0    0      12.11.19 PJC
+ 239  HYMENO BRACONIDAE                P      0     1   0    0      12.11.19 PJC
+ 240  HYMENO MYMARIDAE                 P      7    76   0    0      12.11.19 PJC
+ 241  HYMENO CERAPHRONIDAE             P      1    37   0    0      12.11.19 PJC
+ 242  HYMENO EVANIIDAE                 P      1     0   0    0      12.11.19 PJC
+ 243  NEUROP CORYDALIDAE               P      0     3   0    0      12.11.19 PJC
+ 244  DIPTER CHIRONOMIDAE              P      0     1   0    0      12.11.19 PJC
+ 245  LEPIDO SPHINGIDAE                P      2     0   0    0      12.11.19 PJC
+ 246  COLEOP CURCULIONIDAE             P      0     2   0    0      12.11.19 PJC
+ 247  HYMENO HALICTIDAE                P      0     1   0    0      12.11.19 PJC
+ 248  HYMENO FORMICIDAE                P      0     1   0    0      12.11.19 PJC
+ 249  ODONAT LIBELLULIDAE              P      0     1   0    0      12.11.19 PJC
+ 250  HEMIPT LYGAEIDAE                 P      0     1   0    0      12.11.19 PJC
+ 251  LEPIDO NYMPHALIDAE               P      0     5   0    0      12.11.19 PJC
+ 252  LEPIDO PAPILIONIDAE              P      0     1   0    0      12.11.19 PJC
+ 253  LEPIDO LYCAENIDAE                P      0     1   0    0      12.11.19 PJC
+ 254  DIPTER TIPULIDAE                 P      0     3   0    0      12.11.19 PJC
+ 255  LEPIDO NOCTUIDAE                 P     12    75   0    0      12.11.19 PJC
+ 256  LEPIDO SATURNIIDAE               P      0     1   0    0      12.11.19 PJC
+ 257  LEPIDO SPHINGIDAE                P      1     0   0    0      12.11.19 PJC
+ 258  LEPIDO NOTODONTIDAE              P      0    21   0    0      12.11.19 PJC
+ 259  TRICHO BRACHYCENTRIDAE           P     -1     0   0    0      12.11.19 PJC
+ 260  TRICHO ECNOMIDAE                 P     -1     0   0    0      12.11.19 PJC
+ 261  TRICHO GLOSSOSOMATIDAE           P     -2     0   0    0      12.11.19 PJC
+ 262  TRICHO GOERIDAE                  P     -1     0   0    0      12.11.19 PJC
+ 263  TRICHO HELICOPSYCHIDAE           P     -1     0   0    0      12.11.19 PJC
+ 264  TRICHO HYDROBIOSIDAE             P     -2     0   0    0      12.11.19 PJC
+ 265  TRICHO HYDROPSYCHIDAE            P     -3     0   0    0      12.11.19 PJC
+ 266  TRICHO HYDROPTILIDAE             P     -3     0   0    0      12.11.19 PJC
+ 267  TRICHO LEPIDOSTOMATIDAE          P     -1     0   0    0      12.11.19 PJC
+ 268  TRICHO LEPTOCERIDAE              P     -3     0   0    0      12.11.19 PJC
+ 269  TRICHO LIMNEPHILIDAE             P     -1     0   0    0      12.11.19 PJC
+ 270  TRICHO PHILOPOTAMIDAE            P     -1     0   0    0      12.11.19 PJC
+ 271  TRICHO PHILORHEITHRIDAE          P     -1     0   0    0      12.11.19 PJC
+ 272  TRICHO PHRYGANEIDAE              P     -1     0   0    0      12.11.19 PJC
+ 273  TRICHO RHYACOPHILIDAE            P     -1     0   0    0      12.11.19 PJC
+ 274  TRICHO HYDROPTILIDAE             P     -5     0   0    0      12.11.19 PJC
+ 275  HYMENO MYMARIDAE                 P      0     1   0    0      12.11.19 PJC
+ 276  HYMENO AGAONIDAE                 P      0     2   0    0      12.11.19 PJC
+      University of Minnesota Insect Collection Management System.
+
+INVENTORY UPDATES AS OF 2012.12.18 AT 08:59:32                     Page   7
+
+                                  UNRESTRICTED
+
+REC#  ORDER  FAMILY                  STOR   DET   UND  TY   2T   SP   DATE   BY
+
+ 277  HYMENO DIAPRIIDAE                P      0     1   0    0      12.11.19 PJC
+ 278  HYMENO TORYMIDAE                 -                          2 12.11.19 PJC
+ 279  HYMENO ICHNEUMONIDAE             P      0     1   0    0      12.11.19 PJC
+ 280  TRICHO HYDROBIOSIDAE             P     86     0   0    0      12.11.19 PJC
+ 281  TRICHO LIMNEPHILIDAE             V      3     0   0    0      12.11.19 PJC
+ 282  TRICHO LIMNEPHILIDAE             -                          1 12.11.19 PJC
+ 283  DIPTER TACHINIDAE                P      0    19   0    0      12.11.19 PJC
+ 284  DIPTER MUSCIDAE                  P      0    21   0    0      12.11.19 PJC
+ 285  HYMENO ROPRONIIDAE               P      0    -1   0    0      12.11.19 PJC
+ 286  HYMENO MONOMACHIDAE              P      0     1   0    0      12.11.19 PJC
+ 287  HYMENO DRYINIDAE                 P      0     8   0    0      12.11.19 PJC
+ 288  HYMENO SIEROLOMORPHIDAE          P      0     1   0    0      12.11.19 PJC
+ 289  HYMENO CERAPHRONIDAE             P      0    36   0    0      12.11.19 PJC
+ 290  HYMENO MEGACHILIDAE              -                          1 12.11.19 PJC
+ 291  HOMOPT FLATIDAE                  P     79   -48   0    0      12.11.19 PJC
+ 292  HOMOPT NOGODINIDAE               P      1     0   0    0      12.11.19 PJC
+ 293  HOMOPT CIXIIDAE                  P      0     2   0    0      12.11.19 PJC
+ 294  HOMOPT ACANALONIIDAE             P     10   -25   0    0      12.11.19 PJC
+ 295  HOMOPT DICTYOPHARIDAE            P    466  -464   0    0      12.11.19 PJC
+ 296  HOMOPT DICTYOPHARIDAE            -                          5 12.11.19 PJC
+ 297  HOMOPT MEMBRACIDAE               P     28     3   0    0      12.11.19 PJC
+ 298  HOMOPT CICADELLIDAE              P   2533 -2442   0    0      12.11.19 PJC
+ 299  HOMOPT CICADELLIDAE              -                        -15 12.11.19 PJC
+ 300  HOMOPT CERCOPIDAE                P     34     1   0    0      12.11.19 PJC
+ 301  HOMOPT CHERMIDAE                 P      0     1   0    0      12.11.19 PJC
+ 302  HOMOPT ADELGIDAE                 P      0     1   0    0      12.11.19 PJC
+ 303  HOMOPT ISSIDAE                   P    154  -151   0    0      12.11.19 PJC
+ 304  THYSAN AEOLOTHRIPIDAE            P      0     1   0    0      12.11.19 PJC
+ 305  THYSAN PHLOEOTHRIPIDAE           P      0     2   0    0      12.11.19 PJC
+ 306  THYSAN THRIPIDAE                 P      0     6   0    0      12.11.19 PJC
+ 307  COLEOP LAMPYRIDAE                P      0     1   0    0      12.11.19 PJC
+ 308  HOMOPT AREOPODIDAE               P      0     2   0    0      12.11.19 PJC
+ 309  HYMENO EUCHARIDIDAE              P      0     1   0    0      12.11.19 PJC
+ 310  HYMENO PLATYGASTERIDAE           P      0   117   0    0      12.11.19 PJC
+ 311  HYMENO PROCTOTRYPIDAE            P      0     3   0    0      12.11.19 PJC
+ 312  HYMENO THYSANIDAE                P      0    -1   0    0      12.11.19 PJC
+ 313  HYMENO EUCHARIDIDAE              P      9    -9   0    0      12.11.19 PJC
+ 314  DIPTER OTITIDAE                  P      0    10   0    0      12.11.19 PJC
+ 315  ISOPOD ASELLIDAE                 P      0     1   0    0      12.11.19 PJC
+ 316  LEPIDO AEGERIIDAE                P      0     1   0    0      12.11.19 PJC
+ 317  ORTHOP GRYLLIDAE                 P      0     1   0    0      12.11.19 PJC
+
+      UPDATE TOTAL FOR STORAGE         P   6137 -1012   5  304
+      UPDATE TOTAL FOR STORAGE         V   1034 -1144   1  546
+      UPDATE TOTAL FOR STORAGE         S      0     0   0    0
+           TOTAL UPDATE                -   7171 -2156   6  850   87
+      University of Minnesota Insect Collection Management System.
+
+INVENTORY UPDATES AS OF 2012.12.18 AT 09:00:18                     Page   1
+
+                                  UNRESTRICTED
+
+REC#  ORDER  FAMILY                  STOR   DET   UND  TY   2T   SP   DATE   BY
+
+   1  MALLOP TRICHODECTIDAE            P     21     0   1   20      11.12.19 PJC
+   2  MALLOP TRICHODECTIDAE            -                          1 11.12.19 PJC
+   3  TRICHO PHILOPOTAMIDAE            V      4    -4   0    0      12.11.19 PJC
+   4  HYMENO APIDAE                    P      4     3   0    0      12.11.19 PJC
+   5  NEUROP OSMYLIDAE                 P     18     0   0    0      12.11.19 PJC
+   6  NEUROP OSMYLIDAE                 -                          2 12.11.19 PJC
+   7  NEUROP DILARIDAE                 P      5     0   0    0      12.11.19 PJC
+   8  NEUROP DILARIDAE                 -                          1 12.11.19 PJC
+   9  NEUROP CHRYSOPIDAE               P      9     0   0    0      12.11.19 PJC
+  10  NEUROP CHRYSOPIDAE               -                          5 12.11.19 PJC
+  11  NEUROP HEMEROBIIDAE              P      5     0   0    0      12.11.19 PJC
+  12  NEUROP MYRMELEONTIDAE            P      1     0   0    0      12.11.19 PJC
+  13  NEUROP MYRMELEONTIDAE            -                          1 12.11.19 PJC
+  14  NEUROP SISYRIDAE                 P      2     0   0    0      12.11.19 PJC
+  15  NEUROP SISYRIDAE                 -                          1 12.11.19 PJC
+  16  MECOPT PANORPIDAE                P      3     0   0    0      12.11.19 PJC
+  17  MECOPT PANORPIDAE                -                          2 12.11.19 PJC
+  18  COLEOP HYDROPHILIDAE             P      0   242   0    0      12.11.19 PJC
+  19  COLEOP STAPHYLINIDAE             P      0    62   0    0      12.11.19 PJC
+  20  TRICHO LIMNEPHILIDAE             V      6     0   0    0      12.11.19 PJC
+  21  HEMIPT MIRIDAE                   P     10     0   0    0      12.11.19 PJC
+  22  HEMIPT LYGAEIDAE                 P      2     0   0    0      12.11.19 PJC
+  23  HEMIPT PENTATOMIDAE              P      1     0   0    0      12.11.19 PJC
+  24  HEMIPT NABIDAE                   P      1     0   0    0      12.11.19 PJC
+  25  COLEOP TENEBRIONIDAE             P     13     2   0    0      12.11.19 PJC
+  26  COLEOP MYCETOPHAGIDAE            P      4    -6   0    0      12.11.19 PJC
+  27  COLEOP EROTYLIDAE                P      2     0   0    0      12.11.19 PJC
+  28  TRICHO LEPTOCERIDAE              V     20     0   0    0      12.11.19 PJC
+  29  TRICHO LEPTOCERIDAE              -                          1 12.11.19 PJC
+  30  TRICHO LIMNEPHILIDAE             V      3     0   0    0      12.11.19 PJC
+  31  COLEOP OSTOMATIDAE               P      4    10   0    0      12.11.19 PJC
+  32  COLEOP HYDROPHILIDAE             P      3     0   0    0      12.11.19 PJC
+  33  COLEOP CARABIDAE                 P      3     0   0    0      12.11.19 PJC
+  34  COLEOP STAPHYLINIDAE             P      1     0   0    0      12.11.19 PJC
+  35  HYMENO PTEROMALIDAE              P     71     9   0    0      12.11.19 PJC
+  36  COLEOP HYDROPHILIDAE             P      0    -1   0    0      12.11.19 PJC
+  37  COLEOP HETEROCERIDAE             P      0     1   0    0      12.11.19 PJC
+  38  COLEOP CHRYSOMELIDAE             P      6     6   0    0      12.11.19 PJC
+  39  COLEOP HETEROCERIDAE             P      0    10   0    0      12.11.19 PJC
+  40  COLEOP SILPHIDAE                 P      0     4   0    0      12.11.19 PJC
+  41  COLEOP CARABIDAE                 P      0     3   0    0      12.11.19 PJC
+  42  COLEOP HYDROPHILIDAE             P      0     1   0    0      12.11.19 PJC
+  43  COLEOP COCCINELLIDAE             P      1     2   0    0      12.11.19 PJC
+  44  HEMIPT MIRIDAE                   P      0     1   0    0      12.11.19 PJC
+  45  HEMIPT SALDIDAE                  P      0     1   0    0      12.11.19 PJC
+  46  HEMIPT LYGAEIDAE                 P      0     3   0    0      12.11.19 PJC
+      University of Minnesota Insect Collection Management System.
+
+INVENTORY UPDATES AS OF 2012.12.18 AT 09:00:18                     Page   2
+
+                                  UNRESTRICTED
+
+REC#  ORDER  FAMILY                  STOR   DET   UND  TY   2T   SP   DATE   BY
+
+  47  LEPIDO GEOMETRIDAE               P      0     3   0    0      12.11.19 PJC
+  48  LEPIDO PYRALIDAE                 P      0     2   0    0      12.11.19 PJC
+  49  COLEOP DYTISCIDAE                P      0     3   0    0      12.11.19 PJC
+  50  PLECOP PERLIDAE                  P      0     2   0    0      12.11.19 PJC
+  51  COLEOP CLERIDAE                  P      0     3   0    0      12.11.19 PJC
+  52  LEPIDO ARCTIIDAE                 P      0     2   0    0      12.11.19 PJC
+  53  COLEOP STAPHYLINIDAE             P      0     3   0    0      12.11.19 PJC
+  54  TRICHO ECNOMIDAE                 P     82     0   0    0      12.11.19 PJC
+  55  TRICHO DIPSEUDOPSIDAE            P      8     0   0    0      12.11.19 PJC
+  56  TRICHO DIPSEUDOPSIDAE            -                          1 12.11.19 PJC
+  57  TRICHO GLOSSOSOMATIDAE           P     42    88   0    0      12.11.19 PJC
+  58  TRICHO GLOSSOSOMATIDAE           -                          2 12.11.19 PJC
+  59  TRICHO HYDROPTILIDAE             P    229   220   0    0      12.11.19 PJC
+  60  TRICHO HYDROPTILIDAE             -                          4 12.11.19 PJC
+  61  TRICHO HYDROPSYCHIDAE            P    314     0   0    0      12.11.19 PJC
+  62  TRICHO HYDROPSYCHIDAE            -                          6 12.11.19 PJC
+  63  TRICHO ARCTOPSYCHIDAE            P     12     0   0    0      12.11.19 PJC
+  64  TRICHO ARCTOPSYCHIDAE            -                          1 12.11.19 PJC
+  65  HOMOPT APHIDIDAE                 P      0     7   0    0      12.11.19 PJC
+  66  HOMOPT AREOPODIDAE               P      1     0   0    0      12.11.19 PJC
+  67  HOMOPT CICADELLIDAE              P      4     0   0    0      12.11.19 PJC
+  68  HOMOPT MEMBRACIDAE               P      1     1   0    0      12.11.19 PJC
+  69  ORTHOP ACRIDIDAE                 P      2     0   0    0      12.11.19 PJC
+  70  ACARIN IXODIDAE                  P      0     2   0    0      12.11.19 PJC
+  71  ACARIN TROMBIDIIDAE              P      0     1   0    0      12.11.19 PJC
+  72  LEPIDO GELECHIIDAE               P      0     1   0    0      12.11.19 PJC
+  73  LEPIDO NOCTUIDAE                 P      2     0   0    0      12.11.19 PJC
+  74  COLEOP CARABIDAE                 P      0   241   0    0      12.11.19 PJC
+  75  COLEOP CARABIDAE                 P      0   464   0    0      12.11.19 PJC
+  76  HEMIPT CORIXIDAE                 P     17     0   0    0      12.11.19 PJC
+  77  COLEOP DYTISCIDAE                P      2     0   0    0      12.11.19 PJC
+  78  COLEOP TENEBRIONIDAE             P      0     1   0    0      12.11.19 PJC
+  79  COLEOP CARABIDAE                 P     26   198   0    0      12.11.19 PJC
+  80  DIPTER TACHINIDAE                P     38    11   0    0      12.11.19 PJC
+  81  COLEOP PYTHIDAE                  P    -91    -5   0    0      12.11.19 PJC
+  82  COLEOP STAPHYLINIDAE             P     29    45   0    0      12.11.19 PJC
+  83  HEMIPT CORIXIDAE                 P      2     0   0    0      12.11.19 PJC
+  84  EPHEME CAENIDAE                  V      0    36   0    0      12.11.19 PJC
+  85  HEMIPT CORIXIDAE                 P     73     0   0    0      12.11.19 PJC
+  86  COLEOP CANTHARIDAE               P      5     0   0    0      12.11.19 PJC
+  87  COLEOP CERAMBYCIDAE              P      1     0   0    0      12.11.19 PJC
+  88  COLEOP MYCTERIDAE                P      1     0   0    0      12.11.19 PJC
+  89  COLEOP SALPINGIDAE               P    127     1   0    0      12.11.19 PJC
+  90  COLEOP PYTHIDAE                  -                        -10 12.11.19 PJC
+  91  COLEOP SALPINGIDAE               -                          9 12.11.19 PJC
+  92  COLEOP PYROCHROIDAE              P      2     0   0    0      12.11.19 PJC
+      University of Minnesota Insect Collection Management System.
+
+INVENTORY UPDATES AS OF 2012.12.18 AT 09:00:18                     Page   3
+
+                                  UNRESTRICTED
+
+REC#  ORDER  FAMILY                  STOR   DET   UND  TY   2T   SP   DATE   BY
+
+  93  COLEOP PYROCHROIDAE              -                          1 12.11.19 PJC
+  94  COLEOP ANOBIIDAE                 P      1     0   0    0      12.11.19 PJC
+  95  COLEOP BIPHYLLIDAE               P      0    -2   0    0      12.11.19 PJC
+  96  COLEOP LEIODIDAE                 P      0     1   0    0      12.11.19 PJC
+  97  COLEOP TENEBRIONIDAE             -                         -1 12.11.19 PJC
+  98  COLEOP THROSCIDAE                P     15     0   0    0      12.11.19 PJC
+  99  COLEOP NITIDULIDAE               P      0     1   0    0      12.11.19 PJC
+ 100  COLEOP HALIPLIDAE                P      1     0   0    0      12.11.19 PJC
+ 101  COLEOP MORDELLIDAE               P     21    12   0    0      12.11.19 PJC
+ 102  COLEOP LATHRIDIIDAE              P      5     5   0    0      12.11.19 PJC
+ 103  DIPTER MUSCIDAE                  P      0     4   0    0      12.11.19 PJC
+ 104  COLEOP CLERIDAE                  P      0     4   0    0      12.11.19 PJC
+ 105  COLEOP CHRYSOMELIDAE             P      0     1   0    0      12.11.19 PJC
+ 106  COLEOP COCCINELLIDAE             P      3     0   0    0      12.11.19 PJC
+ 107  HOMOPT CERCOPIDAE                P      0    15   0    0      12.11.19 PJC
+ 108  CORROD PSOCIDAE                  P      0     1   0    0      12.11.19 PJC
+ 109  DIPTER CHIRONOMIDAE              P      0     4   0    0      12.11.19 PJC
+ 110  DIPTER CULICIDAE                 P      0     1   0    0      12.11.19 PJC
+ 111  DIPTER SIMULIIDAE                P      0     4   0    0      12.11.19 PJC
+ 112  HYMENO CHALCIDIDAE               P      1     4   0    0      12.11.19 PJC
+ 113  COLEOP CRYPTOPHAGIDAE            P      2    15   0    0      12.11.19 PJC
+ 114  COLEOP LYCTIDAE                  P      1     0   0    0      12.11.19 PJC
+ 115  COLEOP SILVANIDAE                P      0     1   0    0      12.11.19 PJC
+ 116  HEMIPT COREIDAE                  P      1     0   0    0      12.11.19 PJC
+ 117  HEMIPT RHOPALIDAE                P      1     0   0    0      12.11.19 PJC
+ 118  HEMIPT MIRIDAE                   P     20     0   0    0      12.11.19 PJC
+ 119  TRICHO HYDROPTILIDAE             P     46    13   0    0      12.11.19 PJC
+ 120  TRICHO HYDROPTILIDAE             -                          1 12.11.19 PJC
+ 121  TRICHO LEPIDOSTOMATIDAE          P    152     0   0    0      12.11.19 PJC
+ 122  TRICHO LEPIDOSTOMATIDAE          -                          5 12.11.19 PJC
+ 123  TRICHO LEPTOCERIDAE              P    409     0   0    0      12.11.19 PJC
+ 124  TRICHO LEPTOCERIDAE              -                         18 12.11.19 PJC
+ 125  TRICHO LIMNEPHILIDAE             P    100     1   0    0      12.11.19 PJC
+ 126  TRICHO LIMNEPHILIDAE             -                          4 12.11.19 PJC
+ 127  TRICHO MOLANNIDAE                P     54     0   0    0      12.11.19 PJC
+ 128  TRICHO ODONTOCERIDAE             P      2     0   0    0      12.11.19 PJC
+ 129  TRICHO ODONTOCERIDAE             -                          1 12.11.19 PJC
+ 130  TRICHO PHILOPOTAMIDAE            P    105     0   0    0      12.11.19 PJC
+ 131  TRICHO PHILOPOTAMIDAE            -                          1 12.11.19 PJC
+ 132  TRICHO PHRYGANEIDAE              P     33     0   0    0      12.11.19 PJC
+ 133  TRICHO POLYCENTROPODIDAE         P     21     0   0    0      12.11.19 PJC
+ 134  TRICHO POLYCENTROPODIDAE         -                          2 12.11.19 PJC
+ 135  TRICHO PSYCHOMYIIDAE             P     42     0   0    0      12.11.19 PJC
+ 136  TRICHO PSYCHOMYIIDAE             -                          2 12.11.19 PJC
+ 137  TRICHO RHYACOPHILIDAE            P     31     0   0    0      12.11.19 PJC
+ 138  TRICHO RHYACOPHILIDAE            -                          3 12.11.19 PJC
+      University of Minnesota Insect Collection Management System.
+
+INVENTORY UPDATES AS OF 2012.12.18 AT 09:00:18                     Page   4
+
+                                  UNRESTRICTED
+
+REC#  ORDER  FAMILY                  STOR   DET   UND  TY   2T   SP   DATE   BY
+
+ 139  TRICHO STENOPSYCHIDAE            P     30     9   0    0      12.11.19 PJC
+ 140  TRICHO STENOPSYCHIDAE            -                          2 12.11.19 PJC
+ 141  HYMENO PTEROMALIDAE              P    110  -253   0    0      12.11.19 PJC
+ 142  HYMENO ENCYRTIDAE                P      0    24   0    0      12.11.19 PJC
+ 143  HYMENO EULOPHIDAE                P      0    67   0    0      12.11.19 PJC
+ 144  HYMENO EUPELMIDAE                P      0     1   0    0      12.11.19 PJC
+ 145  HYMENO EURYTOMIDAE               P     39   -47   0    0      12.11.19 PJC
+ 146  HYMENO TORYMIDAE                 P      3    36   0    0      12.11.19 PJC
+ 147  HYMENO DRYINIDAE                 P      0     2   0    0      12.11.19 PJC
+ 148  HYMENO PERILAMPIDAE              P     41   -41   0    0      12.11.19 PJC
+ 149  HYMENO SCELIONIDAE               P      0     5   0    0      12.11.19 PJC
+ 150  COLEOP SCOLYTIDAE                P     29     0   0    0      12.11.19 PJC
+ 151  COLEOP SCOLYTIDAE                -                          1 12.11.19 PJC
+ 152  HYMENO PTEROMALIDAE              -                         14 12.11.19 PJC
+ 153  HYMENO TORYMIDAE                 -                          1 12.11.19 PJC
+ 154  HYMENO BETHYLIDAE                P      0     4   0    0      12.11.19 PJC
+ 155  COLEOP BUPRESTIDAE               P     21     0   0    0      12.11.19 PJC
+ 156  COLEOP BUPRESTIDAE               P      1     0   0    0      12.11.19 PJC
+ 157  TRICHO GOERIDAE                  P    195     0   0    0      12.11.19 PJC
+ 158  TRICHO GOERIDAE                  -                          4 12.11.19 PJC
+ 159  HYMENO CERAPHRONIDAE             P      0     1   0    0      12.11.19 PJC
+ 160  HYMENO MEGASPILIDAE              P      0     1   0    0      12.11.19 PJC
+ 161  HYMENO PLATYGASTERIDAE           P      0     5   0    0      12.11.19 PJC
+ 162  DIPTER DOLICHOPODIDAE            P      0     1   0    0      12.11.19 PJC
+ 163  TRICHO PHILOPOTAMIDAE            P      0     4   0    0      12.11.19 PJC
+ 164  TRICHO PHILOPOTAMIDAE            V      0  -214   0    0      12.11.19 PJC
+ 165  HYMENO SPHECIDAE                 P      3    -4   0    0      12.11.19 PJC
+ 166  HYMENO SPHECIDAE                 -                          1 12.11.19 PJC
+ 167  TRICHO PHILOPOTAMIDAE            P    288  -342   4  284      12.11.19 PJC
+ 168  TRICHO PHILOPOTAMIDAE            V    813  -909   1  546      12.11.19 PJC
+ 169  TRICHO PHILOPOTAMIDAE            -                          9 12.11.19 PJC
+ 170  TRICHO HYDROBIOSIDAE             P      0     1   0    0      12.11.19 PJC
+ 171  DIPTER MILICHIIDAE               P      0     1   0    0      12.11.19 PJC
+ 172  HYMENO SIEROLOMORPHIDAE          P     31   -35   0    0      12.11.19 PJC
+ 173  HYMENO FORMICIDAE                P      0     1   0    0      12.11.19 PJC
+ 174  HYMENO COLLETIDAE                P      0     1   0    0      12.11.19 PJC
+ 175  HYMENO MUTILLIDAE                P      0     2   0    0      12.11.19 PJC
+ 176  HYMENO BRACONIDAE                P      0     2   0    0      12.11.19 PJC
+ 177  ORTHOP ACRIDIDAE                 P      1     0   0    0      12.11.19 PJC
+ 178  ORTHOP ACRIDIDAE                 -                          1 12.11.19 PJC
+ 179  LEPIDO SATURNIIDAE               P      7     0   0    0      12.11.19 PJC
+ 180  LEPIDO PAPILIONIDAE              P      8     0   0    0      12.11.19 PJC
+ 181  LEPIDO PAPILIONIDAE              P     22     0   0    0      12.11.19 PJC
+ 182  LEPIDO NYMPHALIDAE               P      5     0   0    0      12.11.19 PJC
+ 183  LEPIDO BRAHMAEIDAE               P      1     0   0    0      12.11.19 PJC
+ 184  LEPIDO BRAHMAEIDAE               -                          1 12.11.19 PJC
+      University of Minnesota Insect Collection Management System.
+
+INVENTORY UPDATES AS OF 2012.12.18 AT 09:00:18                     Page   5
+
+                                  UNRESTRICTED
+
+REC#  ORDER  FAMILY                  STOR   DET   UND  TY   2T   SP   DATE   BY
+
+ 185  LEPIDO URANIIDAE                 P      1     0   0    0      12.11.19 PJC
+ 186  LEPIDO SATYRIDAE                 P      3     0   0    0      12.11.19 PJC
+ 187  LEPIDO SATYRIDAE                 -                          1 12.11.19 PJC
+ 188  LEPIDO NYMPHALIDAE               P      5     0   0    0      12.11.19 PJC
+ 189  LEPIDO NYMPHALIDAE               P      6     0   0    0      12.11.19 PJC
+ 190  LEPIDO NYMPHALIDAE               -                          5 12.11.19 PJC
+ 191  LEPIDO SATURNIIDAE               P      3     0   0    0      12.11.19 PJC
+ 192  LEPIDO HESPERIIDAE               P      1     0   0    0      12.11.19 PJC
+ 193  LEPIDO LYCAENIDAE                P      5     0   0    0      12.11.19 PJC
+ 194  LEPIDO LYCAENIDAE                -                          2 12.11.19 PJC
+ 195  LEPIDO NYMPHALIDAE               P      2     0   0    0      12.11.19 PJC
+ 196  LEPIDO NYMPHALIDAE               -                          1 12.11.19 PJC
+ 197  COLEOP DASYTIDAE                 P      0     2   0    0      12.11.19 PJC
+ 198  COLEOP DERMESTIDAE               P      1     0   0    0      12.11.19 PJC
+ 199  HYMENO PTEROMALIDAE              P      2    -1   0    0      12.11.19 PJC
+ 200  ODONAT CORDULEGASTRIDAE          V      8     9   0    0      12.11.19 PJC
+ 201  ODONAT CORDULIIDAE               V     67     1   0    0      12.11.19 PJC
+ 202  ODONAT GOMPHIDAE                 V     21   -20   0    0      12.11.19 PJC
+ 203  ODONAT LIBELLULIDAE              V     85   -39   0    0      12.11.19 PJC
+ 204  DIPTER CHYROMYIIDAE              P      1     0   0    0      12.11.19 PJC
+ 205  TRICHO UENOIDAE                  P   -461   -51   0    0      12.11.19 PJC
+ 206  TRICHO UENOIDAE                  -                        -17 12.11.19 PJC
+ 207  MECOPT MEROPIDAE                 P      2     0   0    0      12.11.19 PJC
+ 208  TRICHO ARCTOPSYCHIDAE            P   -246     0   0    0      12.11.19 PJC
+ 209  TRICHO ARCTOPSYCHIDAE            -                         -6 12.11.19 PJC
+ 210  TRICHO HYDROPSYCHIDAE            P    246     0   0    0      12.11.19 PJC
+ 211  TRICHO HYDROPSYCHIDAE            -                          6 12.11.19 PJC
+ 212  HYMENO CHRYSIDIDAE               P      0     4   0    0      12.11.19 PJC
+ 213  COLEOP BRENTIDAE                 P      1     0   0    0      12.11.19 PJC
+ 214  HEMIPT REDUVIIDAE                P      1     0   0    0      12.11.19 PJC
+ 215  HYMENO FIGITIDAE                 P      0    19   0    0      12.11.19 PJC
+ 216  HYMENO HELORIDAE                 P      1     0   0    0      12.11.19 PJC
+ 217  HYMENO ORMYRIDAE                 P      0    17   0    0      12.11.19 PJC
+ 218  DIPTER ULIDIIDAE                 P     21     0   0    0      12.11.19 PJC
+ 219  HYMENO EURYTOMIDAE               P     18    85   0    0      12.11.19 PJC
+ 220  HYMENO EULOPHIDAE                P      0   244   0    0      12.11.19 PJC
+ 221  HYMENO PTEROMALIDAE              P      2   434   0    0      12.11.19 PJC
+ 222  MECOPT MEROPIDAE                 V      4    -4   0    0      12.11.19 PJC
+ 223  HYMENO EUPELMIDAE                P      5    -2   0    0      12.11.19 PJC
+ 224  HYMENO EUPELMIDAE                -                          3 12.11.19 PJC
+ 225  HYMENO ENCYRTIDAE                P      0   132   0    0      12.11.19 PJC
+ 226  HYMENO APHELINIDAE               P      0    27   0    0      12.11.19 PJC
+ 227  HYMENO CHALCIDIDAE               P     50  -330   0    0      12.11.19 PJC
+ 228  HYMENO TORYMIDAE                 P     48  -243   0    0      12.11.19 PJC
+ 229  HYMENO PERILAMPIDAE              P      0     6   0    0      12.11.19 PJC
+ 230  HYMENO SCELIONIDAE               P      0    33   0    0      12.11.19 PJC
+      University of Minnesota Insect Collection Management System.
+
+INVENTORY UPDATES AS OF 2012.12.18 AT 09:00:18                     Page   6
+
+                                  UNRESTRICTED
+
+REC#  ORDER  FAMILY                  STOR   DET   UND  TY   2T   SP   DATE   BY
+
+ 231  HYMENO FORMICIDAE                P      0     1   0    0      12.11.19 PJC
+ 232  HYMENO BRACONIDAE                P      0    22   0    0      12.11.19 PJC
+ 233  HYMENO DIAPRIIDAE                P      0    48   0    0      12.11.19 PJC
+ 234  HYMENO BETHYLIDAE                P      0    15   0    0      12.11.19 PJC
+ 235  HYMENO TENTHREDINIDAE            P      0     1   0    0      12.11.19 PJC
+ 236  HYMENO MEGASPILIDAE              P      0    12   0    0      12.11.19 PJC
+ 237  HYMENO VESPIDAE                  P      1     0   0    0      12.11.19 PJC
+ 238  HYMENO PAMPHILIIDAE              P      1     0   0    0      12.11.19 PJC
+ 239  HYMENO BRACONIDAE                P      0     1   0    0      12.11.19 PJC
+ 240  HYMENO MYMARIDAE                 P      7    76   0    0      12.11.19 PJC
+ 241  HYMENO CERAPHRONIDAE             P      1    37   0    0      12.11.19 PJC
+ 242  HYMENO EVANIIDAE                 P      1     0   0    0      12.11.19 PJC
+ 243  NEUROP CORYDALIDAE               P      0     3   0    0      12.11.19 PJC
+ 244  DIPTER CHIRONOMIDAE              P      0     1   0    0      12.11.19 PJC
+ 245  LEPIDO SPHINGIDAE                P      2     0   0    0      12.11.19 PJC
+ 246  COLEOP CURCULIONIDAE             P      0     2   0    0      12.11.19 PJC
+ 247  HYMENO HALICTIDAE                P      0     1   0    0      12.11.19 PJC
+ 248  HYMENO FORMICIDAE                P      0     1   0    0      12.11.19 PJC
+ 249  ODONAT LIBELLULIDAE              P      0     1   0    0      12.11.19 PJC
+ 250  HEMIPT LYGAEIDAE                 P      0     1   0    0      12.11.19 PJC
+ 251  LEPIDO NYMPHALIDAE               P      0     5   0    0      12.11.19 PJC
+ 252  LEPIDO PAPILIONIDAE              P      0     1   0    0      12.11.19 PJC
+ 253  LEPIDO LYCAENIDAE                P      0     1   0    0      12.11.19 PJC
+ 254  DIPTER TIPULIDAE                 P      0     3   0    0      12.11.19 PJC
+ 255  LEPIDO NOCTUIDAE                 P     12    75   0    0      12.11.19 PJC
+ 256  LEPIDO SATURNIIDAE               P      0     1   0    0      12.11.19 PJC
+ 257  LEPIDO SPHINGIDAE                P      1     0   0    0      12.11.19 PJC
+ 258  LEPIDO NOTODONTIDAE              P      0    21   0    0      12.11.19 PJC
+ 259  TRICHO BRACHYCENTRIDAE           P     -1     0   0    0      12.11.19 PJC
+ 260  TRICHO ECNOMIDAE                 P     -1     0   0    0      12.11.19 PJC
+ 261  TRICHO GLOSSOSOMATIDAE           P     -2     0   0    0      12.11.19 PJC
+ 262  TRICHO GOERIDAE                  P     -1     0   0    0      12.11.19 PJC
+ 263  TRICHO HELICOPSYCHIDAE           P     -1     0   0    0      12.11.19 PJC
+ 264  TRICHO HYDROBIOSIDAE             P     -2     0   0    0      12.11.19 PJC
+ 265  TRICHO HYDROPSYCHIDAE            P     -3     0   0    0      12.11.19 PJC
+ 266  TRICHO HYDROPTILIDAE             P     -3     0   0    0      12.11.19 PJC
+ 267  TRICHO LEPIDOSTOMATIDAE          P     -1     0   0    0      12.11.19 PJC
+ 268  TRICHO LEPTOCERIDAE              P     -3     0   0    0      12.11.19 PJC
+ 269  TRICHO LIMNEPHILIDAE             P     -1     0   0    0      12.11.19 PJC
+ 270  TRICHO PHILOPOTAMIDAE            P     -1     0   0    0      12.11.19 PJC
+ 271  TRICHO PHILORHEITHRIDAE          P     -1     0   0    0      12.11.19 PJC
+ 272  TRICHO PHRYGANEIDAE              P     -1     0   0    0      12.11.19 PJC
+ 273  TRICHO RHYACOPHILIDAE            P     -1     0   0    0      12.11.19 PJC
+ 274  TRICHO HYDROPTILIDAE             P     -5     0   0    0      12.11.19 PJC
+ 275  HYMENO MYMARIDAE                 P      0     1   0    0      12.11.19 PJC
+ 276  HYMENO AGAONIDAE                 P      0     2   0    0      12.11.19 PJC
+      University of Minnesota Insect Collection Management System.
+
+INVENTORY UPDATES AS OF 2012.12.18 AT 09:00:18                     Page   7
+
+                                  UNRESTRICTED
+
+REC#  ORDER  FAMILY                  STOR   DET   UND  TY   2T   SP   DATE   BY
+
+ 277  HYMENO DIAPRIIDAE                P      0     1   0    0      12.11.19 PJC
+ 278  HYMENO TORYMIDAE                 -                          2 12.11.19 PJC
+ 279  HYMENO ICHNEUMONIDAE             P      0     1   0    0      12.11.19 PJC
+ 280  TRICHO HYDROBIOSIDAE             P     86     0   0    0      12.11.19 PJC
+ 281  TRICHO LIMNEPHILIDAE             V      3     0   0    0      12.11.19 PJC
+ 282  TRICHO LIMNEPHILIDAE             -                          1 12.11.19 PJC
+ 283  DIPTER TACHINIDAE                P      0    19   0    0      12.11.19 PJC
+ 284  DIPTER MUSCIDAE                  P      0    21   0    0      12.11.19 PJC
+ 285  HYMENO ROPRONIIDAE               P      0    -1   0    0      12.11.19 PJC
+ 286  HYMENO MONOMACHIDAE              P      0     1   0    0      12.11.19 PJC
+ 287  HYMENO DRYINIDAE                 P      0     8   0    0      12.11.19 PJC
+ 288  HYMENO SIEROLOMORPHIDAE          P      0     1   0    0      12.11.19 PJC
+ 289  HYMENO CERAPHRONIDAE             P      0    36   0    0      12.11.19 PJC
+ 290  HYMENO MEGACHILIDAE              -                          1 12.11.19 PJC
+ 291  HOMOPT FLATIDAE                  P     79   -48   0    0      12.11.19 PJC
+ 292  HOMOPT NOGODINIDAE               P      1     0   0    0      12.11.19 PJC
+ 293  HOMOPT CIXIIDAE                  P      0     2   0    0      12.11.19 PJC
+ 294  HOMOPT ACANALONIIDAE             P     10   -25   0    0      12.11.19 PJC
+ 295  HOMOPT DICTYOPHARIDAE            P    466  -464   0    0      12.11.19 PJC
+ 296  HOMOPT DICTYOPHARIDAE            -                          5 12.11.19 PJC
+ 297  HOMOPT MEMBRACIDAE               P     28     3   0    0      12.11.19 PJC
+ 298  HOMOPT CICADELLIDAE              P   2533 -2442   0    0      12.11.19 PJC
+ 299  HOMOPT CICADELLIDAE              -                        -15 12.11.19 PJC
+ 300  HOMOPT CERCOPIDAE                P     34     1   0    0      12.11.19 PJC
+ 301  HOMOPT CHERMIDAE                 P      0     1   0    0      12.11.19 PJC
+ 302  HOMOPT ADELGIDAE                 P      0     1   0    0      12.11.19 PJC
+ 303  HOMOPT ISSIDAE                   P    154  -151   0    0      12.11.19 PJC
+ 304  THYSAN AEOLOTHRIPIDAE            P      0     1   0    0      12.11.19 PJC
+ 305  THYSAN PHLOEOTHRIPIDAE           P      0     2   0    0      12.11.19 PJC
+ 306  THYSAN THRIPIDAE                 P      0     6   0    0      12.11.19 PJC
+ 307  COLEOP LAMPYRIDAE                P      0     1   0    0      12.11.19 PJC
+ 308  HOMOPT AREOPODIDAE               P      0     2   0    0      12.11.19 PJC
+ 309  HYMENO EUCHARIDIDAE              P      0     1   0    0      12.11.19 PJC
+ 310  HYMENO PLATYGASTERIDAE           P      0   117   0    0      12.11.19 PJC
+ 311  HYMENO PROCTOTRYPIDAE            P      0     3   0    0      12.11.19 PJC
+ 312  HYMENO THYSANIDAE                P      0    -1   0    0      12.11.19 PJC
+ 313  HYMENO EUCHARIDIDAE              P      9    -9   0    0      12.11.19 PJC
+ 314  DIPTER OTITIDAE                  P      0    10   0    0      12.11.19 PJC
+ 315  ISOPOD ASELLIDAE                 P      0     1   0    0      12.11.19 PJC
+ 316  LEPIDO AEGERIIDAE                P      0     1   0    0      12.11.19 PJC
+ 317  ORTHOP GRYLLIDAE                 P      0     1   0    0      12.11.19 PJC
+
+      UPDATE TOTAL FOR STORAGE         P   6137 -1012   5  304
+      UPDATE TOTAL FOR STORAGE         V   1034 -1144   1  546
+      UPDATE TOTAL FOR STORAGE         S      0     0   0    0
+           TOTAL UPDATE                -   7171 -2156   6  850   87
+       University of Minnesota Insect Collection Management System.
+
+CLASS/ORDER UPDATE SUMMARY ON 2012.12.18 AT 09:28:26                Page  1
+
+CL ORDER          DET     UND    TY    2T  %DET   TOTAL  SPEC
+
+AR ACARIN           0       3     0     0   0.0       3     0
+   TOTAL AR         0       3     0     0   0.0       3     0
+
+CR ISOPOD           0       1     0     0   0.0       1     0
+   TOTAL CR         0       1     0     0   0.0       1     0
+
+IN COLEOP         241    1333     0     0  15.3    1574     0
+IN CORROD           0       1     0     0   0.0       1     0
+IN DIPTER          60      80     0     0  42.9     140     0
+IN EPHEME           0      36     0     0   0.0      36     0
+IN HEMIPT         129       6     0     0  95.6     135     0
+IN HOMOPT        3311   -3097     0     0 100.0     214   -10
+IN HYMENO         449     589     0     0  43.3    1038    22
+IN LEPIDO          86     113     0     0  43.2     199    10
+IN MALLOP          21       0     1    20 100.0      21     1
+IN MECOPT           9      -4     0     0 100.0       5     2
+IN NEUROP          40       3     0     0  93.0      43    10
+IN ODONAT         181     -48     0     0 100.0     133     0
+IN ORTHOP           3       1     0     0  75.0       4     1
+IN PLECOP           0       2     0     0   0.0       2     0
+IN THYSAN           0       9     0     0   0.0       9     0
+IN TRICHO        2641   -1184     5   830 100.0    1457    51
+   TOTAL IN      7171   -2160     6   850 100.0    5011    87
+
+UPDATE TOTALS    7171   -2156     6   850 143.0    5015    87
+
+UPDATE SUMMARY BY STORAGE METHOD
+   PINNED        6137   -1012     5   304   120    5125
+   VIALS         1034   -1144     1   546   0.0    -110
+   SLIDES           0       0     0     0   0.0       0

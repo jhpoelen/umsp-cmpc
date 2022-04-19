@@ -1,0 +1,913 @@
+
+       University of Minnesota Insect Collection Management System.
+
+CLASS/ORDER INVENTORY SUMMARY ON 2015.10.01 AT 12:16:41             Page  1
+
+CL ORDER                    DET     UND   TY    2T  %DET    TOTAL   SPEC
+
+AR ACARINA               486308  166292   18    43  74.5   652600    244
+AR ARANEIDA                5340    7257    2     2  42.4    12597    338
+AR CHELONETHIDA              23     149    0     0  13.4      172      5
+AR PEDIPALPIDA                2       9    0     0  18.2       11      2
+AR PHALANGIDA               100     128    0     0  43.9      228     11
+AR SCORPIONIDA               60      48    0     0  55.6      108     22
+AR SOLPUGIDA                 12      24    0     0  33.3       36      7
+        TOTAL AR         491845  173907   20    45  73.9   665752    629
+
+CH ?CHILOPODA                 0     155    0     0   0.0      155      0
+CH GEOPHILOMORPHA             0       5    0     0   0.0        5      0
+CH LITHOBIOMORPHA             0      30    0     0   0.0       30      0
+CH SCOLOPENDROMORPHA          7       6    0     0  53.8       13      5
+CH SCUTIGEROMORPHA            2      19    0     0   9.5       21      1
+        TOTAL CH              9     215    0     0   4.0      224      6
+
+CR AMPHIPODA                856      11    0     0  98.7      867      3
+CR ANOSTRACA                  6       0    0     0 100.0        6      4
+CR BRANCHIURA                65      12    0     0  84.4       77      3
+CR CYCLOPOIDA                63       0    0     0 100.0       63      1
+CR DECAPODA                   8      11    0     0  42.1       19      3
+CR ISOPODA                  345     101    0     0  77.4      446     11
+CR OSTRACODA                  0     110    0     0   0.0      110      0
+        TOTAL CR           1343     245    0     0  84.6     1588     25
+
+DI ?DIPLOPODA                 2      46    0     0   4.2       48      2
+DI CHORDEUMIDEA              31       0    0     0 100.0       31      2
+DI JULIDA                   235      49    0     0  82.7      284      9
+DI PARAIULIDEA               63       0    0     0 100.0       63      1
+DI POLYDESMIDA              259      37    0     0  87.5      296     14
+DI POLYXENIDA                 2       0    0     0 100.0        2      0
+DI SPIROBOLIDA               20      11    0     0  64.5       31      2
+        TOTAL DI            612     143    0     0  81.1      755     30
+
+IN ANOPLURA               13427     472    2   618  96.6    13899    167
+IN ARCHAEOGNATHA             54      42    0     0  56.3       96      0
+IN BLATTODEA                622     357    0     0  63.5      979     29
+IN COLEOPTERA            368381  191828   22   977  65.8   560209  15014
+IN COLLEMBOLA            122043   43864  141    15  73.6   165907     99
+IN DERMAPTERA               643     636    0     0  50.3     1279     13
+IN DIPTERA               250670  244206  174  5944  50.7   494876   5953
+IN EMBIOPTERA                37      53    0     0  41.1       90      2
+IN ENTOTROPHI                 6      64    0     0   8.6       70      1
+IN EPHEMEROPTERA          11898   10723    9   405  52.6    22621    189
+IN HEMIPTERA             317643  214437 1153  4433  59.7   532080   4059
+IN HYMENOPTERA           162531  101935  353  6546  61.5   264466   6862
+IN ISOPTERA                2587    1371    0     0  65.4     3958     23
+IN LEPIDOPTERA           141206   24360    7   438  85.3   165566  10911
+       University of Minnesota Insect Collection Management System.
+
+CLASS/ORDER INVENTORY SUMMARY ON 2015.10.01 AT 12:16:41             Page  2
+
+CL ORDER                    DET     UND   TY    2T  %DET    TOTAL   SPEC
+
+IN MALLOPHAGA            238752    3041   47 10348  98.7   241793   1376
+IN MANTOPHASMATODE            0       1    0     0   0.0        1      0
+IN MECOPTERA                809     395    0     0  67.2     1204     41
+IN MEGALOPTERA             1381     514    2    85  72.9     1895     50
+IN NEUROPTERA              3506    2331    0     4  60.1     5837    195
+IN ODONATA                 9644    1839    0     0  84.0    11483    455
+IN ORTHOPTERA             31272    9603    2    28  76.5    40875    745
+IN PLECOPTERA             13379    1646    2   102  89.0    15025    156
+IN PROTURA                    0       3    0     0   0.0        3      0
+IN PSOCOPTERA               821    6902    0     0  10.6     7723     29
+IN RAPHIDIOPTERA             21     114    0     0  15.6      135      3
+IN SIPHONAPTERA            5573     471    2    20  92.2     6044    163
+IN STREPSIPTERA              15      29    0     0  34.1       44      3
+IN THYSANOPTERA            4523   11163   24   449  28.8    15686   1141
+IN THYSANURA                101     267    0     0  27.4      368      2
+IN TRICHOPTERA           445624  175058  179 *****  71.8   620682   2598
+IN ZORAPTERA                 94       0    0     0 100.0       94      1
+        TOTAL IN        2147263 1047725 2119 *****  67.2  3194988  50280
+
+ME XIPHOSURA                  0       0    0     0   0.0        0      0
+        TOTAL ME              0       0    0     0   0.0        0      0
+
+ON MALACOPODA                 1       3    0     0  25.0        4      1
+        TOTAL ON              1       3    0     0  25.0        4      1
+
+PA ?PAUROPODA                 0       4    0     0   0.0        4      0
+PA TETRAMEROCERATA            0       1    0     0   0.0        1      0
+        TOTAL PA              0       5    0     0   0.0        5      0
+
+PE POROCEPHALIDA              3      14    0     0  17.6       17      1
+        TOTAL PE              3      14    0     0  17.6       17      1
+
+PY ?PYCHNOGONIDA              5       0    0     0 100.0        5      1
+        TOTAL PY              5       0    0     0 100.0        5      1
+
+SY CEPHALOSTIGMATA           19       6    0     0  76.0       25      1
+        TOTAL SY             19       6    0     0  76.0       25      1
+
+TR ?TRILOBITA                 5       0    0     0 100.0        5      1
+        TOTAL TR              5       0    0     0 100.0        5      1
+
+COLLECTION TOTALS       2641105 1222263 2139 *****  68.4  3863368  50975
+
+INVENTORY SUMMARY BY STORAGE METHOD
+
+        PINNED          1006709  504407  581 18050  66.6  1511116
+        VIALS           1160732  568837  100 *****  67.1  1729569
+        SLIDES           473664  149019 1458 17519  76.1   622683
+      University of Minnesota Insect Collection Management System.
+
+INVENTORY UPDATES AS OF 2015.10.01 AT 12:17:16                     Page   1
+
+                                  UNRESTRICTED
+
+REC#  ORDER  FAMILY                  STOR   DET   UND  TY   2T   SP   DATE   BY
+
+   1  COLEOP CARABIDAE                 P     12    30   0    0      14.12.30 RET
+   2  HYMENO ANDRENIDAE                P     75   -75   0    0      14.12.30 RET
+   3  COLEOP SCARABAEIDAE              P    219  -254   0    0      14.12.30 RET
+   4  COLEOP SCARABAEIDAE              -                          2 14.12.30 RET
+   5  DIPTER DROSOPHILIDAE             -                          2 14.12.30 RET
+   6  COLEOP CARABIDAE                 P      0   100   0    0      14.12.30 RET
+   7  HYMENO BRACONIDAE                P      0    79   0    0      14.12.30 RET
+   8  DIPTER SYRPHIDAE                 P      0    44   0    0      14.12.30 RET
+   9  DIPTER THEREVIDAE                P      0     4   0    0      14.12.30 RET
+  10  DIPTER STRATIOMYIIDAE            P      0     3   0    0      14.12.30 RET
+  11  DIPTER CHLOROPIDAE               P      0     6   0    0      14.12.30 RET
+  12  DIPTER SPHAEROCERIDAE            P      0     1   0    0      14.12.30 RET
+  13  DIPTER BIBIONIDAE                P      0     1   0    0      14.12.30 RET
+  14  DIPTER MYCETOPHILIDAE            P      0     2   0    0      14.12.30 RET
+  15  DIPTER TIPULIDAE                 P      0     6   0    0      14.12.30 RET
+  16  DIPTER AGROMYZIDAE               P      0     1   0    0      14.12.30 RET
+  17  COLEOP CHRYSOMELIDAE             P     25   -16   0    0      14.12.30 RET
+  18  COLEOP ALLECULIDAE               P      1     0   0    0      14.12.30 RET
+  19  COLEOP BYRRHIDAE                 P      0     1   0    0      14.12.30 RET
+  20  COLEOP HISTERIDAE                P      0     2   0    0      14.12.30 RET
+  21  COLEOP HYDROPHILIDAE             P      1     4   0    0      14.12.30 RET
+  22  COLEOP LUCANIDAE                 P      4     0   0    0      14.12.30 RET
+  23  COLEOP NITIDULIDAE               P      2     0   0    0      14.12.30 RET
+  24  COLEOP SCOLYTIDAE                P      1     0   0    0      14.12.30 RET
+  25  COLEOP PSELAPHIDAE               P      0     2   0    0      14.12.30 RET
+  26  DIPTER DROSOPHILIDAE             P      3    -3   0    0      14.12.30 RET
+  27  COLEOP EROTYLIDAE                P      1     0   0    0      14.12.30 RET
+  28  COLEOP COLYDIIDAE                P      0     1   0    0      14.12.30 RET
+  29  COLEOP LEIODIDAE                 P      1     0   0    0      14.12.30 RET
+  30  COLEOP TENEBRIONIDAE             P      3     2   0    0      14.12.30 RET
+  31  COLEOP BOSTRICHIDAE              P      1     0   0    0      14.12.30 RET
+  32  COLEOP CISIDAE                   P      0     3   0    0      14.12.30 RET
+  33  COLEOP LUCANIDAE                 P    111  -111   0    0      14.12.30 RET
+  34  COLEOP COCCINELLIDAE             P      1     0   0    0      14.12.30 RET
+  35  ORTHOP BLABERIDAE                P      2     0   0    0      14.12.30 RET
+  36  TRICHO HYDROPSYCHIDAE            P      0     0   1  545      14.12.30 RET
+  37  COLEOP BUPRESTIDAE               -                         -1 15.03.12 RET
+  38  HYMENO SIRICIDAE                 P    135     0   0    0      15.03.12 RET
+  39  ARANEI SALTICIDAE                V     69   617   0    0      15.03.12 RET
+  40  ARANEI SALTICIDAE                -                          1 15.03.12 RET
+  41  COLEOP SCARABAEIDAE              P   1158 -1159   0    0      15.03.12 RET
+  42  COLEOP SCARABAEIDAE              -                         27 15.03.12 RET
+  43  DIPTER DOLICHOPODIDAE            P      0    19   0    0      15.03.12 RET
+  44  DIPTER EMPIDIDAE                 P      0    13   0    0      15.03.12 RET
+  45  DIPTER CONOPIDAE                 P      0     1   0    0      15.03.12 RET
+  46  DIPTER TACHINIDAE                P      0    10   0    0      15.03.12 RET
+      University of Minnesota Insect Collection Management System.
+
+INVENTORY UPDATES AS OF 2015.10.01 AT 12:17:16                     Page   2
+
+                                  UNRESTRICTED
+
+REC#  ORDER  FAMILY                  STOR   DET   UND  TY   2T   SP   DATE   BY
+
+  47  DIPTER MUSCIDAE                  P      0    16   0    0      15.03.12 RET
+  48  DIPTER CALLIPHORIDAE             P      0     5   0    0      15.03.12 RET
+  49  DIPTER EPHYDRIDAE                P      0     3   0    0      15.03.12 RET
+  50  DIPTER CHLOROPIDAE               P      0    13   0    0      15.03.12 RET
+  51  DIPTER AGROMYZIDAE               P      0     1   0    0      15.03.12 RET
+  52  DIPTER ANTHOMYIIDAE              P      0    17   0    0      15.03.12 RET
+  53  DIPTER CHAMAEMYIIDAE             P      0     7   0    0      15.03.12 RET
+  54  DIPTER CULICIDAE                 P      0     2   0    0      15.03.12 RET
+  55  DIPTER LAUXANIIDAE               P      0     4   0    0      15.03.12 RET
+  56  DIPTER SCENOPINIDAE              P      0     7   0    0      15.03.12 RET
+  57  DIPTER SYRPHIDAE                 P      0     2   0    0      15.03.12 RET
+  58  DIPTER SARCOPHAGIDAE             P      0     5   0    0      15.03.12 RET
+  59  DIPTER DROSOPHILIDAE             P      0     1   0    0      15.03.12 RET
+  60  DIPTER STRATIOMYIIDAE            P      0     1   0    0      15.03.12 RET
+  61  ORTHOP BLABERIDAE                P      2     0   0    0      15.03.12 RET
+  62  HYMENO ANDRENIDAE                P    415  -286   0    0      15.03.12 RET
+  63  HYMENO ANDRENIDAE                -                          2 15.03.12 RET
+  64  HYMENO APIDAE                    P     15     0   0    0      15.03.12 RET
+  65  HYMENO COLLETIDAE                P      3     5   0    0      15.03.12 RET
+  66  HYMENO HALICTIDAE                P      5     1   0    0      15.03.12 RET
+  67  HYMENO MEGACHILIDAE              P      1     0   0    0      15.03.12 RET
+  68  COLEOP SCARABAEIDAE              P    931  -932   0    0      15.03.12 RET
+  69  COLEOP CHRYSOMELIDAE             P      0     2   0    0      15.03.12 RET
+  70  DIPTER SCIARIDAE                 P      0     2   0    0      15.03.12 RET
+  71  DIPTER CERATOPOGONIDAE           P      0     5   0    0      15.03.12 RET
+  72  DIPTER SCATOPSIDAE               P      0     2   0    0      15.03.12 RET
+  73  HEMIPT MIRIDAE                   P      0    46   0    0      15.03.12 RET
+  74  HEMIPT SCUTELLERIDAE             P      0     9   0    0      15.03.12 RET
+  75  DIPTER CECIDOMYIIDAE             P      0     1   0    0      15.03.12 RET
+  76  HOMOPT CICADELLIDAE              P      0    36   0    0      15.03.12 RET
+  77  HYMENO CEPHIDAE                  P      0     6   0    0      15.03.12 RET
+  78  HYMENO TENTHREDINIDAE            P      0     7   0    0      15.03.12 RET
+  79  HYMENO MUTILLIDAE                P      0     4   0    0      15.03.12 RET
+  80  HYMENO VESPIDAE                  P      0    10   0    0      15.03.12 RET
+  81  HYMENO TIPHIIDAE                 P      0     1   0    0      15.03.12 RET
+  82  HYMENO POMPILIDAE                P      0     3   0    0      15.03.12 RET
+  83  HYMENO SPHECIDAE                 P      0     9   0    0      15.03.12 RET
+  84  HYMENO BETHYLIDAE                P      0     1   0    0      15.03.12 RET
+  85  HYMENO GASTERUPTIONIDAE          P      0     1   0    0      15.03.12 RET
+  86  HYMENO CHRYSIDIDAE               P      0     1   0    0      15.03.12 RET
+  87  HYMENO PROCTOTRYPIDAE            P      0     3   0    0      15.03.12 RET
+  88  HYMENO DRYINIDAE                 P      0     3   0    0      15.03.12 RET
+  89  HYMENO DIAPRIIDAE                P      0     3   0    0      15.03.12 RET
+  90  HYMENO CERAPHRONIDAE             P      0     1   0    0      15.03.12 RET
+  91  HYMENO SCELIONIDAE               P      0     1   0    0      15.03.12 RET
+  92  HYMENO ICHNEUMONIDAE             P      0    42   0    0      15.03.12 RET
+      University of Minnesota Insect Collection Management System.
+
+INVENTORY UPDATES AS OF 2015.10.01 AT 12:17:16                     Page   3
+
+                                  UNRESTRICTED
+
+REC#  ORDER  FAMILY                  STOR   DET   UND  TY   2T   SP   DATE   BY
+
+  93  HYMENO FORMICIDAE                P      0    32   0    0      15.03.12 RET
+  94  DIPTER SPHAEROCERIDAE            P      0     4   0    0      15.03.12 RET
+  95  LEPIDO NYMPHALIDAE               P      0     1   0    0      15.03.12 RET
+  96  LEPIDO PIERIDAE                  P      0     1   0    0      15.03.12 RET
+  97  LEPIDO GEOMETRIDAE               P      0     1   0    0      15.03.12 RET
+  98  LEPIDO HESPERIIDAE               P      0     1   0    0      15.03.12 RET
+  99  LEPIDO COLEOPHORIDAE             P      0     6   0    0      15.03.12 RET
+ 100  LEPIDO CTENUCHIDAE               P      0     1   0    0      15.03.12 RET
+ 101  ORTHOP ACRIDIDAE                 P      0    13   0    0      15.03.12 RET
+ 102  ORTHOP TETTIGONIIDAE             P      0    11   0    0      15.03.12 RET
+ 103  THYSAN LEPISMATIDAE              P      0     1   0    0      15.03.12 RET
+ 104  EPHEME EPHEMERIDAE               P      0     3   0    0      15.03.12 RET
+ 105  EPHEME BAETIDAE                  P      0     5   0    0      15.03.12 RET
+ 106  DIPTER CHIRONOMIDAE              P      0    75   0    0      15.03.12 RET
+ 107  ODONAT CORDULIIDAE               P      0     1   0    0      15.03.12 RET
+ 108  ODONAT LESTIDAE                  P      0     4   0    0      15.03.12 RET
+ 109  ODONAT COENAGRIONIDAE            P      4    10   0    0      15.03.12 RET
+ 110  DIPTER CHLOROPIDAE               P      0    11   0    0      15.03.12 RET
+ 111  DIPTER PIPUNCULIDAE              P      0     3   0    0      15.03.12 RET
+ 112  DIPTER LAUXANIIDAE               P      0     3   0    0      15.03.12 RET
+ 113  DIPTER SEPSIDAE                  P      0     2   0    0      15.03.12 RET
+ 114  DIPTER LONCHAEIDAE               P      0     5   0    0      15.03.12 RET
+ 115  DIPTER AGROMYZIDAE               P      0     9   0    0      15.03.12 RET
+ 116  DIPTER SYRPHIDAE                 P      0    59   0    0      15.03.12 RET
+ 117  DIPTER SCIOMYZIDAE               P      0     9   0    0      15.03.12 RET
+ 118  DIPTER DOLICHOPODIDAE            P      0     1   0    0      15.03.12 RET
+ 119  DIPTER TRYPETIDAE                P      0     6   0    0      15.03.12 RET
+ 120  DIPTER ULIDIIDAE                 P      0     5   0    0      15.03.12 RET
+ 121  DIPTER ASILIDAE                  P      0     9   0    0      15.03.12 RET
+ 122  DIPTER STRATIOMYIIDAE            P      0     1   0    0      15.03.12 RET
+ 123  DIPTER TABANIDAE                 P      0     5   0    0      15.03.12 RET
+ 124  DIPTER RHAGIONIDAE               P      0     2   0    0      15.03.12 RET
+ 125  DIPTER CORDYLURIDAE              P      0     3   0    0      15.03.12 RET
+ 126  DIPTER BIBIONIDAE                P      0    14   0    0      15.03.12 RET
+ 127  COLEOP COCCINELLIDAE             P      0    38   0    0      15.03.12 RET
+ 128  COLEOP ELATERIDAE                P      0    11   0    0      15.03.12 RET
+ 129  COLEOP CERAMBYCIDAE              P      0     6   0    0      15.03.12 RET
+ 130  COLEOP MELOIDAE                  P      0     1   0    0      15.03.12 RET
+ 131  COLEOP ANTHICIDAE                P      0     2   0    0      15.03.12 RET
+ 132  COLEOP CHRYSOMELIDAE             P      0    65   0    0      15.03.12 RET
+ 133  COLEOP CURCULIONIDAE             P      0    77   0    0      15.03.12 RET
+ 134  DIPTER CULICIDAE                 P      7     0   0    0      15.03.12 RET
+ 135  DIPTER CULICIDAE                 P     51     0   0    0      15.03.12 RET
+ 136  COLEOP STAPHYLINIDAE             P      0     3   0    0      15.03.12 RET
+ 137  COLEOP BRUCHIDAE                 P      0     6   0    0      15.03.12 RET
+ 138  COLEOP CERAMBYCIDAE              P      0     1   0    0      15.03.12 RET
+      University of Minnesota Insect Collection Management System.
+
+INVENTORY UPDATES AS OF 2015.10.01 AT 12:17:16                     Page   4
+
+                                  UNRESTRICTED
+
+REC#  ORDER  FAMILY                  STOR   DET   UND  TY   2T   SP   DATE   BY
+
+ 139  COLEOP NITIDULIDAE               P      0     7   0    0      15.03.12 RET
+ 140  COLEOP CLERIDAE                  P      0     6   0    0      15.03.12 RET
+ 141  COLEOP OEDEMERIDAE               P      0     1   0    0      15.03.12 RET
+ 142  COLEOP HYDROPHILIDAE             P      0     1   0    0      15.03.12 RET
+ 143  COLEOP PHALACRIDAE               P      0    15   0    0      15.03.12 RET
+ 144  COLEOP SCARABAEIDAE              P      0     1   0    0      15.03.12 RET
+ 145  COLEOP CHRYSOMELIDAE             P      0     1   0    0      15.03.12 RET
+ 146  COLEOP DASYTIDAE                 P      0     3   0    0      15.03.12 RET
+ 147  DIPTER EMPIDIDAE                 P      0     4   0    0      15.03.12 RET
+ 148  HYMENO ANDRENIDAE                P    121  -121   0    0      15.03.12 RET
+ 149  HYMENO APIDAE                    P      1     1   0    0      15.03.12 RET
+ 150  HYMENO HALICTIDAE                P     40   -29   0    0      15.03.12 RET
+ 151  LEPIDO PYRALIDAE                 P      0    13   0    0      15.03.12 RET
+ 152  LEPIDO AEGERIIDAE                P      0     1   0    0      15.03.12 RET
+ 153  LEPIDO LYCAENIDAE                P      0     2   0    0      15.03.12 RET
+ 154  HOMOPT APHIDIDAE                 P      0     2   0    0      15.03.12 RET
+ 155  HOMOPT ALEYRODIDAE               P      0     1   0    0      15.03.12 RET
+ 156  HOMOPT AREOPODIDAE               P      0    19   0    0      15.03.12 RET
+ 157  HOMOPT CIXIIDAE                  P      0    13   0    0      15.03.12 RET
+ 158  HOMOPT ISSIDAE                   P      0    17   0    0      15.03.12 RET
+ 159  HEMIPT PENTATOMIDAE              P      0     7   0    0      15.03.12 RET
+ 160  HOMOPT CERCOPIDAE                P      0     6   0    0      15.03.12 RET
+ 161  HOMOPT CICADELLIDAE              P      0    35   0    0      15.03.12 RET
+ 162  DIPTER CECIDOMYIIDAE             P      0    14   0    0      15.03.12 RET
+ 163  DIPTER PHORIDAE                  P      0    11   0    0      15.03.12 RET
+ 164  DIPTER LONCHOPTERIDAE            P      0     1   0    0      15.03.12 RET
+ 165  DIPTER CERATOPOGONIDAE           P      0     1   0    0      15.03.12 RET
+ 166  DIPTER SCIARIDAE                 P      0     2   0    0      15.03.12 RET
+ 167  DIPTER AULACOGASTRIDAE           P      0     1   0    0      15.03.12 RET
+ 168  HOMOPT CHERMIDAE                 P      0     5   0    0      15.03.12 RET
+ 169  COLEOP HALIPLIDAE                P      0     1   0    0      15.03.12 RET
+ 170  COLEOP ENDOMYCHIDAE              P      0     1   0    0      15.03.12 RET
+ 171  COLEOP BUPRESTIDAE               P      0     3   0    0      15.03.12 RET
+ 172  COLEOP SCARABAEIDAE              P      1     3   0    0      15.03.12 RET
+ 173  TRICHO HYDROPSYCHIDAE            P      0     1   0    0      15.03.12 RET
+ 174  TRICHO LEPTOCERIDAE              P      0     1   0    0      15.03.12 RET
+ 175  NEUROP SISYRIDAE                 P      0     3   0    0      15.03.12 RET
+ 176  NEUROP CHRYSOPIDAE               P      0     2   0    0      15.03.12 RET
+ 177  HOMOPT ACANALONIIDAE             P      0     2   0    0      15.03.12 RET
+ 178  HOMOPT DICTYOPHARIDAE            P      0     6   0    0      15.03.12 RET
+ 179  HOMOPT CICADELLIDAE              P      0    65   0    0      15.03.12 RET
+ 180  TRICHO HYDROPSYCHIDAE            P     33    22   0    0      15.03.12 RET
+ 181  TRICHO HYDROPSYCHIDAE            -                          1 15.03.12 RET
+ 182  TRICHO PHILOPOTAMIDAE            P      1     6   0    0      15.03.12 RET
+ 183  TRICHO LEPTOCERIDAE              P     11    32   0    0      15.03.12 RET
+ 184  TRICHO LEPTOCERIDAE              -                          2 15.03.12 RET
+      University of Minnesota Insect Collection Management System.
+
+INVENTORY UPDATES AS OF 2015.10.01 AT 12:17:16                     Page   5
+
+                                  UNRESTRICTED
+
+REC#  ORDER  FAMILY                  STOR   DET   UND  TY   2T   SP   DATE   BY
+
+ 185  DIPTER RHAGIONIDAE               P      0     1   0    0      15.03.12 RET
+ 186  PLECOP PERLODIDAE                P      0     1   0    0      15.03.12 RET
+ 187  TRICHO PHRYGANEIDAE              P      0     1   0    0      15.03.12 RET
+ 188  COLEOP HISTERIDAE                P      0     2   0    0      15.03.12 RET
+ 189  COLEOP CHRYSOMELIDAE             P      0    16   0    0      15.03.12 RET
+ 190  COLEOP HYDROPHILIDAE             P      0     1   0    0      15.03.12 RET
+ 191  COLEOP STAPHYLINIDAE             P      0    22   0    0      15.03.12 RET
+ 192  HEMIPT RHOPALIDAE                P      0     4   0    0      15.03.12 RET
+ 193  HEMIPT TINGIDAE                  P      0     5   0    0      15.03.12 RET
+ 194  HEMIPT REDUVIIDAE                P      0    14   0    0      15.03.12 RET
+ 195  HEMIPT LYGAEIDAE                 P      0    15   0    0      15.03.12 RET
+ 196  HEMIPT NEIDIDAE                  P      0     2   0    0      15.03.12 RET
+ 197  HEMIPT MIRIDAE                   P      0     1   0    0      15.03.12 RET
+ 198  TRICHO HYDROPTILIDAE             P     26    43   0    0      15.03.12 RET
+ 199  TRICHO HYDROPTILIDAE             -                          1 15.03.12 RET
+ 200  TRICHO LEPTOCERIDAE              P     15    33   0    0      15.03.12 RET
+ 201  TRICHO LEPTOCERIDAE              -                          4 15.03.12 RET
+ 202  TRICHO HYDROPSYCHIDAE            P      3     6   0    0      15.03.12 RET
+ 203  TRICHO ECNOMIDAE                 P      3     0   0    0      15.03.12 RET
+ 204  TRICHO ECNOMIDAE                 -                          1 15.03.12 RET
+ 205  TRICHO LEPIDOSTOMATIDAE          P      0     3   0    0      15.03.12 RET
+ 206  TRICHO POLYCENTROPODIDAE         P      0     2   0    0      15.03.12 RET
+ 207  TRICHO PHILOPOTAMIDAE            P      1     2   0    0      15.03.12 RET
+ 208  TRICHO PHILOPOTAMIDAE            -                          1 15.03.12 RET
+ 209  COLEOP CURCULIONIDAE             P      0    14   0    0      15.03.12 RET
+ 210  COLEOP ANTHICIDAE                P      0     1   0    0      15.03.12 RET
+ 211  COLEOP BYRRHIDAE                 P      0     1   0    0      15.03.12 RET
+ 212  COLEOP EROTYLIDAE                P      0     9   0    0      15.03.12 RET
+ 213  COLEOP PHENGODIDAE               P      0     1   0    0      15.03.12 RET
+ 214  HOMOPT APHIDIDAE                 P      0     2   0    0      15.03.12 RET
+ 215  HOMOPT MEMBRACIDAE               P      0    16   0    0      15.03.12 RET
+ 216  HEMIPT RHOPALIDAE                P      0     2   0    0      15.03.12 RET
+ 217  HEMIPT ALYDIDAE                  P      0     3   0    0      15.04.29 RET
+ 218  HEMIPT NABIDAE                   P      0    10   0    0      15.04.29 RET
+ 219  COLEOP LAMPYRIDAE                P      0    22   0    0      15.04.29 RET
+ 220  COLEOP CANTHARIDAE               P      0    15   0    0      15.04.29 RET
+ 221  COLEOP CUCUJIDAE                 P      0    12   0    0      15.04.29 RET
+ 222  HYMENO FORMICIDAE                P     -1     2   0    0      15.04.29 RET
+ 223  HYMENO FORMICIDAE                -                         -9 15.04.29 RET
+ 224  DIPTER CHIRONOMIDAE              S    183     0   3  128      15.04.29 RET
+ 225  DIPTER CHIRONOMIDAE              -                          3 15.04.29 RET
+ 226  COLEOP CHRYSOMELIDAE             P      0     9   0    0      15.04.29 RET
+ 227  ACARIN TROMBIDIIDAE              P      0     1   0    0      15.04.29 RET
+ 228  HYMENO VESPIDAE                  -                          1 15.04.29 RET
+ 229  NEUROP ASCALAPHIDAE              P      0    -3   0    0      15.04.29 RET
+ 230  COLEOP CHRYSOMELIDAE             P      5     7   0    0      15.04.29 RET
+      University of Minnesota Insect Collection Management System.
+
+INVENTORY UPDATES AS OF 2015.10.01 AT 12:17:16                     Page   6
+
+                                  UNRESTRICTED
+
+REC#  ORDER  FAMILY                  STOR   DET   UND  TY   2T   SP   DATE   BY
+
+ 231  HEMIPT PENTATOMIDAE              P      0     1   0    0      15.04.29 RET
+ 232  COLEOP CANTHARIDAE               P      3     0   0    0      15.04.29 RET
+ 233  COLEOP LYCIDAE                   P      1     0   0    0      15.04.29 RET
+ 234  COLEOP TENEBRIONIDAE             P      0     3   0    0      15.04.29 RET
+ 235  TRICHO LIMNEPHILIDAE             P      2     0   0    0      15.04.29 RET
+ 236  COLEOP TENEBRIONIDAE             P      0    10   0    0      15.04.29 RET
+ 237  COLEOP CARABIDAE                 P      0     3   0    0      15.04.29 RET
+ 238  COLEOP COCCINELLIDAE             P      0    19   0    0      15.04.29 RET
+ 239  COLEOP SCARABAEIDAE              P    272  -271   0    0      15.04.29 RET
+ 240  TRICHO DIPSEUDOPSIDAE            V     29     0   0    0      15.04.29 RET
+ 241  TRICHO HYDROPSYCHIDAE            V     28     0   0    0      15.04.29 RET
+ 242  TRICHO HYDROPTILIDAE             V    193     0   0    0      15.04.29 RET
+ 243  TRICHO HYDROPTILIDAE             -                          4 15.04.29 RET
+ 244  TRICHO LEPIDOSTOMATIDAE          V      1     0   0    0      15.04.29 RET
+ 245  TRICHO LIMNEPHILIDAE             V     22     0   0    0      15.04.29 RET
+ 246  TRICHO MOLANNIDAE                V      7     0   0    0      15.04.29 RET
+ 247  TRICHO PHILOPOTAMIDAE            V     72     0   0    0      15.04.29 RET
+ 248  TRICHO POLYCENTROPODIDAE         V     13     0   0    0      15.04.29 RET
+ 249  TRICHO POLYCENTROPODIDAE         -                          1 15.04.29 RET
+ 250  TRICHO RHYACOPHILIDAE            V     16     0   0    0      15.04.29 RET
+ 251  TRICHO PSYCHOMYIIDAE             V     16     0   0    0      15.04.29 RET
+ 252  TRICHO PSYCHOMYIIDAE             -                          1 15.04.29 RET
+ 253  HYMENO ANDRENIDAE                P      9     1   0    0      15.04.29 RET
+ 254  HYMENO COLLETIDAE                P    209  -262   0    0      15.04.29 RET
+ 255  HYMENO HALICTIDAE                P     46     1   0    0      15.04.29 RET
+ 256  HYMENO MEGACHILIDAE              P      2     0   0    0      15.04.29 RET
+ 257  COLEOP CARABIDAE                 P      0     3   0    0      15.04.29 RET
+ 258  COLEOP SCARABAEIDAE              P      0     2   0    0      15.04.29 RET
+ 259  COLEOP LUCANIDAE                 P      0     1   0    0      15.04.29 RET
+ 260  COLEOP TENEBRIONIDAE             P      0     1   0    0      15.04.29 RET
+ 261  COLEOP SCARABAEIDAE              P      0     9   0    0      15.04.29 RET
+ 262  COLEOP CARABIDAE                 P      0     7   0    0      15.04.29 RET
+ 263  COLEOP MELOIDAE                  P      0     4   0    0      15.04.29 RET
+ 264  COLEOP TENEBRIONIDAE             P      0     1   0    0      15.04.29 RET
+ 265  COLEOP HYDROPHILIDAE             P      0     3   0    0      15.04.29 RET
+ 266  COLEOP BUPRESTIDAE               P      0     9   0    0      15.04.29 RET
+ 267  HEMIPT TINGIDAE                  P      0     2   0    0      15.04.29 RET
+ 268  HEMIPT LYGAEIDAE                 P      0    12   0    0      15.04.29 RET
+ 269  HOMOPT APHIDIDAE                 P      0    24   0    0      15.04.29 RET
+ 270  HOMOPT FLATIDAE                  P      0     1   0    0      15.04.29 RET
+ 271  COLEOP MORDELLIDAE               P      0    12   0    0      15.04.29 RET
+ 272  COLEOP HELODIDAE                 P      0     5   0    0      15.04.29 RET
+ 273  DIPTER SCIARIDAE                 P      0     2   0    0      15.04.29 RET
+ 274  DIPTER AGROMYZIDAE               P      0     1   0    0      15.04.29 RET
+ 275  DIPTER LAUXANIIDAE               P      0     1   0    0      15.04.29 RET
+ 276  DIPTER CERATOPOGONIDAE           P      0     4   0    0      15.04.29 RET
+      University of Minnesota Insect Collection Management System.
+
+INVENTORY UPDATES AS OF 2015.10.01 AT 12:17:16                     Page   7
+
+                                  UNRESTRICTED
+
+REC#  ORDER  FAMILY                  STOR   DET   UND  TY   2T   SP   DATE   BY
+
+ 277  COLEOP SILVANIDAE                P      0     1   0    0      15.04.29 RET
+ 278  COLEOP CRYPTOPHAGIDAE            P      0     2   0    0      15.04.29 RET
+ 279  HEMIPT ANTHOCORIDAE              P      5     0   0    0      15.04.29 RET
+ 280  HEMIPT CORIMELAENIDAE            P      0     4   0    0      15.04.29 RET
+ 281  COLEOP CHRYSOMELIDAE             P      0     1   0    0      15.04.29 RET
+ 282  THYSAN THRIPIDAE                 P      0     1   0    0      15.04.29 RET
+ 283  COLEOP NITIDULIDAE               P      0     4   0    0      15.04.29 RET
+ 284  DIPTER TIPULIDAE                 P      0     1   0    0      15.04.29 RET
+ 285  DIPTER OTITIDAE                  P      0     4   0    0      15.04.29 RET
+ 286  COLEOP PHALACRIDAE               P      0     4   0    0      15.04.29 RET
+ 287  HYMENO BETHYLIDAE                P      0     3   0    0      15.04.29 RET
+ 288  NEUROP CONIOPTERYGIDAE           P      0     2   0    0      15.04.29 RET
+ 289  HEMIPT PENTATOMIDAE              P      0     8   0    0      15.04.29 RET
+ 290  CORROD PSEUDOCAECILIIDAE         P      0     2   0    0      15.04.29 RET
+ 291  CORROD ?CORRODENTIA              P      0     4   0    0      15.04.29 RET
+ 292  HOMOPT COCCIDAE                  P      0     6   0    0      15.04.29 RET
+ 293  COLEOP LATHRIDIIDAE              P      0     1   0    0      15.04.29 RET
+ 294  NEUROP CHRYSOPIDAE               V     21     0   0    0      15.04.29 RET
+ 295  NEUROP CHRYSOPIDAE               -                          1 15.04.29 RET
+ 296  NEUROP BEROTHIDAE                V      7     0   0    0      15.04.29 RET
+ 297  NEUROP HEMEROBIIDAE              V     20     0   0    0      15.04.29 RET
+ 298  NEUROP HEMEROBIIDAE              -                          1 15.04.29 RET
+ 299  NEUROP DILARIDAE                 V      5     0   0    0      15.04.29 RET
+ 300  NEUROP DILARIDAE                 -                          1 15.04.29 RET
+ 301  NEUROP CONIOPTERYGIDAE           V     11     0   0    0      15.04.29 RET
+ 302  NEUROP MYRMELEONTIDAE            V      2     0   0    0      15.04.29 RET
+ 303  MECOPT MEROPIDAE                 V      5     0   0    0      15.04.29 RET
+ 304  MECOPT BITTACIDAE                V      6     0   0    0      15.04.29 RET
+ 305  PLECOP LEUCTRIDAE                V     31     0   0    0      15.04.29 RET
+ 306  PLECOP CHLOROPERLIDAE            V      4     0   0    0      15.04.29 RET
+ 307  PLECOP PERLIDAE                  V      7     0   0    0      15.04.29 RET
+ 308  EPHEME HEPTAGENIIDAE             V     14     0   0    0      15.04.29 RET
+ 309  EPHEME HEPTAGENIIDAE             -                          1 15.04.29 RET
+ 310  COLEOP CARABIDAE                 P    342  -342   0    0      15.04.29 RET
+ 311  COLEOP ELATERIDAE                P      3     1   0    0      15.04.29 RET
+ 312  COLEOP STAPHYLINIDAE             P      0     1   0    0      15.04.29 RET
+ 313  COLEOP CHRYSOMELIDAE             P      0     9   0    0      15.04.29 RET
+ 314  COLEOP HISTERIDAE                P      0     2   0    0      15.04.29 RET
+ 315  COLEOP CARABIDAE                 P      0     9   0    0      15.04.29 RET
+ 316  COLEOP BUPRESTIDAE               P      0     1   0    0      15.04.29 RET
+ 317  COLEOP MELOIDAE                  P      0     1   0    0      15.04.29 RET
+ 318  COLEOP SCARABAEIDAE              P    272  -272   0    0      15.04.29 RET
+ 319  COLEOP CARABIDAE                 P    104  -104   0    0      15.04.29 RET
+ 320  PLECOP PERLODIDAE                V     22     0   0    0      15.04.29 RET
+ 321  PLECOP PERLODIDAE                -                          5 15.04.29 RET
+ 322  EPHEME LEPTOPHLEBIIDAE           V    320     0   0    0      15.04.29 RET
+      University of Minnesota Insect Collection Management System.
+
+INVENTORY UPDATES AS OF 2015.10.01 AT 12:17:16                     Page   8
+
+                                  UNRESTRICTED
+
+REC#  ORDER  FAMILY                  STOR   DET   UND  TY   2T   SP   DATE   BY
+
+ 323  EPHEME LEPTOPHLEBIIDAE           -                          1 15.04.29 RET
+ 324  EPHEME HEPTAGENIIDAE             V     23     0   0    0      15.04.29 RET
+ 325  EPHEME HEPTAGENIIDAE             -                          1 15.04.29 RET
+ 326  COLEOP CARABIDAE                 P     78   -78   0    0      15.04.29 RET
+ 327  COLEOP TENEBRIONIDAE             P      0     5   0    0      15.04.29 RET
+ 328  COLEOP CARABIDAE                 P      0     6   0    0      15.04.29 RET
+ 329  COLEOP ELATERIDAE                P      0    10   0    0      15.04.29 RET
+ 330  COLEOP CHRYSOMELIDAE             P      0     7   0    0      15.04.29 RET
+ 331  COLEOP BUPRESTIDAE               P      1     4   0    0      15.04.29 RET
+ 332  COLEOP CARABIDAE                 P     84   -84   0    0      15.04.29 RET
+ 333  ORTHOP BLABERIDAE                P      0     1   0    0      15.04.29 RET
+ 334  COLEOP OSTOMATIDAE               P      0     2   0    0      15.04.29 RET
+ 335  COLEOP CLERIDAE                  P      0     4   0    0      15.04.29 RET
+ 336  COLEOP SCARABAEIDAE              P      0     2   0    0      15.04.29 RET
+ 337  COLEOP MORDELLIDAE               P      0     1   0    0      15.04.29 RET
+ 338  COLEOP MELOIDAE                  P      0     2   0    0      15.04.29 RET
+ 339  COLEOP LAMPYRIDAE                P      0     5   0    0      15.04.29 RET
+ 340  COLEOP CARABIDAE                 P     63   -63   0    0      15.04.29 RET
+ 341  COLEOP SCARABAEIDAE              P     97   -97   0    0      15.04.29 RET
+ 342  COLEOP CARABIDAE                 P     37   -33   0    0      15.04.29 RET
+ 343  DIPTER CULICIDAE                 P     30     0   0    0      15.04.29 RET
+ 344  COLEOP CHRYSOMELIDAE             P      3    18   0    0      15.04.29 RET
+ 345  COLEOP SCARABAEIDAE              P      0    12   0    0      15.04.29 RET
+ 346  COLEOP TENEBRIONIDAE             P      0     4   0    0      15.04.29 RET
+ 347  COLEOP OEDEMERIDAE               P      1     1   0    0      15.04.29 RET
+ 348  HEMIPT PENTATOMIDAE              P      0     2   0    0      15.04.29 RET
+ 349  COLEOP CURCULIONIDAE             P      4     7   0    0      15.04.29 RET
+ 350  HEMIPT REDUVIIDAE                P      1     0   0    0      15.04.29 RET
+ 351  COLEOP MELOIDAE                  P      3     0   0    0      15.04.29 RET
+ 352  COLEOP MELOIDAE                  -                          1 15.04.29 RET
+ 353  COLEOP PYROCHROIDAE              P      1     0   0    0      15.04.29 RET
+ 354  COLEOP PYROCHROIDAE              -                          1 15.04.29 RET
+ 355  COLEOP SCARABAEIDAE              P      1     0   0    0      15.04.29 RET
+ 356  COLEOP SCARABAEIDAE              -                          1 15.04.29 RET
+ 357  COLEOP CARABIDAE                 P    118  -118   0    0      15.04.29 RET
+ 358  COLEOP SCARABAEIDAE              P    172  -172   0    0      15.04.29 RET
+ 359  COLEOP CARABIDAE                 P     36   -36   0    0      15.04.29 RET
+ 360  DIPTER OESTRIDAE                 P      1     0   0    0      15.05.15 RET
+ 361  COLEOP CHRYSOMELIDAE             P     10     6   0    0      15.05.15 RET
+ 362  COLEOP MORDELLIDAE               P      0     1   0    0      15.05.15 RET
+ 363  COLEOP SCARABAEIDAE              P      1     1   0    0      15.05.15 RET
+ 364  COLEOP MELOIDAE                  P      0     2   0    0      15.05.15 RET
+ 365  COLEOP BUPRESTIDAE               P      0     1   0    0      15.05.15 RET
+ 366  COLEOP CLERIDAE                  P      0     1   0    0      15.05.15 RET
+ 367  COLEOP TENEBRIONIDAE             P      0     1   0    0      15.05.15 RET
+ 368  COLEOP CURCULIONIDAE             P      0     5   0    0      15.05.15 RET
+      University of Minnesota Insect Collection Management System.
+
+INVENTORY UPDATES AS OF 2015.10.01 AT 12:17:16                     Page   9
+
+                                  UNRESTRICTED
+
+REC#  ORDER  FAMILY                  STOR   DET   UND  TY   2T   SP   DATE   BY
+
+ 369  COLEOP DASYTIDAE                 P      5     0   0    0      15.05.15 RET
+ 370  COLEOP LATHRIDIIDAE              P      0     1   0    0      15.05.15 RET
+ 371  HYMENO VESPIDAE                  P      0     1   0    0      15.05.15 RET
+ 372  HYMENO SPHECIDAE                 P      0     1   0    0      15.05.15 RET
+ 373  DIPTER ASILIDAE                  P      0     9   0    0      15.05.15 RET
+ 374  COLEOP STAPHYLINIDAE             P      0     1   0    0      15.05.15 RET
+ 375  COLEOP CARABIDAE                 P    188  -188   0    0      15.05.15 RET
+ 376  DIPTER CULICIDAE                 P     17   125   0    0      15.05.15 RET
+ 377  HEMIPT REDUVIIDAE                P      1     7   0    0      15.05.15 RET
+ 378  HYMENO MEGACHILIDAE              P      0     2   0    0      15.05.15 RET
+ 379  HYMENO CHRYSIDIDAE               P      0     1   0    0      15.05.15 RET
+ 380  HYMENO ICHNEUMONIDAE             P      0     1   0    0      15.05.15 RET
+ 381  HYMENO HALICTIDAE                P      0     2   0    0      15.05.15 RET
+ 382  DIPTER SYRPHIDAE                 P      0     2   0    0      15.05.15 RET
+ 383  DIPTER TYLIDAE                   P      0     1   0    0      15.05.15 RET
+ 384  DIPTER MUSCIDAE                  P      0     1   0    0      15.05.15 RET
+ 385  HEMIPT MIRIDAE                   P      0     1   0    0      15.05.15 RET
+ 386  COLEOP CARABIDAE                 P      6    -6   0    0      15.05.15 RET
+ 387  HYMENO FORMICIDAE                P      1     0   0    0      15.05.15 RET
+ 388  COLEOP SCARABAEIDAE              P     45   -45   0    0      15.05.15 RET
+ 389  DIPTER TRYPETIDAE                P      8     0   0    0      15.05.15 RET
+ 390  COLEOP CERAMBYCIDAE              P      0     1   0    0      15.05.15 RET
+ 391  ORTHOP TETTIGONIIDAE             P      0     1   0    0      15.05.15 RET
+ 392  ORTHOP ACRIDIDAE                 P      0     1   0    0      15.05.15 RET
+ 393  ORTHOP BLATTIDAE                 P      0     1   0    0      15.05.15 RET
+ 394  HYMENO BRACONIDAE                P      0     1   0    0      15.05.15 RET
+ 395  HYMENO HALICTIDAE                P     -2     0   0    0      15.05.15 RET
+ 396  COLEOP CARABIDAE                 P     11   -11   0    0      15.05.15 RET
+ 397  COLEOP CARABIDAE                 -                          1 15.05.15 RET
+ 398  LEPIDO TINEIDAE                  P      0     2   0    0      15.05.15 RET
+ 399  HYMENO ANDRENIDAE                P     10    11   0    0      15.05.15 RET
+ 400  HYMENO ANDRENIDAE                -                          3 15.05.15 RET
+ 401  HYMENO APIDAE                    P      1     5   0    0      15.05.15 RET
+ 402  HYMENO APIDAE                    -                          1 15.05.15 RET
+ 403  HYMENO COLLETIDAE                P    417  -117   0    0      15.05.15 RET
+ 404  HYMENO COLLETIDAE                -                          1 15.05.15 RET
+ 405  HYMENO HALICTIDAE                P      4     2   0    0      15.05.15 RET
+ 406  HYMENO BETHYLIDAE                P      0     4   0    0      15.05.15 RET
+ 407  HYMENO SPHECIDAE                 P      0     5   0    0      15.05.15 RET
+ 408  ODONAT COENAGRIONIDAE            P     77     0   0    0      15.05.15 RET
+ 409  ODONAT LESTIDAE                  P      9     0   0    0      15.05.15 RET
+ 410  ODONAT GOMPHIDAE                 P     58     0   0    0      15.05.15 RET
+ 411  ODONAT AESHNIDAE                 P      8     0   0    0      15.05.15 RET
+ 412  ODONAT CALOPTERYGIDAE            P      3     0   0    0      15.05.15 RET
+ 413  ODONAT COENAGRIONIDAE            -                          1 15.05.15 RET
+ 414  ODONAT COENAGRIONIDAE            -                         -1 15.05.19 RET
+      University of Minnesota Insect Collection Management System.
+
+INVENTORY UPDATES AS OF 2015.10.01 AT 12:17:16                     Page  10
+
+                                  UNRESTRICTED
+
+REC#  ORDER  FAMILY                  STOR   DET   UND  TY   2T   SP   DATE   BY
+
+ 415  HEMIPT TINGIDAE                  -                          1 15.06.11 RET
+ 416  HYMENO ANDRENIDAE                P      2     0   0    0      15.06.11 RET
+ 417  HYMENO HALICTIDAE                P      2     4   0    0      15.06.11 RET
+ 418  HYMENO MELITTIDAE                P     15   -23   0    0      15.06.11 RET
+ 419  ODONAT COENAGRIONIDAE            P      0     6   0    0      15.06.11 RET
+ 420  ODONAT CALOPTERYGIDAE            P      0    12   0    0      15.06.11 RET
+ 421  ODONAT CORDULIIDAE               P     36     4   0    0      15.06.11 RET
+ 422  ODONAT AESHNIDAE                 P      3     2   0    0      15.06.11 RET
+ 423  ODONAT LIBELLULIDAE              P     12     4   0    0      15.06.11 RET
+ 424  ODONAT GOMPHIDAE                 P     18     1   0    0      15.06.11 RET
+ 425  ODONAT CORDULEGASTRIDAE          P      3     0   0    0      15.06.11 RET
+ 426  ODONAT GOMPHIDAE                 -                          1 15.06.11 RET
+ 427  ODONAT LESTIDAE                  P      3     0   0    0      15.06.11 RET
+ 428  ODONAT CORDULIIDAE               -                          1 15.06.11 RET
+ 429  HYMENO VESPIDAE                  P   1047 -1147   0    0      15.06.11 RET
+ 430  HYMENO HALICTIDAE                P      0     3   0    0      15.06.11 RET
+ 431  HYMENO MEGACHILIDAE              P      0     1   0    0      15.06.11 RET
+ 432  HYMENO POMPILIDAE                P      0     1   0    0      15.06.11 RET
+ 433  ODONAT GOMPHIDAE                 P     37     4   0    0      15.06.11 RET
+ 434  ODONAT LESTIDAE                  P      0     1   0    0      15.06.11 RET
+ 435  ODONAT AESHNIDAE                 P     14     1   0    0      15.06.11 RET
+ 436  ODONAT LIBELLULIDAE              P      5     0   0    0      15.06.11 RET
+ 437  ODONAT CORDULEGASTRIDAE          P      2     0   0    0      15.06.11 RET
+ 438  HYMENO GASTERUPTIONIDAE          P      4     0   0    0      15.06.11 RET
+ 439  HYMENO BRACONIDAE                P      0     1   0    0      15.06.11 RET
+ 440  HYMENO ICHNEUMONIDAE             P      1     0   0    0      15.06.11 RET
+ 441  HYMENO IBALIIDAE                 P      1     0   0    0      15.06.11 RET
+ 442  HYMENO TENTHREDINIDAE            P      0     1   0    0      15.06.11 RET
+ 443  LEPIDO DANAIDAE                  P     10     0   0    0      15.06.11 RET
+ 444  LEPIDO PAPILIONIDAE              P      4     0   0    0      15.06.11 RET
+ 445  LEPIDO NYMPHALIDAE               P      8     0   0    0      15.06.11 RET
+ 446  LEPIDO NYMPHALIDAE               P      8     0   0    0      15.06.11 RET
+ 447  LEPIDO NYMPHALIDAE               -                          1 15.06.11 RET
+ 448  COLEOP SCARABAEIDAE              P     45   -47   0    0      15.06.11 RET
+ 449  COLEOP SCARABAEIDAE              -                          1 15.06.11 RET
+ 450  COLEOP PASSALIDAE                P      1     1   0    0      15.06.11 RET
+ 451  LEPIDO PIERIDAE                  P     21     0   0    0      15.06.23 RET
+ 452  LEPIDO NYMPHALIDAE               P     22     0   0    0      15.06.23 RET
+ 453  LEPIDO PIERIDAE                  -                          1 15.06.23 RET
+ 454  LEPIDO NYMPHALIDAE               -                          1 15.06.23 RET
+ 455  HYMENO SPHECIDAE                 P      1    52   0    0      15.06.23 RET
+ 456  COLEOP LYMEXYLIDAE               P      1     0   0    0      15.06.23 RET
+ 457  ORTHOP ACRIDIDAE                 P      4     0   0    0      15.06.23 RET
+ 458  HOMOPT ACANALONIIDAE             P      3     0   0    0      15.06.23 RET
+ 459  HOMOPT CICADELLIDAE              P      2     0   0    0      15.06.23 RET
+ 460  COLEOP COCCINELLIDAE             P     66   -66   0    0      15.06.23 RET
+      University of Minnesota Insect Collection Management System.
+
+INVENTORY UPDATES AS OF 2015.10.01 AT 12:17:16                     Page  11
+
+                                  UNRESTRICTED
+
+REC#  ORDER  FAMILY                  STOR   DET   UND  TY   2T   SP   DATE   BY
+
+ 461  HYMENO SIEROLOMORPHIDAE          P      0     1   0    0      15.06.23 RET
+ 462  HYMENO TIPHIIDAE                 P      1     0   0    0      15.06.23 RET
+ 463  COLEOP LUCANIDAE                 P     38   -38   0    0      15.06.23 RET
+ 464  HYMENO VESPIDAE                  -                          7 15.06.23 RET
+ 465  HYMENO CIMBICIDAE                P      1     0   0    0      15.06.23 RET
+ 466  COLEOP DERMESTIDAE               P      6     0   0    0      15.06.23 RET
+ 467  HYMENO VESPIDAE                  P     25   -25   0    0      15.06.23 RET
+ 468  HYMENO VESPIDAE                  -                          3 15.06.23 RET
+ 469  TRICHO PHRYGANEIDAE              P      1     0   0    0      15.06.24 RET
+ 470  TRICHO PHRYGANEIDAE              -                          1 15.06.24 RET
+ 471  COLEOP SCARABAEIDAE              P      4     0   0    0      15.06.24 RET
+ 472  COLEOP CERAMBYCIDAE              P     10     0   0    0      15.06.24 RET
+ 473  COLEOP CANTHARIDAE               P      4     0   0    0      15.06.24 RET
+ 474  COLEOP HYDROPHILIDAE             P      0     4   0    0      15.06.24 RET
+ 475  COLEOP CHRYSOMELIDAE             P      5     0   0    0      15.06.24 RET
+ 476  NEUROP HEMEROBIIDAE              P     29   -12   0    0      15.06.24 RET
+ 477  NEUROP CHRYSOPIDAE               P      3     0   0    0      15.06.24 RET
+ 478  COLEOP LYCTIDAE                  P      5     0   0    0      15.06.24 RET
+ 479  DIPTER DOLICHOPODIDAE            P      2     0   0    0      15.06.24 RET
+ 480  HYMENO VESPIDAE                  P     28   -36   0    0      15.06.24 RET
+ 481  HYMENO TENTHREDINIDAE            P      0     1   0    0      15.06.24 RET
+ 482  HYMENO TIPHIIDAE                 P      0     2   0    0      15.06.24 RET
+ 483  HYMENO SPHECIDAE                 P      0     5   0    0      15.06.24 RET
+ 484  LEPIDO NYMPHALIDAE               P      0     5   0    0      15.06.24 RET
+ 485  LEPIDO RIODINIDAE                P      0     1   0    0      15.06.24 RET
+ 486  LEPIDO PIERIDAE                  P      0     2   0    0      15.06.24 RET
+ 487  LEPIDO PAPILIONIDAE              P      1     0   0    0      15.07.14 RET
+ 488  LEPIDO NYMPHALIDAE               -                          1 15.07.14 RET
+ 489  LEPIDO URANIIDAE                 P      1     0   0    0      15.07.14 RET
+ 490  DIPTER STRATIOMYIIDAE            P      0     5   0    0      15.07.14 RET
+ 491  DIPTER STRATIOMYIIDAE            P      1    -6   0    0      15.07.14 RET
+ 492  LEPIDO AGARISTIDAE               P     74   -16   0    0      15.07.14 RET
+ 493  LEPIDO NOCTUIDAE                 P      0   -58   0    0      15.07.14 RET
+ 494  LEPIDO NOCTUIDAE                 -                         -6 15.07.14 RET
+ 495  LEPIDO AGARISTIDAE               -                          4 15.07.14 RET
+ 496  LEPIDO SATYRIDAE                 P      5     1   0    0      15.07.14 RET
+ 497  LEPIDO HESPERIIDAE               P      0     1   0    0      15.07.14 RET
+ 498  LEPIDO SATYRIDAE                 -                          2 15.07.14 RET
+ 499  LEPIDO RIODINIDAE                P      1     0   0    0      15.07.14 RET
+ 500  COLEOP SCARABAEIDAE              P     -1     1   0    0      15.07.14 RET
+ 501  HOMOPT MEMBRACIDAE               P     -3     4   0    0      15.07.14 RET
+ 502  COLEOP ELATERIDAE                P      1     0   0    0      15.07.14 RET
+ 503  ORTHOP BLABERIDAE                P     21     0   0    0      15.07.14 RET
+ 504  COLEOP CERAMBYCIDAE              P     10     0   0    0      15.07.14 RET
+ 505  COLEOP SCARABAEIDAE              P      2     0   0    0      15.07.21 RET
+ 506  COLEOP CANTHARIDAE               P      9     0   0    0      15.07.21 RET
+      University of Minnesota Insect Collection Management System.
+
+INVENTORY UPDATES AS OF 2015.10.01 AT 12:17:16                     Page  12
+
+                                  UNRESTRICTED
+
+REC#  ORDER  FAMILY                  STOR   DET   UND  TY   2T   SP   DATE   BY
+
+ 507  COLEOP HYDROPHILIDAE             P      0     4   0    0      15.07.21 RET
+ 508  COLEOP CHRYSOMELIDAE             P      2     0   0    0      15.07.21 RET
+ 509  ODONAT LIBELLULIDAE              P      0     3   0    0      15.07.21 RET
+ 510  ODONAT LESTIDAE                  P      0     1   0    0      15.07.21 RET
+ 511  ODONAT AESHNIDAE                 P      0     1   0    0      15.07.21 RET
+ 512  HYMENO VESPIDAE                  P    303  -302   0    0      15.07.21 RET
+ 513  DIPTER OESTRIDAE                 P      1     0   0    0      15.07.21 RET
+ 514  COLEOP SCOLYTIDAE                P      0     1   0    0      15.07.21 RET
+ 515  NEUROP CORYDALIDAE               P      1     0   0    0      15.07.21 RET
+ 516  HYMENO VESPIDAE                  -                          2 15.07.21 RET
+ 517  LEPIDO NOCTUIDAE                 P      1     0   0    0      15.07.21 RET
+ 518  LEPIDO YPONOMEUTIDAE             P     12   -12   0    0      15.07.21 RET
+ 519  LEPIDO YPONOMEUTIDAE             -                          1 15.07.21 RET
+ 520  LEPIDO OECOPHORIDAE              P      0     1   0    0      15.07.21 RET
+ 521  COLEOP CERAMBYCIDAE              P     21   -21   0    0      15.07.21 RET
+ 522  COLEOP COCCINELLIDAE             P      2    -2   0    0      15.07.21 RET
+ 523  LEPIDO YPONOMEUTIDAE             P     25     0   0    0      15.08.14 RET
+ 524  LEPIDO CTENUCHIDAE               P      1     0   0    0      15.08.14 RET
+ 525  LEPIDO LYCAENIDAE                P      1     0   0    0      15.08.14 RET
+ 526  DIPTER TACHINIDAE                P      3     0   0    0      15.08.14 RET
+ 527  DIPTER SYRPHIDAE                 P     34     0   0    0      15.08.14 RET
+ 528  LEPIDO PLUTELLIDAE               P      2     0   0    0      15.08.14 RET
+ 529  COLEOP CERAMBYCIDAE              P     21     0   0    0      15.08.14 RET
+ 530  COLEOP COCCINELLIDAE             P     22     0   0    0      15.08.14 RET
+ 531  HYMENO APIDAE                    P     28     0   0    0      15.08.14 RET
+ 532  HYMENO ANDRENIDAE                P      6     0   0    0      15.08.14 RET
+ 533  HYMENO HALICTIDAE                P      3     0   0    0      15.08.14 RET
+ 534  HYMENO VESPIDAE                  P    111  -111   0    0      15.08.14 RET
+ 535  COLEOP CUPIDAE                   P     10    -9   0    0      15.08.14 RET
+ 536  HYMENO VESPIDAE                  -                          9 15.08.14 RET
+ 537  NEUROP MANTISPIDAE               P      0     2   0    0      15.08.14 RET
+ 538  HYMENO ENCYRTIDAE                P      0     1   0    0      15.08.14 RET
+ 539  DIPTER MUSCIDAE                  P      6     0   0    0      15.08.14 RET
+ 540  COLEOP CURCULIONIDAE             P     28    -3   0    0      15.08.14 RET
+ 541  HEMIPT BELOSTOMATIDAE            P     11     0   0    0      15.08.14 RET
+ 542  LEPIDO SPHINGIDAE                P    129  -129   0    0      15.08.14 RET
+ 543  DIPTER DROSOPHILIDAE             P     26     0   0    0      15.08.14 RET
+ 544  DIPTER DROSOPHILIDAE             -                          1 15.08.14 RET
+ 545  DIPTER SYRPHIDAE                 P     93   -92   0    0      15.08.14 RET
+ 546  THYSAN MACHILIDAE                P      0    11   0    0      15.08.14 RET
+ 547  THYSAN LEPISMATIDAE              P      0    -5   0    0      15.08.14 RET
+ 548  DIPTER DROSOPHILIDAE             P      4     0   0    0      15.08.14 RET
+ 549  LEPIDO SATURNIIDAE               P     12   -11   0    0      15.08.14 RET
+ 550  LEPIDO GELECHIIDAE               P      5     1   0    0      15.08.14 RET
+ 551  LEPIDO GELECHIIDAE               -                          2 15.08.14 RET
+ 552  LEPIDO DANAIDAE                  P      1     0   0    0      15.08.14 RET
+      University of Minnesota Insect Collection Management System.
+
+INVENTORY UPDATES AS OF 2015.10.01 AT 12:17:16                     Page  13
+
+                                  UNRESTRICTED
+
+REC#  ORDER  FAMILY                  STOR   DET   UND  TY   2T   SP   DATE   BY
+
+ 553  LEPIDO NOCTUIDAE                 P      2     0   0    0      15.08.14 RET
+ 554  LEPIDO TINEIDAE                  P      0     1   0    0      15.08.14 RET
+ 555  XIPHOS LIMULIDAE                 P      4     0   0    0      15.08.14 RET
+ 556  XIPHOS LIMULIDAE                 -                          1 15.08.14 RET
+ 557  DIPTER SYRPHIDAE                 -                        -38 15.08.14 RET
+ 558  LEPIDO GEOMETRIDAE               P      2     0   0    0      15.08.20 RET
+ 559  LEPIDO PTEROPHORIDAE             P      0     2   0    0      15.08.20 RET
+ 560  LEPIDO TORTRICIDAE               P      3     1   0    0      15.08.20 RET
+ 561  LEPIDO TORTRICIDAE               -                          2 15.08.20 RET
+ 562  LEPIDO NOCTUIDAE                 P      3     0   0    0      15.08.20 RET
+ 563  LEPIDO NOCTUIDAE                 -                          1 15.08.20 RET
+ 564  LEPIDO GELECHIIDAE               P      1     0   0    0      15.08.20 RET
+ 565  LEPIDO OECOPHORIDAE              P      4     0   0    0      15.08.20 RET
+ 566  HYMENO SPHECIDAE                 P      1     5   0    0      15.08.20 RET
+ 567  HYMENO BRACONIDAE                P      0     4   0    0      15.08.20 RET
+ 568  HYMENO TENTHREDINIDAE            P      0     1   0    0      15.08.20 RET
+ 569  HYMENO CYNIPIDAE                 P      0     1   0    0      15.08.20 RET
+ 570  HYMENO FORMICIDAE                P      3     2   0    0      15.08.20 RET
+ 571  HYMENO FORMICIDAE                -                          1 15.08.20 RET
+ 572  HYMENO ICHNEUMONIDAE             P      0     2   0    0      15.08.20 RET
+ 573  HYMENO VESPIDAE                  P      0     4   0    0      15.08.20 RET
+ 574  HYMENO HALICTIDAE                P      0     1   0    0      15.08.20 RET
+ 575  DIPTER TACHINIDAE                P      0     1   0    0      15.08.20 RET
+ 576  HEMIPT MACROVELIIDAE             P      3     0   0    0      15.09.14 RET
+ 577  HYMENO VESPIDAE                  P     51   -56   0    0      15.09.14 RET
+ 578  HYMENO VESPIDAE                  -                          8 15.09.14 RET
+ 579  COLEOP TENEBRIONIDAE             P      7     0   0    0      15.09.14 RET
+ 580  COLEOP SCARABAEIDAE              P     10     6   0    0      15.09.14 RET
+ 581  COLEOP CARABIDAE                 P      4     2   0    0      15.09.14 RET
+ 582  COLEOP CERAMBYCIDAE              P      3     1   0    0      15.09.14 RET
+ 583  COLEOP CANTHARIDAE               P      0     2   0    0      15.09.14 RET
+ 584  LEPIDO COLEOPHORIDAE             P      0     1   0    0      15.09.14 RET
+ 585  HYMENO POMPILIDAE                P      0     1   0    0      15.09.14 RET
+ 586  HYMENO SPHECIDAE                 P      0     5   0    0      15.09.14 RET
+ 587  DIPTER SYRPHIDAE                 P   1038 -1035   0    0      15.09.14 RET
+ 588  COLEOP MELOIDAE                  P      0     1   0    0      15.09.14 RET
+ 589  COLEOP DYTISCIDAE                P      0     3   0    0      15.09.14 RET
+ 590  COLEOP HYDROPHILIDAE             P      0     2   0    0      15.09.14 RET
+ 591  COLEOP CHRYSOMELIDAE             P     18     7   0    0      15.09.14 RET
+ 592  COLEOP CHRYSOMELIDAE             -                          3 15.09.14 RET
+ 593  LEPIDO NOCTUIDAE                 P      9     0   0    0      15.09.14 RET
+ 594  COLEOP CHRYSOMELIDAE             P      0     1   0    0      15.09.14 RET
+ 595  LEPIDO YPONOMEUTIDAE             P      3     4   0    0      15.09.14 RET
+ 596  LEPIDO YPONOMEUTIDAE             -                          2 15.09.14 RET
+ 597  LEPIDO ARGYRESTHIIDAE            P     -3    -4   0    0      15.09.14 RET
+ 598  LEPIDO ARGYRESTHIIDAE            -                         -2 15.09.14 RET
+      University of Minnesota Insect Collection Management System.
+
+INVENTORY UPDATES AS OF 2015.10.01 AT 12:17:16                     Page  14
+
+                                  UNRESTRICTED
+
+REC#  ORDER  FAMILY                  STOR   DET   UND  TY   2T   SP   DATE   BY
+
+ 599  LEPIDO TORTRICIDAE               P    445     7   1   73      15.09.14 RET
+ 600  LEPIDO TORTRICIDAE               -                         62 15.09.14 RET
+ 601  DIPTER HELEOMYZIDAE              P     31    16   0    0      15.09.14 RET
+ 602  DIPTER HELEOMYZIDAE              -                          6 15.09.14 RET
+ 603  DIPTER XYLOPHAGIDAE              P    180     4   0    0      15.09.14 RET
+ 604  DIPTER ULIDIIDAE                 P   1034   211   0    0      15.09.14 RET
+ 605  DIPTER ULIDIIDAE                 V    215    53   0    0      15.09.14 RET
+ 606  DIPTER ULIDIIDAE                 -                         27 15.09.14 RET
+ 607  DIPTER OESTRIDAE                 P     23    30   0    0      15.09.14 RET
+ 608  DIPTER OESTRIDAE                 V    324    25   0    0      15.09.14 RET
+ 609  DIPTER OESTRIDAE                 S      4     0   0    0      15.09.14 RET
+ 610  DIPTER OESTRIDAE                 -                          3 15.09.14 RET
+ 611  DIPTER OESTRIDAE                 P      5     1   0    0      15.09.14 RET
+ 612  DIPTER OESTRIDAE                 -                          3 15.09.14 RET
+ 613  DIPTER OESTRIDAE                 P     80     5   1    0      15.09.14 RET
+ 614  DIPTER OESTRIDAE                 V     13    27   0    0      15.09.14 RET
+ 615  DIPTER OESTRIDAE                 S     25     0   0    0      15.09.14 RET
+ 616  DIPTER OESTRIDAE                 -                         12 15.09.14 RET
+ 617  COLEOP MONOTOMIDAE               P    133    29   0    0      15.09.15 RET
+ 618  COLEOP MONOTOMIDAE               -                         14 15.09.15 RET
+ 619  COLEOP CIIDAE                    V      0     2   0    0      15.09.15 RET
+ 620  HEMIPT REDUVIIDAE                P     31    70   0    0      15.09.15 RET
+ 621  HEMIPT REDUVIIDAE                -                          6 15.09.15 RET
+ 622  COLEOP STAPHYLINIDAE             P      0     1   0    0      15.09.15 RET
+ 623  COLEOP COCCINELLIDAE             P      0     1   0    0      15.09.15 RET
+ 624  COLEOP MORDELLIDAE               P      0     1   0    0      15.09.15 RET
+ 625  COLEOP CURCULIONIDAE             P     15     2   0    0      15.09.15 RET
+ 626  COLEOP CURCULIONIDAE             -                          1 15.09.15 RET
+ 627  COLEOP MELYRIDAE                 P      2     0   0    0      15.09.15 RET
+ 628  COLEOP CERAMBYCIDAE              P      2     0   0    0      15.09.15 RET
+ 629  COLEOP CLERIDAE                  P      0     2   0    0      15.09.15 RET
+ 630  COLEOP ANTHRIBIDAE               P      1     0   0    0      15.09.15 RET
+ 631  COLEOP BUPRESTIDAE               P      2     0   0    0      15.09.15 RET
+ 632  COLEOP EROTYLIDAE                P      1     0   0    0      15.09.15 RET
+ 633  COLEOP EROTYLIDAE                -                          1 15.09.15 RET
+ 634  COLEOP HISTERIDAE                P      2     0   0    0      15.09.15 RET
+ 635  COLEOP HISTERIDAE                -                          1 15.09.15 RET
+ 636  COLEOP ELATERIDAE                P      2     0   0    0      15.09.15 RET
+ 637  COLEOP ELATERIDAE                -                          1 15.09.15 RET
+ 638  COLEOP BRENTIDAE                 P      0     1   0    0      15.09.15 RET
+ 639  COLEOP SCIRTIDAE                 P      2     0   0    0      15.09.15 RET
+ 640  HEMIPT APHIDIDAE                 P      0     6   0    0      15.09.15 RET
+ 641  DIPTER ULIDIIDAE                 P   1034   211   0    0      15.09.15 RET
+ 642  DIPTER ULIDIIDAE                 V    215    53   0    0      15.09.15 RET
+ 643  DIPTER ULIDIIDAE                 -                         27 15.09.15 RET
+ 644  DIPTER HELEOMYZIDAE              P     31    16   0    0      15.09.15 RET
+      University of Minnesota Insect Collection Management System.
+
+INVENTORY UPDATES AS OF 2015.10.01 AT 12:17:16                     Page  15
+
+                                  UNRESTRICTED
+
+REC#  ORDER  FAMILY                  STOR   DET   UND  TY   2T   SP   DATE   BY
+
+ 645  DIPTER HELEOMYZIDAE              -                          6 15.09.15 RET
+ 646  COLEOP DERMESTIDAE               P      2     0   0    0      15.09.30 RET
+ 647  DIPTER TACHINIDAE                P      0     1   0    0      15.09.30 RET
+ 648  DIPTER AGROMYZIDAE               P      0     2   0    0      15.09.30 RET
+ 649  DIPTER CHIRONOMIDAE              P      0     1   0    0      15.09.30 RET
+ 650  DIPTER SYRPHIDAE                 P      0     2   0    0      15.09.30 RET
+ 651  DIPTER TABANIDAE                 P      0     1   0    0      15.09.30 RET
+ 652  DIPTER CALLIPHORIDAE             P      0     1   0    0      15.09.30 RET
+ 653  DIPTER SARCOPHAGIDAE             P      0     1   0    0      15.09.30 RET
+ 654  DIPTER ASILIDAE                  P      1     3   0    0      15.09.30 RET
+ 655  DIPTER STRATIOMYIDAE             P      1     1   0    0      15.09.30 RET
+ 656  DIPTER STRATIOMYIDAE             -                         -1 15.09.30 RET
+ 657  DIPTER BOMBYLIIDAE               P      0     1   0    0      15.09.30 RET
+ 658  DIPTER CHLOROPIDAE               P      0     1   0    0      15.09.30 RET
+ 659  DIPTER PLATYSTOMATIDAE           P      1     0   0    0      15.09.30 RET
+ 660  DIPTER SYRPHIDAE                 P    351  -347   0    0      15.09.30 RET
+ 661  DIPTER ASILIDAE                  -                          1 15.09.30 RET
+ 662  HYMENO PERILAMPIDAE              P      1     0   0    0      15.09.30 RET
+ 663  HYMENO POMPILIDAE                P      0     1   0    0      15.09.30 RET
+ 664  HYMENO PTEROMALIDAE              P      0     1   0    0      15.09.30 RET
+ 665  HYMENO CHALCIDIDAE               P      0     3   0    0      15.09.30 RET
+ 666  HYMENO MUTILLIDAE                P      0     2   0    0      15.09.30 RET
+ 667  HEMIPT TINGIDAE                  -                         -1 15.09.30 RET
+ 668  HEMIPT TINGIDAE                  P     -1     0   0    0      15.09.30 RET
+ 669  HEMIPT PIESMATIDAE               P      1     0   0    0      15.09.30 RET
+ 670  HEMIPT SCUTELLERIDAE             P      1     0   0    0      15.09.30 RET
+ 671  HEMIPT PIESMATIDAE               P      0     4   0    0      15.09.30 RET
+ 672  HEMIPT TINGIDAE                  P      7     0   0    0      15.09.30 RET
+ 673  HEMIPT CICADELLIDAE              P      2     5   0    0      15.09.30 RET
+ 674  HEMIPT MIRIDAE                   P      0     2   0    0      15.09.30 RET
+ 675  HEMIPT REDUVIIDAE                P      0     2   0    0      15.09.30 RET
+ 676  NEUROP MYRMELEONTIDAE            P      0     2   0    0      15.09.30 RET
+ 677  DIPTER SYRPHIDAE                 P    243  -243   0    0      15.09.30 RET
+ 678  DIPTER TIPULIDAE                 P      0     1   0    0      15.09.30 RET
+ 679  DIPTER CHIRONOMIDAE              P      0     1   0    0      15.09.30 RET
+
+      UPDATE TOTAL FOR STORAGE         P  13771 -5966   3  618
+      UPDATE TOTAL FOR STORAGE         V   1731   777   0    0
+      UPDATE TOTAL FOR STORAGE         S    212     0   3  128
+           TOTAL UPDATE                -  15714 -5189   6  746  245

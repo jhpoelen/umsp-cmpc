@@ -1,0 +1,44 @@
+
+       University of Minnesota Insect Collection Management System.
+
+CLASS/ORDER UPDATE SUMMARY ON 2013.11.28 AT 20:23:46                Page  1
+
+CL ORDER          DET     UND    TY    2T  %DET   TOTAL  SPEC
+
+IN COLEOP         162    -161     0     1 100.0       1     6
+IN DIPTER         953    -940     0     0 100.0      13    12
+IN HEMIPT          83     -83     0    24   0.0       0     5
+IN HYMENO         504    -490     0     2 100.0      14    70
+IN LEPIDO           0      13     0     0   0.0      13     0
+IN MECOPT           0      17     0     0   0.0      17     0
+IN NEUROP          21      -1     0     0 100.0      20     2
+IN TRICHO       17403    6838     0     0  71.8   24241    38
+   TOTAL IN     19126    5193     0    27  78.6   24319   133
+
+UPDATE TOTALS   19126    5193     0    27  78.6   24319   133
+
+UPDATE SUMMARY BY STORAGE METHOD
+   PINNED        3490   -1540     0    27   179    1950
+   VIALS        15636    6733     0     0  69.9   22369
+   SLIDES           0       0     0     0   0.0       0
+
+       University of Minnesota Insect Collection Management System.
+
+UPDATE EVALUATION ON 2013.11.28 AT 20:23:50                         Page  1
+
+    RC# CL ORDER  FAMILY               PROBLEM
+
+    103 IN NEUROP OSMYLIDAE            UPDATE RESULTS IN NEG P VALUES
+    144 IN TRICHO PHRYGANOPSYCHIDAE    0 SP WITH >0 DET OR TY VALUES
+
+  150 RECORDS PROCESSED         2 ERRORS DETECTED
+
+UPDATE EVALUATION COMPLETE
+
+
+     MERGE OF UPDATE INTO INVENTORY COMPLETE --
+           ORIGINAL UPDATE FILE RENAMED up31128.SAV
+           ORIGINAL INVENTORY FILE RENAMED in31128.SAV
+           A NEW EMPTY FILE HAS BEEN CREATED FOR FUTURE UPDATES.
+
+     SAVE ALL UPDATE SUMMARY AND EVALUATION PAGES FOR YOUR RECORDS.
