@@ -20,6 +20,8 @@ $ preston ls\
  > umsp-cmpc-transactions-up-to-2021.csv
 ```
 
+
+
 where:
   * [git](https://git-scm.com/) (https://git-scm.com/) is content tracker
   * [preston](https://preston.guoda.bio) (https://preston.guoda.bio) is a biodiversity dataset tracker
@@ -27,7 +29,7 @@ where:
   * [mlr](https://miller.readthedocs.io/en/latest/) (aka "miller", https://miller.readthedocs.io/en/latest/) is a csv/json processing tool 
 
 
-With this, the following [sorted list of unique order-family pairs](./umsp-cmpc-order-families-up-to-2021.csv) (see also [umsp-cmpc-order-families-up-to-2021.csv](./umsp-cmpc-order-families-up-to-2021.csv)) was generated:
+With this, a [sorted list of unique order-family pairs](./umsp-cmpc-order-families-up-to-2021.csv) (see also [umsp-cmpc-order-families-up-to-2021.csv](./umsp-cmpc-order-families-up-to-2021.csv)) was generated:
 
 ```
  cat umsp-cmpc-transactions-up-to-2021.csv\
@@ -35,5 +37,3 @@ With this, the following [sorted list of unique order-family pairs](./umsp-cmpc-
  | mlr --csv uniq -g ORDER,FAMILY\
  > umsp-cmpc-order-families-up-to-2021.csv
 ```
-
-
