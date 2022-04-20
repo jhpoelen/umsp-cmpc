@@ -9,6 +9,20 @@ This archive contains records related to the University of Minnesota Insect Coll
 # citation
 University of Minnesota Insect Collection (UMSP) CMPC Archive. 2021. https://github.com/jhpoelen/umsp-cmpc https://archive.softwareheritage.org/browse/origin/?origin_url=https://github.com/jhpoelen/umsp-cmpc hash://sha256/9da75fc73ac81bb81ea38a29206cc3dc29aefabf5d70403c6afa237464150c7b Also see https://insectcollection.umn.edu/ . 
 
+# origin
+This archive was generated from a thumbdrive provided by University of M. researchers using the following command:
+
+```
+$ cd [some/path/on/thumbdrive]
+$ find ${PWD} -type f\
+| sed "s+^+file://+g"\
+| xargs -L100 preston track 
+```
+
+The [Preston](https://preston.guoda.bio) command ```dbase-stream``` (see https://github.com/bio-guoda/preston/issues/165) was developed specifically to enable the creation of this archive. 
+
+Note that any directory structure can be tracked like this.
+
 # example usage
 
 As an example, a [log of collection transactions from a 2021 CMPC archive](./umsp-cmpc-transactions-up-to-2021.csv) (see also [umsp-cmpc-transactions-up-to-2021.csv](./umsp-cmpc-transactions-up-to-2021.csv) was generated using:
