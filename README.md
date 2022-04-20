@@ -4,7 +4,7 @@
 [![https://archive.softwareheritage.org/badge/origin/https://github.com/jhpoelen/umsp-cmpc/](https://archive.softwareheritage.org/badge/origin/https://github.com/jhpoelen/umsp-cmpc)](https://archive.softwareheritage.org/browse/origin/?origin_url=https://github.com/jhpoelen/umsp-cmpc)
 
 
-This archive contains records related to the University of Minnesota Insect Collection https://insectcollection.umn.edu/ . This collection contains over 4M specimen mounted on slides, stuck on pins, or stored in viles. 
+This archive contains records related to the University of Minnesota Insect Collection https://insectcollection.umn.edu/ . This collection contains over 4M specimen mounted on slides, stuck on pins, or stored in vials. 
 
 # citation
 University of Minnesota Insect Collection (UMSP) CMPC Archive. 2021. https://github.com/jhpoelen/umsp-cmpc https://archive.softwareheritage.org/browse/origin/?origin_url=https://github.com/jhpoelen/umsp-cmpc hash://sha256/9da75fc73ac81bb81ea38a29206cc3dc29aefabf5d70403c6afa237464150c7b Also see https://insectcollection.umn.edu/ . 
