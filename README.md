@@ -340,3 +340,12 @@ TRICHOPTERA|STENOPSYCHIDAE
 TRICHOPTERA|TASIMIIDAE
 TRICHOPTERA|UENOIDAE
 TRICHOPTERA|XIPHOCENTRONIDAE
+
+
+## Running CMPC
+
+The application that helps to organize the collection management is CMPC.EXE. CMPC is a DOS program. DOS is an operating system that preceded the Windows operating system. 
+
+At time of writing, the following screenshot was made of CMPC.EXE running on Ubuntu 20.04 LTS via Wine (version wine-7.0, https://winehq.org) and DOSBox (version 0.74-3, https://www.dosbox.com).
+
+![CMPC.EXE on wine/DOSBox](img/CMPC_EXE_on_wine_7_0_and_DOSBox_0_74_3.png)
